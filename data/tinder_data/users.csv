@@ -1,0 +1,51 @@
+userId,userName,userType,age,socialPreference,interests,languages,travelStyle,preferredActivities,preferredCountries,likedUserIds,dislikedUserIds
+1,Aisha,Traveler,58,Small Group,"['Hiking', 'Nature', 'Shopping']","['English', 'Spanish']",Luxury,"['Boutiques', 'Local Markets', 'Hiking Trails']","['Egypt', 'Turkey']","[6, 44, 5, 49, 20, 28, 38]",[32]
+2,Tariq,Traveler,45,Couples,"['History', 'Adventure']","['English', 'Spanish']",Luxury,"['Mountain Climbing', 'Historical Tours']","['UAE', 'Saudi Arabia', 'Morocco']","[47, 14]",[37]
+3,Salma,Traveler,24,Family,"['Luxury', 'Nature']",['English'],Luxury,"['Luxury Shopping', 'Wildlife Photography']","['Saudi Arabia', 'Egypt']","[26, 32, 37]","[14, 4, 49]"
+4,Hana,Traveler,26,Family,"['Music', 'Photography', 'Art', 'Luxury']","['English', 'Turkish']",Standard,"['Art Galleries', 'Cityscape Photo Shoots', 'Fine Dining']","['Bahrain', 'Turkey', 'Italy']","[30, 37, 43, 10]","[47, 11, 12]"
+5,Laila,Guide,25,Family,"['Adventure', 'Music']","['English', 'French']",Adventure,"['Mountain Climbing', 'Desert Safaris']","['Germany', 'Bahrain']","[15, 7, 24, 50, 36]","[31, 22]"
+6,Khaled,Guide,29,Solo,"['Art', 'Hiking']","['English', 'French']",Standard,"['Art Galleries', 'Hiking Trails']","['Spain', 'Jordan']","[47, 12, 26, 15, 19, 20, 29]","[50, 18, 22]"
+7,Salma,Guide,51,Family,"['Shopping', 'Music', 'Adventure', 'Architecture']","['English', 'Arabic', 'Italian']",Standard,"['Local Markets', 'Live Music Venues']",['France'],"[32, 49, 44, 24]","[33, 23, 38]"
+8,Jana,Traveler,50,Solo,"['Food', 'Music']","['English', 'Arabic', 'Turkish']",Budget,"['Live Music Venues', 'Local Cuisine', 'Fine Dining']",['UAE'],[],"[6, 26, 4]"
+9,Aisha,Traveler,40,Couples,"['Architecture', 'History', 'Food']","['English', 'Turkish', 'Spanish']",Standard,"['Architectural Tours', 'Museums', 'Historical Tours']","['Algeria', 'Italy', 'Spain']",[],"[44, 2, 40]"
+10,Samir,Traveler,41,Solo,"['Shopping', 'Hiking', 'Food']","['English', 'German']",Budget,"['Hiking Trails', 'Local Markets']","['Jordan', 'Bahrain', 'Germany']",[49],[]
+11,Farah,Traveler,54,Couples,"['Photography', 'Food', 'Architecture']","['English', 'Italian']",Budget,"['Local Cuisine', 'Fine Dining']","['Egypt', 'Saudi Arabia', 'Spain']",[24],"[29, 12]"
+12,Yasmin,Traveler,52,Family,"['Photography', 'Music']",['English'],Standard,"['Live Music Venues', 'Wildlife Photography', 'Cityscape Photo Shoots']",['Algeria'],[],"[15, 14]"
+13,Laila,Traveler,61,Family,"['History', 'Art', 'Architecture']","['English', 'Italian']",Adventure,"['Historical Tours', 'Museums', 'Architectural Tours']","['Morocco', 'Egypt']","[47, 14, 48, 1, 37, 32, 49]",[20]
+14,Laila,Traveler,57,Couples,"['Music', 'Architecture', 'Shopping']",['English'],Adventure,"['Live Music Venues', 'Architectural Tours', 'Local Markets']","['Morocco', 'Spain']","[19, 47, 8, 10, 15]",[12]
+15,Mustafa,Guide,39,Small Group,"['Luxury', 'Culture', 'Music', 'Hiking']","['English', 'Arabic']",Adventure,"['Live Music Venues', 'Local Markets']",['Turkey'],"[6, 10]",[]
+16,Jana,Traveler,44,Couples,"['Art', 'Architecture', 'Adventure']",['English'],Adventure,"['Mountain Climbing', 'Desert Safaris', 'Architectural Tours']","['UAE', 'Turkey']","[46, 2, 12]",[]
+17,Anas,Traveler,52,Small Group,"['Nature', 'Art', 'Adventure']","['English', 'Spanish']",Adventure,"['Hiking Trails', 'Wildlife Photography']","['France', 'Egypt', 'Jordan']","[20, 34, 5, 10, 38]","[28, 15]"
+18,Khaled,Traveler,18,Solo,"['Adventure', 'Food']","['English', 'Italian', 'Arabic']",Standard,"['Desert Safaris', 'Fine Dining']","['Saudi Arabia', 'Bahrain']","[27, 34, 25, 1, 22]","[49, 42]"
+19,Mustafa,Traveler,52,Solo,"['Nature', 'Hiking', 'Photography']","['English', 'Spanish']",Standard,"['Cityscape Photo Shoots', 'Wildlife Photography', 'Hiking Trails']","['France', 'Egypt']","[2, 48, 41]","[12, 7]"
+20,Mariam,Traveler,54,Solo,"['Adventure', 'Culture', 'Photography', 'Architecture']",['English'],Luxury,"['Desert Safaris', 'Wildlife Photography', 'Mountain Climbing']","['Morocco', 'Italy']","[18, 46, 41, 12, 25, 1]",[]
+21,Hassan,Traveler,64,Family,"['Photography', 'Nature']",['English'],Adventure,"['Hiking Trails', 'Cityscape Photo Shoots', 'Wildlife Photography']",['Bahrain'],[14],[]
+22,Jana,Guide,31,Solo,"['Adventure', 'Culture']",['English'],Standard,"['Local Markets', 'Mountain Climbing']",['Jordan'],[9],"[36, 37]"
+23,Assil,Guide,20,Small Group,"['History', 'Adventure']",['English'],Luxury,"['Mountain Climbing', 'Museums', 'Historical Tours']",['Jordan'],[],[]
+24,Mustafa,Guide,18,Solo,"['Music', 'Luxury', 'Culture', 'Shopping']","['English', 'German']",Adventure,"['Boutiques', 'Fine Dining']","['Jordan', 'Algeria']","[45, 34, 15]","[7, 12]"
+25,Ahmed,Guide,22,Couples,"['Shopping', 'Food', 'Luxury']",['English'],Budget,"['Boutiques', 'Local Cuisine', 'Fine Dining']",['Morocco'],"[22, 11, 46, 50, 49, 42]","[32, 40]"
+26,Omar,Traveler,43,Couples,"['Adventure', 'Art', 'Luxury']","['English', 'Arabic', 'French']",Luxury,"['Mountain Climbing', 'Art Galleries', 'Desert Safaris']","['Algeria', 'France']","[8, 5, 49, 7]","[12, 38]"
+27,Assil,Guide,31,Family,"['Adventure', 'Music', 'History']","['English', 'Spanish']",Standard,"['Historical Tours', 'Live Music Venues']","['Jordan', 'Spain']","[43, 3]",[]
+28,Karim,Traveler,56,Couples,"['Culture', 'Music']","['English', 'Arabic']",Budget,"['Local Markets', 'City Walks', 'Live Music Venues']","['UAE', 'Germany', 'Saudi Arabia']",[],[37]
+29,Jana,Traveler,44,Small Group,"['Nature', 'Photography', 'Adventure', 'Hiking']","['English', 'Spanish', 'Arabic']",Budget,"['Desert Safaris', 'Cityscape Photo Shoots', 'Mountain Climbing']","['Saudi Arabia', 'UAE']",[12],[]
+30,Galal,Traveler,26,Solo,"['Hiking', 'Food']","['English', 'Spanish']",Budget,"['Fine Dining', 'Local Cuisine']","['Spain', 'Algeria']",[18],"[8, 34]"
+31,Ahmed,Traveler,32,Family,"['Food', 'Shopping']","['English', 'German']",Luxury,"['Local Markets', 'Boutiques', 'Local Cuisine']",['France'],"[48, 5, 32, 7, 45, 39, 36]","[24, 1]"
+32,Samir,Traveler,32,Solo,"['Food', 'Adventure', 'Shopping']","['English', 'Italian', 'German']",Standard,"['Desert Safaris', 'Local Cuisine']","['Italy', 'France']","[16, 48, 11, 29, 40, 45, 24]","[42, 44, 41]"
+33,Hassan,Traveler,43,Solo,"['Photography', 'Architecture']",['English'],Budget,"['Cityscape Photo Shoots', 'Architectural Tours']","['Morocco', 'France']","[22, 13, 8, 49, 18, 7]",[46]
+34,Salma,Guide,59,Small Group,"['Culture', 'Luxury']",['English'],Adventure,"['Local Markets', 'Luxury Shopping']","['Algeria', 'Turkey', 'France']","[6, 19, 46, 12]",[]
+35,Ahmed,Traveler,30,Couples,"['Music', 'Luxury', 'Architecture']","['English', 'Italian']",Budget,"['Architectural Tours', 'Live Music Venues', 'Luxury Shopping']","['Bahrain', 'France']","[37, 20, 28]","[50, 5]"
+36,Dina,Traveler,49,Couples,"['Hiking', 'Culture', 'Food', 'Nature']",['English'],Budget,"['Local Cuisine', 'Fine Dining']","['UAE', 'Morocco', 'Turkey']","[48, 3, 43, 46, 10, 27]",[6]
+37,Zainab,Traveler,56,Solo,"['Architecture', 'Adventure', 'Food', 'History']","['English', 'French']",Luxury,"['Local Cuisine', 'Desert Safaris', 'Historical Tours']","['Algeria', 'Jordan', 'Egypt']","[16, 20]","[48, 36, 7]"
+38,Rania,Traveler,49,Family,"['Luxury', 'Music', 'Food']","['English', 'Arabic']",Luxury,"['Local Cuisine', 'Live Music Venues', 'Fine Dining']",['France'],"[37, 47, 32]",[]
+39,Rania,Guide,21,Couples,"['Culture', 'Shopping', 'Hiking', 'Architecture']",['English'],Standard,"['Hiking Trails', 'City Walks', 'Local Markets']",['Morocco'],[],[43]
+40,Youssef,Traveler,47,Family,"['Photography', 'Nature']","['English', 'Italian', 'French']",Adventure,"['Cityscape Photo Shoots', 'Wildlife Photography', 'Hiking Trails']",['Algeria'],"[13, 35, 2, 7]",[]
+41,Karim,Guide,54,Couples,"['Adventure', 'Hiking']","['English', 'Arabic']",Luxury,"['Mountain Climbing', 'Hiking Trails', 'Desert Safaris']","['Algeria', 'Saudi Arabia', 'UAE']",[38],"[33, 30]"
+42,Karim,Guide,40,Family,"['History', 'Culture', 'Hiking']","['English', 'Turkish']",Budget,"['Hiking Trails', 'Historical Tours', 'Local Markets']",['Italy'],"[6, 36]","[38, 19]"
+43,Ali,Traveler,56,Small Group,"['Food', 'Shopping', 'Hiking']","['English', 'Arabic']",Standard,"['Boutiques', 'Hiking Trails']","['UAE', 'Germany']",[33],"[25, 26, 35]"
+44,Hana,Traveler,62,Family,"['Hiking', 'Adventure']",['English'],Budget,"['Mountain Climbing', 'Desert Safaris', 'Hiking Trails']","['Jordan', 'France']","[18, 19, 34, 28]","[20, 40]"
+45,Hana,Guide,32,Small Group,"['Architecture', 'Hiking', 'Music', 'Culture']",['English'],Budget,"['Architectural Tours', 'Live Music Venues']","['Morocco', 'Saudi Arabia']","[5, 35, 10, 30, 2]","[17, 34, 18]"
+46,Farah,Guide,60,Small Group,"['Architecture', 'Adventure', 'Photography', 'Art']","['English', 'French']",Luxury,"['Desert Safaris', 'Mountain Climbing', 'Wildlife Photography']","['Germany', 'France', 'Spain']","[36, 15]","[33, 1]"
+47,Ahmed,Guide,46,Family,"['Architecture', 'Nature']","['English', 'German']",Standard,"['Hiking Trails', 'Architectural Tours', 'Wildlife Photography']",['Turkey'],"[30, 22, 27, 44, 45, 18]","[41, 42]"
+48,Yasmin,Guide,53,Small Group,"['Luxury', 'Adventure', 'Hiking', 'Food']","['English', 'Arabic', 'French']",Adventure,"['Local Cuisine', 'Fine Dining']","['Turkey', 'France', 'Morocco']","[40, 37, 15, 9, 32, 47]",[]
+49,Tariq,Traveler,30,Solo,"['Art', 'Architecture', 'History']","['English', 'Turkish', 'Spanish']",Adventure,"['Architectural Tours', 'Art Galleries', 'Museums']","['UAE', 'Algeria', 'Bahrain']",[],[]
+50,Dina,Traveler,49,Small Group,"['Luxury', 'Hiking']","['English', 'Spanish', 'Arabic']",Luxury,"['Fine Dining', 'Hiking Trails']",['Italy'],"[1, 8]","[28, 36, 6]"
