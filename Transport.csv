@@ -1,0 +1,1198 @@
+Country,From,To,Transport Mode,Provider,Schedule,Route Info,Duration in hours,Price Range in USD,Cost Details and Options,Additional Info
+Algeria,Algiers,Adrar,Flight,Air Algérie,Daily,Direct,2,60-140,"Economy: $60-$90, Business: $140",Southwest desert
+Algeria,Algiers,Aïn Defla,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Central route
+Algeria,Algiers,Aïn Salah,Flight,Air Algérie,Daily,Direct,2,60-140,"Economy: $60-$90, Business: $140",Central Sahara
+Algeria,Algiers,Aïn Témouchent,Bus,ETUSA,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Western coast
+Algeria,Algiers,Annaba,Flight,Air Algérie,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Coastal link
+Algeria,Algiers,Batna,Flight,Air Algérie,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Aurès region
+Algeria,Algiers,Bejaïa,Bus,ETUSA,Several daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Coastal Kabylie
+Algeria,Algiers,Béjaïa,Flight,Air Algérie,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Kabylie coast
+Algeria,Algiers,Béni Abbès,Flight,Air Algérie,Daily,Direct,2,60-140,"Economy: $60-$90, Business: $140",Western Sahara
+Algeria,Algiers,Biskra,Train,SNTF,Several daily,Direct,8-10,15-35,"Standard: $15-$25, First-class: $35",Desert route
+Algeria,Algiers,Blida,Train,SNTF,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, First-class: $8",Short commuter route
+Algeria,Algiers,Bordj El Kiffan,Bus,ETUSA,Multiple daily,Direct,0.5,2-5,"Standard: $2-$3, Deluxe: $5",Suburban link
+Algeria,Algiers,Bou Saâda,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Oasis town
+Algeria,Algiers,Bouira,Bus,ETUSA,Multiple daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Kabylie gateway
+Algeria,Algiers,Boumerdès,Bus,ETUSA,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Deluxe: $10",Coastal short trip
+Algeria,Algiers,Chlef,Train,SNTF,Multiple daily,Direct,2-3,8-15,"Standard: $8-$12, First-class: $15",Central route
+Algeria,Algiers,Constantine,Train,SNTF,Multiple daily,Direct,6-7,15-30,"Standard: $15-$20, First-class: $30",Scenic eastern route
+Algeria,Algiers,Djanet,Flight,Air Algérie,Daily,Direct,2.5,60-150,"Economy: $60-$100, Business: $150",Tassili n'Ajjer
+Algeria,Algiers,Djelfa,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",High plateaus
+Algeria,Algiers,El Bayadh,Bus,ETUSA,Daily,Direct,6-7,15-30,"Standard: $15-$20, Deluxe: $30",High plateaus
+Algeria,Algiers,El Goléa,Bus,ETUSA,Daily,Direct,8-10,20-40,"Standard: $20-$30, Deluxe: $40",Sahara crossing
+Algeria,Algiers,El Oued,Flight,Air Algérie,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Sand dunes
+Algeria,Algiers,El Tarf,Bus,ETUSA,Daily,Direct,8-10,20-40,"Standard: $20-$30, Deluxe: $40",Far northeast
+Algeria,Algiers,Ghardaïa,Flight,Air Algérie,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Sahara gateway
+Algeria,Algiers,Hassi Messaoud,Flight,Air Algérie,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Oil hub
+Algeria,Algiers,Illizi,Flight,Air Algérie,Daily,Direct,2,60-140,"Economy: $60-$90, Business: $140",Southeast desert
+Algeria,Algiers,Laghouat,Bus,ETUSA,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Sahara edge
+Algeria,Algiers,M'Sila,Bus,ETUSA,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Central plains
+Algeria,Algiers,Mascara,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Western plains
+Algeria,Algiers,Médéa,Bus,ETUSA,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Atlas Mountains
+Algeria,Algiers,Oran,Train,SNTF,Multiple daily,Direct,4-5,10-25,"Standard: $10-$15, First-class: $25",Air-conditioned first-class available
+Algeria,Algiers,Ouargla,Flight,Air Algérie,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Oil region
+Algeria,Algiers,Relizane,Train,SNTF,Several daily,Direct,3-4,10-20,"Standard: $10-$15, First-class: $20",Western link
+Algeria,Algiers,Sidi Bel Abbès,Train,SNTF,Several daily,Direct,5-6,15-30,"Standard: $15-$20, First-class: $30",Western route
+Algeria,Algiers,Skikda,Train,SNTF,Several daily,Direct,7-8,15-35,"Standard: $15-$25, First-class: $35",Northeast coast
+Algeria,Algiers,Souk Ahras,Train,SNTF,Several daily,Direct,8-10,15-35,"Standard: $15-$25, First-class: $35",Eastern border
+Algeria,Algiers,Tamanrasset,Flight,Air Algérie,Daily,Direct,2.5,60-150,"Economy: $60-$100, Business: $150",Deep Sahara
+Algeria,Algiers,Tiaret,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Central steppe
+Algeria,Algiers,Timimoun,Flight,Air Algérie,Daily,Direct,2,60-140,"Economy: $60-$90, Business: $140",Red oasis
+Algeria,Algiers,Tindouf,Flight,Air Algérie,Daily,Direct,2.5,60-150,"Economy: $60-$100, Business: $150",Far southwest
+Algeria,Algiers,Tipaza,Bus,ETUSA,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Roman ruins
+Algeria,Algiers,Tissemsilt,Bus,ETUSA,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Central highlands
+Algeria,Algiers,Tizi Ouzou,Bus,ETUSA,Multiple daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Kabylie region
+Algeria,Algiers,Touggourt,Train,SNTF,Several daily,Direct,10-12,20-40,"Standard: $20-$30, First-class: $40",Sahara route
+Algeria,Constantine,Aïn Beïda,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Eastern plains
+Algeria,Constantine,Aïn Touta,Bus,ETUSA,Several daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Aurès foothills
+Algeria,Constantine,Annaba,Bus,ETUSA,Several daily,Direct,3-4,8-15,"Standard: $8-$12, Deluxe: $15",Eastern coast
+Algeria,Constantine,Batna,Bus,ETUSA,Several daily,Direct,2-3,5-12,"Standard: $5-$8, Deluxe: $12",Aurès Mountains
+Algeria,Constantine,Biskra,Bus,ETUSA,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Sahara edge
+Algeria,Constantine,Bordj Bou Arréridj,Bus,ETUSA,Multiple daily,Direct,2-3,5-12,"Standard: $5-$8, Deluxe: $12",Central east
+Algeria,Constantine,El Eulma,Bus,ETUSA,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Market town
+Algeria,Constantine,El Khroub,Bus,ETUSA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Deluxe: $8",Suburban route
+Algeria,Constantine,Guelma,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Northeast link
+Algeria,Constantine,Hamma Bouziane,Bus,ETUSA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Deluxe: $8",Suburban link
+Algeria,Constantine,Jijel,Bus,ETUSA,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Coastal cliffs
+Algeria,Constantine,Jijel,Flight,Air Algérie,Daily,Direct,0.5,30-80,"Economy: $30-$50, Business: $80",Short coastal hop
+Algeria,Constantine,Khenchela,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Aurès region
+Algeria,Constantine,Mila,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Northeast link
+Algeria,Constantine,Mila,Train,SNTF,Several daily,Direct,2-3,8-20,"Standard: $8-$12, First-class: $20",Northeast route
+Algeria,Constantine,Oum El Bouaghi,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Eastern highlands
+Algeria,Constantine,Sétif,Train,SNTF,Several daily,Direct,2-3,8-20,"Standard: $8-$12, First-class: $20",Eastern highlands
+Algeria,Constantine,Skikda,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Coastal northeast
+Algeria,Constantine,Souk Ahras,Bus,ETUSA,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Eastern border
+Algeria,Constantine,Tébessa,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Eastern border
+Algeria,Constantine,Tébessa,Train,SNTF,Several daily,Direct,4-5,10-25,"Standard: $10-$15, First-class: $25",Eastern link
+Algeria,Oran,Aïn Sefra,Bus,ETUSA,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Saharan Atlas
+Algeria,Oran,Aïn Témouchent,Bus,ETUSA,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Deluxe: $10",Western short link
+Algeria,Oran,Arzew,Bus,ETUSA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Deluxe: $8",Industrial port
+Algeria,Oran,Béchar,Bus,ETUSA,Daily,Direct,8-10,20-40,"Standard: $20-$30, Deluxe: $40",Western Sahara
+Algeria,Oran,Béni Saf,Bus,ETUSA,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Coastal fishing
+Algeria,Oran,Chlef,Bus,ETUSA,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Central west
+Algeria,Oran,El Abiodh Sidi Cheikh,Bus,ETUSA,Daily,Direct,6-7,15-30,"Standard: $15-$20, Deluxe: $30",Desert steppe
+Algeria,Oran,El Bayadh,Bus,ETUSA,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Steppe route
+Algeria,Oran,Ghazaouet,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Western coast
+Algeria,Oran,Mascara,Bus,ETUSA,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Wine region
+Algeria,Oran,Mecheria,Bus,ETUSA,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Steppe route
+Algeria,Oran,Mostaganem,Bus,ETUSA,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Coastal short trip
+Algeria,Oran,Naâma,Bus,ETUSA,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Western steppe
+Algeria,Oran,Relizane,Bus,ETUSA,Several daily,Direct,2-3,5-12,"Standard: $5-$8, Deluxe: $12",Western plains
+Algeria,Oran,Saïda,Bus,ETUSA,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Western highlands
+Algeria,Oran,Sidi Bel Abbès,Bus,ETUSA,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Western hub
+Algeria,Oran,Sig,Bus,ETUSA,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Western short trip
+Algeria,Oran,Tiaret,Bus,ETUSA,Daily,Direct,3-4,10-15,"Standard: $10-$12, Deluxe: $15",Steppe region
+Algeria,Oran,Tissemsilt,Bus,ETUSA,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Central west
+Algeria,Oran,Tlemcen,Bus,ETUSA,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Western connection
+Algeria,Oran,Tlemcen,Train,SNTF,Several daily,Direct,2-3,8-20,"Standard: $8-$12, First-class: $20",Western heritage
+Croatia,Dubrovnik,Osijek,Bus,Arriva,Daily,Direct,12-14,40-80,"Standard: $40-$60, Premium: $80",Eastern long
+Croatia,Dubrovnik,Osijek,Flight,Croatia Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+Croatia,Dubrovnik,Pula,Bus,FlixBus,Daily,Direct,12-14,40-80,"Standard: $40-$60, Premium: $80",Long coastal
+Croatia,Dubrovnik,Pula,Bus,Arriva,Daily,Direct,12-14,40-80,"Standard: $40-$60, Premium: $80",Long coastal
+Croatia,Dubrovnik,Pula,Flight,Croatia Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Cross-coastal
+Croatia,Dubrovnik,Rijeka,Bus,Arriva,Daily,Direct,10-12,35-70,"Standard: $35-$50, Premium: $70",Long coastal
+Croatia,Dubrovnik,Rijeka,Bus,FlixBus,Daily,Direct,10-12,35-70,"Standard: $35-$50, Premium: $70",Long coastal
+Croatia,Dubrovnik,Rijeka,Flight,Croatia Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Coastal hop
+Croatia,Dubrovnik,Šibenik,Bus,FlixBus,Several daily,Direct,5-6,20-50,"Standard: $20-$35, Premium: $50",Dalmatian coast
+Croatia,Dubrovnik,Šibenik,Bus,Arriva,Several daily,Direct,5-6,20-50,"Standard: $20-$35, Premium: $50",Dalmatian coast
+Croatia,Dubrovnik,Šibenik,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Dalmatian hop
+Croatia,Dubrovnik,Split,Bus,Arriva,Multiple daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Reverse coastal
+Croatia,Dubrovnik,Split,Bus,FlixBus,Multiple daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Reverse coastal
+Croatia,Dubrovnik,Varaždin,Bus,Arriva,Daily,Direct,12-14,40-80,"Standard: $40-$60, Premium: $80",Northern long
+Croatia,Dubrovnik,Varaždin,Bus,FlixBus,Daily,Direct,12-14,40-80,"Standard: $40-$60, Premium: $80",Northern long
+Croatia,Dubrovnik,Zadar,Bus,Arriva,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Dalmatian long
+Croatia,Dubrovnik,Zadar,Bus,FlixBus,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Dalmatian long
+Croatia,Dubrovnik,Zagreb,Bus,FlixBus,Several daily,Direct,10-12,30-60,"Standard: $30-$45, Premium: $60",Reverse journey
+Croatia,Dubrovnik,Zagreb,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Reverse hop
+Croatia,Rijeka,Pula,Bus,Arriva,Several daily,Direct,2-3,10-30,"Standard: $10-$20, Premium: $30",Istrian link
+Croatia,Split,Dubrovnik,Bus,FlixBus,Multiple daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Dalmatian coast
+Croatia,Split,Karlovac,Bus,Arriva,Daily,Direct,5-6,20-50,"Standard: $20-$35, Premium: $50",Central link
+Croatia,Split,Karlovac,Bus,FlixBus,Daily,Direct,5-6,20-50,"Standard: $20-$35, Premium: $50",Central link
+Croatia,Split,Osijek,Bus,Arriva,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Cross-country
+Croatia,Split,Osijek,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Eastern hop
+Croatia,Split,Poreč,Bus,FlixBus,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Istrian route
+Croatia,Split,Pula,Bus,Arriva,Several daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Cross-coastal
+Croatia,Split,Pula,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Istrian hop
+Croatia,Split,Rijeka,Bus,FlixBus,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Coastal long route
+Croatia,Split,Rijeka,Bus,Arriva,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Coastal long
+Croatia,Split,Rijeka,Bus,FlixBus,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Coastal long
+Croatia,Split,Rijeka,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Coastal hop
+Croatia,Split,Šibenik,Bus,FlixBus,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, Premium: $15",Short coastal
+Croatia,Split,Šibenik,Bus,Arriva,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, Premium: $15",Short coastal
+Croatia,Split,Slavonski Brod,Bus,FlixBus,Daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Eastern crossing
+Croatia,Split,Slavonski Brod,Bus,Arriva,Daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Eastern crossing
+Croatia,Split,Varaždin,Bus,Arriva,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Northern crossing
+Croatia,Split,Varaždin,Bus,FlixBus,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Northern crossing
+Croatia,Split,Zadar,Bus,FlixBus,Multiple daily,Direct,2-3,10-30,"Standard: $10-$20, Premium: $30",Coastal link
+Croatia,Split,Zadar,Bus,Arriva,Multiple daily,Direct,2-3,10-30,"Standard: $10-$20, Premium: $30",Reverse coastal
+Croatia,Split,Zadar,Flight,Croatia Airlines,Daily,Direct,0.5,30-80,"Economy: $30-$50, Business: $80",Short coastal hop
+Croatia,Split,Zagreb,Train,HŽPP,Several daily,Direct,6-7,20-50,"Standard: $20-$35, First-class: $50",Reverse route
+Croatia,Zagreb,Čakovec,Bus,Arriva,Several daily,Direct,2-2.5,15-35,"Standard: $15-$25, Premium: $35",Northern link
+Croatia,Zagreb,Čakovec,Train,HŽPP,Several daily,Direct,2-2.5,15-35,"Standard: $15-$25, First-class: $35",Northern link
+Croatia,Zagreb,Dubrovnik,Bus,Arriva,Several daily,Direct,10-12,30-60,"Standard: $30-$45, Premium: $60",Coastal journey
+Croatia,Zagreb,Dubrovnik,Flight,Croatia Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Southern hop
+Croatia,Zagreb,Karlovac,Bus,FlixBus,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Central short
+Croatia,Zagreb,Karlovac,Bus,Arriva,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Central short
+Croatia,Zagreb,Karlovac,Train,HŽPP,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, First-class: $25",Central short
+Croatia,Zagreb,Karlovac,Train,HŽPP,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, First-class: $25",Reverse short
+Croatia,Zagreb,Koprivnica,Bus,FlixBus,Several daily,Direct,1.5-2,10-30,"Standard: $10-$20, Premium: $30",Northern route
+Croatia,Zagreb,Koprivnica,Train,HŽPP,Several daily,Direct,1.5-2,10-30,"Standard: $10-$20, First-class: $30",Northern route
+Croatia,Zagreb,Osijek,Bus,FlixBus,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Eastern bus
+Croatia,Zagreb,Osijek,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Eastern hop
+Croatia,Zagreb,Osijek,Train,HŽPP,Several daily,Direct,3-4,15-40,"Standard: $15-$25, First-class: $40",Eastern Croatia
+Croatia,Zagreb,Osijek,Train,HŽPP,Several daily,Direct,3-4,15-40,"Standard: $15-$25, First-class: $40",Eastern link
+Croatia,Zagreb,Poreč,Bus,FlixBus,Several daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Istrian coast
+Croatia,Zagreb,Poreč,Bus,Arriva,Several daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Istrian coast
+Croatia,Zagreb,Pula,Bus,Arriva,Several daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Istrian route
+Croatia,Zagreb,Pula,Flight,Croatia Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Istrian hop
+Croatia,Zagreb,Rijeka,Bus,FlixBus,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Kvarner bus
+Croatia,Zagreb,Rijeka,Bus,Arriva,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Kvarner bus
+Croatia,Zagreb,Rijeka,Train,HŽPP,Several daily,Direct,3-4,15-40,"Standard: $15-$25, First-class: $40",Kvarner link
+Croatia,Zagreb,Rovinj,Bus,FlixBus,Several daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Istrian coast
+Croatia,Zagreb,Rovinj,Bus,Arriva,Several daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Istrian coast
+Croatia,Zagreb,Šibenik,Bus,Arriva,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Dalmatian inland
+Croatia,Zagreb,Šibenik,Bus,FlixBus,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Dalmatian inland
+Croatia,Zagreb,Šibenik,Flight,Croatia Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Dalmatian hop
+Croatia,Zagreb,Sisak,Bus,FlixBus,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Central short
+Croatia,Zagreb,Sisak,Train,HŽPP,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, First-class: $25",Central short
+Croatia,Zagreb,Slavonski Brod,Bus,Arriva,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Eastern bus
+Croatia,Zagreb,Slavonski Brod,Bus,FlixBus,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Eastern bus
+Croatia,Zagreb,Slavonski Brod,Train,HŽPP,Several daily,Direct,2-3,15-35,"Standard: $15-$25, First-class: $35",Eastern link
+Croatia,Zagreb,Split,Bus,FlixBus,Several daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Reverse Dalmatian
+Croatia,Zagreb,Split,Train,HŽPP,Several daily,Direct,6-7,20-50,"Standard: $20-$35, First-class: $50",Dalmatian route
+Croatia,Zagreb,Varaždin,Bus,FlixBus,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Northern short
+Croatia,Zagreb,Varaždin,Train,HŽPP,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, First-class: $25",Northern short
+Croatia,Zagreb,Vinkovci,Bus,FlixBus,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Eastern Slavonia
+Croatia,Zagreb,Vinkovci,Train,HŽPP,Several daily,Direct,3-4,15-40,"Standard: $15-$25, First-class: $40",Eastern Slavonia
+Croatia,Zagreb,Zadar,Bus,Arriva,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Northern Dalmatia
+Croatia,Zagreb,Zadar,Bus,FlixBus,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Northern Dalmatia
+Croatia,Zagreb,Zadar,Flight,Croatia Airlines,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Dalmatian hop
+Egypt,Alexandria,Aswan,Bus,Go Bus,Daily,Via Cairo,14-16,15-30,"Standard: $15-$20, Deluxe: $30",Wi-Fi on deluxe buses
+Egypt,Alexandria,Damietta,Bus,East Delta Bus,Several daily,Direct,5-6,10-20,"Standard: $10-$15, Deluxe: $20",Delta region route
+Egypt,Alexandria,El Alamein,Bus,West Delta Bus,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",WWII historical route
+Egypt,Alexandria,Kafr El Sheikh,Bus,East Delta Bus,Several daily,Direct,3-4,8-15,"Standard: $8-$10, Deluxe: $15",Delta agricultural region
+Egypt,Alexandria,Mersa Matruh,Bus,West Delta Bus,Several daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Coastal route
+Egypt,Alexandria,Port Said,Bus,East Delta Bus,Several daily,Direct,4-5,8-15,"Standard: $8-$10, Deluxe: $15",Basic amenities
+Egypt,Alexandria,Rosetta,Bus,West Delta Bus,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Historical coastal route
+Egypt,Aswan,Abu Simbel,Taxi,Private Taxi,On demand,Direct,3,30-50,Negotiable rate per trip,Shared taxis cheaper
+Egypt,Aswan,Kom Ombo,Taxi,Private Taxi,On demand,Direct,1-1.5,10-20,Negotiable per trip,Nile-side travel
+Egypt,Aswan,Luxor,Flight,EgyptAir,Few daily,Direct,1,40-120,"Economy: $40-$80, Business: $120",Limited flights
+Egypt,Cairo,Alexandria,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5, First-class: $15",Air-conditioned first-class available
+Egypt,Cairo,Assiut,Train,Egyptian National Railways,Multiple daily,Direct,5-6,10-25,"Standard: $10-$15, Sleeper: $25",Sleeper option available
+Egypt,Cairo,Aswan,Train,Egyptian National Railways,Multiple daily,Direct,10-12,10-40,"Standard: $10-$20, Sleeper: $40",Sleeper option overnight
+Egypt,Cairo,Beni Suef,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Air-conditioned available
+Egypt,Cairo,Dahab,Flight,EgyptAir,Few weekly,Direct,12-31,50-150,"Economy: $50-$100, Business: $150",Seasonal availability
+Egypt,Cairo,Fayoum,Microbus,Local Operators,Frequent,Direct,2-3,3-10,"Per seat, cash only","Crowded, no fixed schedule"
+Egypt,Cairo,Ismailia,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Air-conditioned available
+Egypt,Cairo,Luxor,Flight,EgyptAir,Multiple daily,Direct,12-31,50-150,"Economy: $50-$100, Business: $150",In-flight snacks on some flights
+Egypt,Cairo,Marsa Alam,Flight,EgyptAir,Few weekly,Direct,12-31,60-180,"Economy: $60-$120, Business: $180",Seasonal availability
+Egypt,Cairo,Minya,Train,Egyptian National Railways,Multiple daily,Direct,3-4,5-20,"Standard: $5-$10, First-class: $20",Air-conditioned available
+Egypt,Cairo,Quseir,Bus,Go Bus,Daily,Via Hurghada,12-14,15-30,"Standard: $15-$20, Deluxe: $30",Some with Wi-Fi
+Egypt,Cairo,Sharm el-Sheikh,Flight,Air Cairo,Daily,Direct,12-31,40-120,"Economy: $40-$80, Business: $120",Limited luggage included
+Egypt,Cairo,Siwa,Bus,West Delta Bus,Daily,Via Alexandria,12-14,15-30,"Standard: $15-$20, Deluxe: $30",Desert travel permit needed
+Egypt,Cairo,Sohag,Train,Egyptian National Railways,Multiple daily,Direct,6-8,10-30,"Standard: $10-$15, Sleeper: $30",Sleeper option overnight
+Egypt,Cairo,Suez,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Air-conditioned available
+Egypt,Cairo,Tanta,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Delta hub connection
+Egypt,Cairo,Zagazig,Train,Egyptian National Railways,Multiple daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Air-conditioned available
+Egypt,Giza,Hurghada,Bus,Super Jet,Several daily,Via Cairo,10-12,10-25,"Standard: $10-$15, VIP: $25",VIP includes extra legroom
+Egypt,Hurghada,El Gouna,Taxi,Local Taxi,On demand,Direct,0.5-1,5-15,Negotiable per trip,Short resort transfer
+Egypt,Hurghada,Luxor,Private Car,"Rental Companies (e.g., Avis)",On demand,Direct,4-5,50-100,Daily rental + fuel,GPS recommended
+Egypt,Hurghada,Marsa Alam,Bus,Super Jet,Daily,Direct,4-5,10-25,"Standard: $10-$15, VIP: $25",Coastal scenic route
+Egypt,Hurghada,Safaga,Taxi,Private Taxi,On demand,Direct,0.5-1,5-15,Negotiable per trip,Short coastal trip
+Egypt,Luxor,Aswan,Train,Egyptian National Railways,Multiple daily,Direct,3-4,5-20,"Standard: $5-$10, Sleeper: $20",Sleeper cabins available
+Egypt,Luxor,Edfu,Microbus,Local Operators,Frequent,Direct,1-2,3-8,"Per seat, cash only",Nile Valley route
+Egypt,Luxor,Hurghada,Bus,Go Bus,Several daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Some with Wi-Fi
+Egypt,Luxor,Qena,Microbus,Local Operators,Frequent,Direct,1-2,3-8,"Per seat, cash only",Frequent but informal
+Egypt,Port Said,Suez,Bus,East Delta Bus,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Canal Zone route
+Egypt,Sharm el-Sheikh,Dahab,Taxi,Local Taxi,On demand,Direct,12-31,10-20,Negotiable per trip,Shared options available
+Egypt,Sharm el-Sheikh,Hurghada,Bus,Go Bus,Several daily,Direct,4-5,10-25,"Standard: $10-$15, Deluxe: $25",Some with Wi-Fi
+Egypt,Sharm el-Sheikh,Nuweiba,Taxi,Private Taxi,On demand,Direct,2-3,20-40,Negotiable per trip,Coastal route
+Greece,Athens,Aegina,Ferry,Blue Star Ferries,Multiple daily,Direct,1-1.5,15-35,"Deck: $15-$25, Cabin: $35",Saronic short
+Greece,Athens,Alexandroupoli,Train,Hellenic Train,Several daily,Direct,10-12,40-90,"Standard: $40-$60, First-class: $90",Northern route
+Greece,Athens,Andros,Ferry,Fast Ferries,Several daily,Direct,2-3,20-50,"Deck: $20-$35, Cabin: $50",Cyclades short
+Greece,Athens,Arta,Bus,KTEL,Several daily,Direct,5-6,25-55,"Standard: $25-$40, Premium: $55",Epirus route
+Greece,Athens,Astypalea,Flight,Sky Express,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Dodecanese hop
+Greece,Athens,Chalkida,Train,Hellenic Train,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, First-class: $25",Short trip
+Greece,Athens,Chania,Ferry,ANEK Lines,Several daily,Direct,9-10,35-80,"Deck: $35-$55, Cabin: $80",Crete overnight
+Greece,Athens,Chania,Flight,Olympic Air,Multiple daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Western Crete
+Greece,Athens,Chios,Flight,Sky Express,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Aegean island
+Greece,Athens,Corfu,Ferry,Minoan Lines,Several daily,Via Igoumenitsa,12-14,40-90,"Deck: $40-$60, Cabin: $90",Ionian route
+Greece,Athens,Corfu,Flight,Olympic Air,Several daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Ionian island
+Greece,Athens,Drama,Bus,KTEL,Daily,Direct,8-9,35-70,"Standard: $35-$50, Premium: $70",Northern route
+Greece,Athens,Florina,Bus,KTEL,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Northern mountains
+Greece,Athens,Heraklion,Ferry,Minoan Lines,Several daily,Direct,8-9,35-80,"Deck: $35-$55, Cabin: $80",Crete overnight
+Greece,Athens,Heraklion,Flight,Olympic Air,Multiple daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Crete connection
+Greece,Athens,Igoumenitsa,Bus,KTEL,Several daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Ionian gateway
+Greece,Athens,Ikaria,Flight,Sky Express,Several daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Aegean island
+Greece,Athens,Ioannina,Bus,KTEL,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Epirus route
+Greece,Athens,Ithaca,Ferry,Levante Ferries,Several daily,Via Kefalonia,6-7,30-70,"Deck: $30-$50, Cabin: $70",Ionian route
+Greece,Athens,Kalamata,Bus,KTEL,Several daily,Direct,3-4,20-45,"Standard: $20-$35, Premium: $45",Peloponnese south
+Greece,Athens,Kalamata,Train,Hellenic Train,Several daily,Direct,5-6,25-60,"Standard: $25-$40, First-class: $60",Peloponnese south
+Greece,Athens,Karditsa,Bus,KTEL,Several daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Thessaly inland
+Greece,Athens,Karpathos,Flight,Sky Express,Several daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Dodecanese island
+Greece,Athens,Kastoria,Bus,KTEL,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Northern lakes
+Greece,Athens,Kavala,Flight,Olympic Air,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Northern hop
+Greece,Athens,Kefalonia,Flight,Sky Express,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Ionian island
+Greece,Athens,Kilkis,Bus,KTEL,Daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Northern Greece
+Greece,Athens,Kos,Flight,Aegean Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Dodecanese hop
+Greece,Athens,Kythira,Ferry,ANEK Lines,Several daily,Direct,6-7,30-70,"Deck: $30-$50, Cabin: $70",Ionian island
+Greece,Athens,Lamia,Bus,KTEL,Several daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Central Greece
+Greece,Athens,Larissa,Train,Hellenic Train,Several daily,Direct,3-4,20-50,"Standard: $20-$35, First-class: $50",Central Greece
+Greece,Athens,Lemnos,Flight,Aegean Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Northern Aegean
+Greece,Athens,Leros,Flight,Olympic Air,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Dodecanese hop
+Greece,Athens,Lesvos,Flight,Aegean Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Aegean island
+Greece,Athens,Messolonghi,Bus,KTEL,Several daily,Direct,3-4,20-45,"Standard: $20-$35, Premium: $45",Western Greece
+Greece,Athens,Milos,Ferry,Blue Star Ferries,Several daily,Direct,6-7,30-70,"Deck: $30-$50, Cabin: $70",Cyclades route
+Greece,Athens,Mykonos,Ferry,Hellenic Seaways,Multiple daily,Direct,4-5,25-60,"Deck: $25-$40, Cabin: $60",High-speed option
+Greece,Athens,Mykonos,Flight,Aegean Airlines,Multiple daily,Direct,0.5-1,40-100,"Economy: $40-$70, Business: $100",Cyclades hop
+Greece,Athens,Nafplio,Bus,KTEL,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Peloponnese short
+Greece,Athens,Naxos,Ferry,Hellenic Seaways,Multiple daily,Direct,5-6,30-70,"Deck: $30-$50, Cabin: $70",Cyclades route
+Greece,Athens,Paros,Ferry,Blue Star Ferries,Multiple daily,Direct,4-5,25-60,"Deck: $25-$40, Cabin: $60",Cyclades island
+Greece,Athens,Patras,Bus,KTEL,Multiple daily,Direct,3-4,20-45,"Standard: $20-$35, Premium: $45",Western link
+Greece,Athens,Patras,Ferry,ANEK Lines,Several daily,Via Corinth,5-6,25-60,"Deck: $25-$40, Cabin: $60",Gulf crossing
+Greece,Athens,Patras,Train,Hellenic Train,Several daily,Direct,3-4,20-50,"Standard: $20-$35, First-class: $50",Peloponnese link
+Greece,Athens,Poros,Ferry,Hellenic Seaways,Multiple daily,Direct,2-3,20-50,"Deck: $20-$35, Cabin: $50",Saronic Gulf
+Greece,Athens,Rhodes,Ferry,Blue Star Ferries,Several daily,Direct,12-14,40-90,"Deck: $40-$60, Cabin: $90",Long Aegean
+Greece,Athens,Rhodes,Flight,Aegean Airlines,Multiple daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Dodecanese hop
+Greece,Athens,Samos,Flight,Olympic Air,Several daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Eastern Aegean
+Greece,Athens,Santorini,Ferry,Blue Star Ferries,Several daily,Direct,7-8,30-70,"Deck: $30-$50, Cabin: $70",Piraeus departure
+Greece,Athens,Santorini,Flight,Aegean Airlines,Multiple daily,Direct,0.5-1,40-100,"Economy: $40-$70, Business: $100",Island hop
+Greece,Athens,Serres,Bus,KTEL,Several daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Northern Greece
+Greece,Athens,Skiathos,Flight,Sky Express,Several daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Sporades hop
+Greece,Athens,Skopelos,Ferry,Hellenic Seaways,Several daily,Direct,5-6,30-70,"Deck: $30-$50, Cabin: $70",Sporades route
+Greece,Athens,Skyros,Flight,Olympic Air,Several daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Sporades hop
+Greece,Athens,Spetses,Ferry,Hellenic Seaways,Several daily,Direct,2-3,20-50,"Deck: $20-$35, Cabin: $50",Saronic Gulf
+Greece,Athens,Symi,Ferry,Blue Star Ferries,Several daily,Via Rhodes,10-12,35-80,"Deck: $35-$55, Cabin: $80",Dodecanese route
+Greece,Athens,Syros,Ferry,Hellenic Seaways,Several daily,Direct,3-4,25-60,"Deck: $25-$40, Cabin: $60",Cyclades short
+Greece,Athens,Thasos,Ferry,Thasos Ferries,Several daily,Via Kavala,4-5,25-60,"Deck: $25-$40, Cabin: $60",Northern Aegean
+Greece,Athens,Thessaloniki,Bus,KTEL,Multiple daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Northern route
+Greece,Athens,Thessaloniki,Train,Hellenic Train,Multiple daily,Direct,4.5-5,30-70,"Standard: $30-$50, First-class: $70",Mainland route
+Greece,Athens,Tinos,Ferry,Hellenic Seaways,Several daily,Direct,4-5,25-60,"Deck: $25-$40, Cabin: $60",Cyclades route
+Greece,Athens,Tripoli,Bus,KTEL,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Peloponnese inland
+Greece,Athens,Volos,Bus,KTEL,Several daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Thessaly coast
+Greece,Athens,Xanthi,Bus,KTEL,Daily,Direct,8-9,35-70,"Standard: $35-$50, Premium: $70",Thrace region
+Greece,Athens,Zakynthos,Flight,Sky Express,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Ionian hop
+Greece,Thessaloniki,Athens,Flight,Aegean Airlines,Multiple daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Reverse hop
+Greece,Thessaloniki,Chalkidiki,Bus,KTEL,Multiple daily,Direct,1-2,10-25,"Standard: $10-$15, Premium: $25",Peninsula trip
+Greece,Thessaloniki,Chania,Flight,Aegean Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Crete hop
+Greece,Thessaloniki,Corfu,Flight,Aegean Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Ionian hop
+Greece,Thessaloniki,Heraklion,Flight,Olympic Air,Daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Crete hop
+Greece,Thessaloniki,Ioannina,Bus,KTEL,Daily,Direct,4-5,20-50,"Standard: $20-$35, Premium: $50",Epirus crossing
+Greece,Thessaloniki,Kalamata,Bus,KTEL,Daily,Direct,9-10,40-80,"Standard: $40-$60, Premium: $80",Southern long
+Greece,Thessaloniki,Kalamata,Flight,Aegean Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Southern hop
+Greece,Thessaloniki,Kavala,Bus,KTEL,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Eastern Macedonia
+Greece,Thessaloniki,Kavala,Train,Hellenic Train,Several daily,Direct,2-3,15-35,"Standard: $15-$25, First-class: $35",Northern rail
+Greece,Thessaloniki,Kos,Flight,Aegean Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Dodecanese hop
+Greece,Thessaloniki,Larissa,Bus,KTEL,Several daily,Direct,2-3,15-35,"Standard: $15-$25, Premium: $35",Thessaly link
+Greece,Thessaloniki,Larissa,Train,Hellenic Train,Several daily,Direct,2-3,15-35,"Standard: $15-$25, First-class: $35",Thessaly rail
+Greece,Thessaloniki,Lesvos,Flight,Aegean Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Aegean hop
+Greece,Thessaloniki,Mykonos,Flight,Aegean Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Cyclades hop
+Greece,Thessaloniki,Nafplio,Bus,KTEL,Daily,Direct,8-9,35-70,"Standard: $35-$50, Premium: $70",Peloponnese long
+Greece,Thessaloniki,Patras,Bus,KTEL,Daily,Direct,7-8,30-60,"Standard: $30-$45, Premium: $60",Cross-country
+Greece,Thessaloniki,Rhodes,Flight,Aegean Airlines,Daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Dodecanese hop
+Greece,Thessaloniki,Samos,Flight,Aegean Airlines,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Aegean hop
+Greece,Thessaloniki,Santorini,Flight,Aegean Airlines,Daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Island hop
+Greece,Thessaloniki,Skiathos,Flight,Olympic Air,Daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Sporades hop
+Greece,Thessaloniki,Volos,Bus,KTEL,Several daily,Direct,3-4,20-45,"Standard: $20-$35, Premium: $45",Thessaly route
+Greece,Thessaloniki,Volos,Train,Hellenic Train,Several daily,Direct,3-4,20-50,"Standard: $20-$35, First-class: $50",Thessaly rail
+Greece,Thessaloniki,Zakynthos,Flight,Aegean Airlines,Daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Ionian hop
+Italy,Florence,Arezzo,Train,Trenitalia,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, First-class: $40",Tuscany art
+Italy,Florence,Bologna,Train,Trenitalia,Multiple daily,Direct,0.5-1,15-40,"Standard: $15-$25, First-class: $40",Short link
+Italy,Florence,Livorno,Train,Trenitalia,Multiple daily,Direct,1.5-2,20-50,"Standard: $20-$35, First-class: $50",Tuscany port
+Italy,Florence,Lucca,Train,Trenitalia,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, First-class: $40",Tuscany walls
+Italy,Florence,Milan,Bus,FlixBus,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Budget option
+Italy,Florence,Naples,Train,Trenitalia Frecciarossa,Multiple daily,Direct,2.5-3,40-100,"Standard: $40-$70, Business: $100",Southern link
+Italy,Florence,Pisa,Train,Trenitalia,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, First-class: $40",Tuscany short
+Italy,Florence,Prato,Train,Trenitalia,Multiple daily,Direct,12-30,5-20,"Standard: $5-$15, First-class: $20",Tuscany short
+Italy,Florence,Rome,Bus,FlixBus,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Premium: $40",Reverse central
+Italy,Florence,Siena,Bus,Tiemme,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Tuscan hills
+Italy,Florence,Venice,Train,Trenitalia,Several daily,Direct,2-2.5,30-80,"Standard: $30-$50, First-class: $80",Art cities
+Italy,Milan,Bergamo,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Lombardy short
+Italy,Milan,Bologna,Train,Italo,Multiple daily,Direct,1-1.5,25-70,"Standard: $25-$45, Prima: $70",High-speed alternative
+Italy,Milan,Brescia,Train,Trenitalia,Multiple daily,Direct,0.5-1,15-40,"Standard: $15-$25, First-class: $40",Lombardy short
+Italy,Milan,Como,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Lake Como
+Italy,Milan,Cremona,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Lombardy music
+Italy,Milan,Florence,Train,Trenitalia Frecciarossa,Multiple daily,Direct,1.5-2,30-80,"Standard: $30-$50, Business: $80",Central connection
+Italy,Milan,Genoa,Train,Trenitalia,Multiple daily,Direct,1.5-2,25-60,"Standard: $25-$40, First-class: $60",Ligurian coast
+Italy,Milan,Lecco,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Lake Como north
+Italy,Milan,Mantua,Train,Trenitalia,Multiple daily,Direct,1.5-2,25-60,"Standard: $25-$40, First-class: $60",Lombardy Renaissance
+Italy,Milan,Modena,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Emilia-Romagna
+Italy,Milan,Monza,Train,Trenitalia,Multiple daily,Direct,12-30,5-20,"Standard: $5-$15, First-class: $20",Lombardy short
+Italy,Milan,Naples,Train,Trenitalia Frecciarossa,Multiple daily,Direct,5-5.5,60-130,"Standard: $60-$90, Business: $130",Long high-speed
+Italy,Milan,Novara,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Piedmont short
+Italy,Milan,Padua,Train,Trenitalia,Multiple daily,Direct,2-2.5,30-70,"Standard: $30-$50, First-class: $70",Veneto link
+Italy,Milan,Parma,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Emilia-Romagna
+Italy,Milan,Pavia,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Lombardy south
+Italy,Milan,Piacenza,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Emilia-Romagna
+Italy,Milan,Ravenna,Train,Trenitalia,Several daily,Via Bologna,2-3,30-70,"Standard: $30-$50, First-class: $70",Byzantine route
+Italy,Milan,Rome,Flight,Ryanair,Daily,Direct,1.5,30-80,"Economy: $30-$50, Priority: $80",Budget option
+Italy,Milan,Turin,Train,Trenitalia Frecciarossa,Multiple daily,Direct,1-1.5,20-60,"Standard: $20-$40, Business: $60",Piedmont link
+Italy,Milan,Venice,Train,Trenitalia Frecciarossa,Multiple daily,Direct,2.5-3,40-100,"Standard: $40-$70, Business: $100",Northeast route
+Italy,Milan,Verona,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Veneto link
+Italy,Milan,Vicenza,Train,Trenitalia,Multiple daily,Direct,1.5-2,25-60,"Standard: $25-$40, First-class: $60",Veneto route
+Italy,Naples,Bari,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Southern coast
+Italy,Naples,Rome,Bus,FlixBus,Several daily,Direct,2-3,10-30,"Standard: $10-$20, Premium: $30",Short southern
+Italy,Naples,Salerno,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-25,"Standard: $10-$15, First-class: $25",Amalfi coast link
+Italy,Rome,Alghero,Flight,ITA Airways,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Sardinia northwest
+Italy,Rome,Ancona,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Adriatic route
+Italy,Rome,Aosta,Train,Trenitalia,Several daily,Via Turin,6-7,60-130,"Standard: $60-$90, First-class: $130",Alpine northwest
+Italy,Rome,Aquila,Train,Trenitalia,Several daily,Direct,2-3,25-60,"Standard: $25-$40, First-class: $60",Abruzzo mountains
+Italy,Rome,Bari,Flight,ITA Airways,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Adriatic hop
+Italy,Rome,Bari,Train,Trenitalia,Several daily,Direct,4-5,40-90,"Standard: $40-$60, First-class: $90",Adriatic coast
+Italy,Rome,Bologna,Train,Trenitalia Frecciarossa,Multiple daily,Direct,2-2.5,35-90,"Standard: $35-$60, Business: $90",Central route
+Italy,Rome,Bolzano,Train,Trenitalia,Several daily,Via Verona,5-6,50-110,"Standard: $50-$80, First-class: $110",South Tyrol
+Italy,Rome,Brindisi,Train,Trenitalia,Several daily,Direct,5-6,50-110,"Standard: $50-$80, First-class: $110",Apulia route
+Italy,Rome,Cagliari,Flight,ITA Airways,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Sardinia hop
+Italy,Rome,Campobasso,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Molise route
+Italy,Rome,Catania,Flight,ITA Airways,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Eastern Sicily
+Italy,Rome,Civitavecchia,Train,Trenitalia,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, First-class: $40",Port link
+Italy,Rome,Florence,Train,Trenitalia Frecciarossa,Multiple daily,Direct,1.5-2,30-80,"Standard: $30-$50, Business: $80",High-speed link
+Italy,Rome,Foggia,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Apulia link
+Italy,Rome,Genoa,Train,Trenitalia,Several daily,Direct,4-5,40-90,"Standard: $40-$60, First-class: $90",Ligurian route
+Italy,Rome,Grosseto,Train,Trenitalia,Several daily,Direct,2-3,25-60,"Standard: $25-$40, First-class: $60",Tuscany coast
+Italy,Rome,La Spezia,Train,Trenitalia,Several daily,Direct,4-5,40-90,"Standard: $40-$60, First-class: $90",Cinque Terre gateway
+Italy,Rome,Lamezia Terme,Flight,ITA Airways,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Calabria hop
+Italy,Rome,Lecce,Train,Trenitalia,Several daily,Direct,5-6,50-110,"Standard: $50-$80, First-class: $110",Apulia south
+Italy,Rome,Matera,Bus,FlixBus,Several daily,Direct,5-6,20-50,"Standard: $20-$35, Premium: $50",Sassi city
+Italy,Rome,Messina,Train,Trenitalia,Several daily,Via ferry,6-7,60-130,"Standard: $60-$90, First-class: $130",Sicily crossing
+Italy,Rome,Milan,Bus,FlixBus,Several daily,Direct,7-8,20-50,"Standard: $20-$35, Premium: $50",Overnight option
+Italy,Rome,Milan,Train,Trenitalia Frecciarossa,Multiple daily,Direct,3-3.5,50-120,"Standard: $50-$80, Business: $120",High-speed rail
+Italy,Rome,Naples,Train,Trenitalia Frecciarossa,Multiple daily,Direct,1-1.5,25-70,"Standard: $25-$45, Business: $70",Southern high-speed
+Italy,Rome,Olbia,Flight,ITA Airways,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Sardinia coast
+Italy,Rome,Oristano,Flight,ITA Airways,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Sardinia west
+Italy,Rome,Palermo,Flight,ITA Airways,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Sicily hop
+Italy,Rome,Perugia,Train,Trenitalia,Several daily,Direct,2-3,25-60,"Standard: $25-$40, First-class: $60",Umbria route
+Italy,Rome,Pescara,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Abruzzo coast
+Italy,Rome,Pisa,Train,Trenitalia Frecciarossa,Multiple daily,Direct,2.5-3,35-90,"Standard: $35-$60, Business: $90",Tuscany route
+Italy,Rome,Potenza,Train,Trenitalia,Several daily,Direct,4-5,40-90,"Standard: $40-$60, First-class: $90",Basilicata route
+Italy,Rome,Reggio Calabria,Train,Trenitalia,Several daily,Direct,5-6,50-110,"Standard: $50-$80, First-class: $110",Toe of Italy
+Italy,Rome,Rimini,Train,Trenitalia,Several daily,Direct,3-4,30-70,"Standard: $30-$50, First-class: $70",Adriatic resort
+Italy,Rome,Salerno,Train,Trenitalia Frecciarossa,Multiple daily,Direct,2-2.5,35-90,"Standard: $35-$60, Business: $90",Amalfi gateway
+Italy,Rome,Sassari,Flight,ITA Airways,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Sardinia north
+Italy,Rome,Siracusa,Train,Trenitalia,Several daily,Via ferry,7-8,60-130,"Standard: $60-$90, First-class: $130",Sicily southeast
+Italy,Rome,Taranto,Train,Trenitalia,Several daily,Direct,5-6,50-110,"Standard: $50-$80, First-class: $110",Apulia gulf
+Italy,Rome,Trapani,Flight,ITA Airways,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Western Sicily
+Italy,Rome,Trento,Train,Trenitalia,Several daily,Direct,4-5,40-90,"Standard: $40-$60, First-class: $90",Alpine route
+Italy,Rome,Trieste,Train,Trenitalia,Several daily,Direct,5-6,50-110,"Standard: $50-$80, First-class: $110",Northeast coast
+Italy,Rome,Turin,Train,Trenitalia Frecciarossa,Multiple daily,Direct,4-4.5,50-120,"Standard: $50-$80, Business: $120",Northwest high-speed
+Italy,Rome,Udine,Train,Trenitalia,Several daily,Direct,6-7,60-130,"Standard: $60-$90, First-class: $130",Friuli route
+Italy,Rome,Venice,Train,Italo,Multiple daily,Direct,3.5-4,50-110,"Standard: $50-$80, Prima: $110",High-speed alternative
+Italy,Venice,Bologna,Train,Trenitalia,Multiple daily,Direct,1.5-2,25-60,"Standard: $25-$40, First-class: $60",Central link
+Italy,Venice,Ferrara,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Emilia-Romagna
+Italy,Venice,Padua,Train,Trenitalia,Multiple daily,Direct,0.5-1,10-30,"Standard: $10-$20, First-class: $30",Veneto short
+Italy,Venice,Ravenna,Train,Trenitalia,Several daily,Via Bologna,2-3,30-70,"Standard: $30-$50, First-class: $70",Byzantine coast
+Italy,Venice,Treviso,Train,Trenitalia,Multiple daily,Direct,0.5,5-20,"Standard: $5-$15, First-class: $20",Veneto short
+Italy,Venice,Trieste,Train,Trenitalia,Multiple daily,Direct,2-2.5,25-60,"Standard: $25-$40, First-class: $60",Northeast coast
+Italy,Venice,Verona,Train,Trenitalia,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Veneto short trip
+Malta,Mosta,Attard,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Short central
+Malta,Mosta,Birżebbuġa,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Southern route
+Malta,Mosta,Ċirkewwa,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Ferry terminal
+Malta,Mosta,Dingli,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Western link
+Malta,Mosta,Lija,Bus,Malta Public Transport,Several daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Short central
+Malta,Mosta,Marsaxlokk,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Fishing village
+Malta,Mosta,Mdina,Bus,Malta Public Transport,Multiple daily,Direct,0.25,2-5,"Standard: $2-$3, Day pass: $5",Short historic
+Malta,Mosta,Mellieħa,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern beach
+Malta,Mosta,Naxxar,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Short northern
+Malta,Mosta,Rabat,Bus,Malta Public Transport,Several daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Short central
+Malta,Mosta,St. Julian's,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Nightlife link
+Malta,Mosta,St. Paul's Bay,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern link
+Malta,Mosta,Victoria (Gozo),Bus+Ferry,Malta Public Transport + Gozo Channel,Multiple daily,Via Ċirkewwa,1.5-2,7-15,"Bus: $2-$3, Ferry: $5-$7",Gozo capital
+Malta,Mosta,Żurrieq,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Southern link
+Malta,Sliema,Attard,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central link
+Malta,Sliema,Balzan,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central short
+Malta,Sliema,Birgu,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Sliema,Birżebbuġa,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Southern route
+Malta,Sliema,Bormla,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Sliema,Ċirkewwa,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Ferry terminal
+Malta,Sliema,Għargħur,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern link
+Malta,Sliema,Lija,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central route
+Malta,Sliema,Marsaxlokk,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Fishing village
+Malta,Sliema,Mdina,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Historic trip
+Malta,Sliema,Mellieħa,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Northern beach
+Malta,Sliema,Mosta,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central link
+Malta,Sliema,Naxxar,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern link
+Malta,Sliema,Rabat,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Central route
+Malta,Sliema,Senglea,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Sliema,Siġġiewi,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Southwest route
+Malta,Sliema,St. Julian's,Bus,Malta Public Transport,Multiple daily,Direct,12-30,2-5,"Standard: $2-$3, Day pass: $5",Short hop
+Malta,Sliema,Valletta,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Reverse coastal
+Malta,Sliema,Victoria (Gozo),Bus+Ferry,Malta Public Transport + Gozo Channel,Multiple daily,Via Ċirkewwa,1.5-2,7-15,"Bus: $2-$3, Ferry: $5-$7",Gozo capital
+Malta,Sliema,Żurrieq,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Southern route
+Malta,Valletta,Attard,Bus,Malta Public Transport,Multiple daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central village
+Malta,Valletta,Attard,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Central village
+Malta,Valletta,Balzan,Bus,Malta Public Transport,Multiple daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central short
+Malta,Valletta,Balzan,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Central short
+Malta,Valletta,Birgu,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Valletta,Birgu,Taxi,eCabs,On demand,Direct,0.25-0.5,10-20,Standard fare,Three Cities
+Malta,Valletta,Birżebbuġa,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Southern coast
+Malta,Valletta,Birżebbuġa,Taxi,Bolt,On demand,Direct,0.75-1,20-30,Standard fare,Southern coast
+Malta,Valletta,Bormla,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Valletta,Bormla,Taxi,eCabs,On demand,Direct,0.25-0.5,10-20,Standard fare,Three Cities
+Malta,Valletta,Ċirkewwa,Bus,Malta Public Transport,Multiple daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Ferry terminal
+Malta,Valletta,Ċirkewwa,Taxi,eCabs,On demand,Direct,1-1.25,25-40,Standard fare,Ferry terminal
+Malta,Valletta,Dingli,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Western cliffs
+Malta,Valletta,Dingli,Taxi,eCabs,On demand,Direct,0.75-1,20-30,Standard fare,Western cliffs
+Malta,Valletta,Għargħur,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern village
+Malta,Valletta,Għargħur,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Northern village
+Malta,Valletta,Ġżira,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Urban short
+Malta,Valletta,Lija,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central village
+Malta,Valletta,Lija,Taxi,Bolt,On demand,Direct,0.5-0.75,15-25,Standard fare,Central village
+Malta,Valletta,Marsaskala,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Southeast coast
+Malta,Valletta,Marsaskala,Taxi,Bolt,On demand,Direct,0.75-1,20-30,Standard fare,Southeast coast
+Malta,Valletta,Marsaxlokk,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Fishing village
+Malta,Valletta,Mdina,Bus,Malta Public Transport,Multiple daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Historic route
+Malta,Valletta,Mdina,Taxi,Bolt,On demand,Direct,0.5-0.75,15-25,Standard fare,Historic route
+Malta,Valletta,Mellieħa,Bus,Malta Public Transport,Several daily,Direct,1-1.25,2-5,"Standard: $2-$3, Day pass: $5",Beach area
+Malta,Valletta,Mġarr (Gozo),Ferry,Gozo Channel,Multiple daily,Direct,0.5,5-10,"Passenger: $5-$7, Car: $10",Gozo crossing
+Malta,Valletta,Mġarr (Gozo),Taxi+Ferry,eCabs + Gozo Channel,On demand,Via Ċirkewwa,1-1.5,25-40,"Taxi: $20-$30, Ferry: $5-$7",Gozo crossing
+Malta,Valletta,Mosta,Bus,Malta Public Transport,Multiple daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central dome
+Malta,Valletta,Mosta,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Central trip
+Malta,Valletta,Naxxar,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Northern village
+Malta,Valletta,Naxxar,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Northern village
+Malta,Valletta,Paola,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Southern short
+Malta,Valletta,Paola,Taxi,eCabs,On demand,Direct,0.25-0.5,10-20,Standard fare,Southern short
+Malta,Valletta,Pembroke,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Northern short
+Malta,Valletta,Qormi,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Industrial area
+Malta,Valletta,Qormi,Taxi,Bolt,On demand,Direct,0.25-0.5,10-20,Standard fare,Industrial area
+Malta,Valletta,Rabat,Bus,Malta Public Transport,Multiple daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Near Mdina
+Malta,Valletta,Rabat,Taxi,Bolt,On demand,Direct,0.5-0.75,15-25,Standard fare,Near Mdina
+Malta,Valletta,Senglea,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Three Cities
+Malta,Valletta,Senglea,Taxi,Bolt,On demand,Direct,0.25-0.5,10-20,Standard fare,Three Cities
+Malta,Valletta,Siġġiewi,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Southwest village
+Malta,Valletta,Siġġiewi,Taxi,Bolt,On demand,Direct,0.75-1,20-30,Standard fare,Southwest village
+Malta,Valletta,Sliema,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Short coastal
+Malta,Valletta,Sliema,Taxi,eCabs,On demand,Direct,0.25-0.5,10-20,Standard fare,Coastal trip
+Malta,Valletta,St. Julian's,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Nightlife area
+Malta,Valletta,St. Julian's,Taxi,eCabs,On demand,Direct,0.25-0.5,10-20,Standard fare,Nightlife area
+Malta,Valletta,St. Paul's Bay,Bus,Malta Public Transport,Multiple daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Northern coast
+Malta,Valletta,St. Paul's Bay,Taxi,Bolt,On demand,Direct,0.75-1,20-30,Standard fare,Northern coast
+Malta,Valletta,Swieqi,Bus,Malta Public Transport,Multiple daily,Direct,0.25-0.5,2-5,"Standard: $2-$3, Day pass: $5",Northern suburb
+Malta,Valletta,Swieqi,Taxi,Bolt,On demand,Direct,0.25-0.5,10-20,Standard fare,Northern suburb
+Malta,Valletta,Victoria (Gozo),Bus+Ferry,Malta Public Transport + Gozo Channel,Multiple daily,Via Ċirkewwa,1-1.5,7-15,"Bus: $2-$3, Ferry: $5-$7",Gozo capital
+Malta,Valletta,Victoria (Gozo),Taxi+Ferry,Bolt + Gozo Channel,On demand,Via Ċirkewwa,1-1.5,25-40,"Taxi: $20-$30, Ferry: $5-$7",Gozo capital
+Malta,Valletta,Żebbuġ,Bus,Malta Public Transport,Several daily,Direct,0.5-0.75,2-5,"Standard: $2-$3, Day pass: $5",Central village
+Malta,Valletta,Żebbuġ,Taxi,eCabs,On demand,Direct,0.5-0.75,15-25,Standard fare,Central village
+Malta,Valletta,Żurrieq,Bus,Malta Public Transport,Several daily,Direct,0.75-1,2-5,"Standard: $2-$3, Day pass: $5",Blue Grotto
+Malta,Valletta,Żurrieq,Taxi,Bolt,On demand,Direct,0.75-1,20-30,Standard fare,Blue Grotto
+Montenegro,Budva,Bar,Bus,Mediteran Express,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Coastal route
+Montenegro,Budva,Bar,Bus,4 Decembar,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Coastal route
+Montenegro,Budva,Bar,Bus,Globtour,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Coastal route
+Montenegro,Budva,Bar,Taxi,Local Operators,On demand,Direct,1-1.5,20-35,Standard fare,Coastal link
+Montenegro,Budva,Cetinje,Bus,Bozur,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Historic link
+Montenegro,Budva,Cetinje,Bus,4 Decembar,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Historic link
+Montenegro,Budva,Cetinje,Taxi,Local Operators,On demand,Direct,1-1.5,25-40,Standard fare,Historic link
+Montenegro,Budva,Herceg Novi,Bus,4 Decembar,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Bay route
+Montenegro,Budva,Herceg Novi,Bus,Globtour,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Bay route
+Montenegro,Budva,Herceg Novi,Taxi,Local Operators,On demand,Direct,1.5-2,30-50,Standard fare,Bay trip
+Montenegro,Budva,Kotor,Bus,Mediteran Express,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Short coastal
+Montenegro,Budva,Kotor,Bus,Globtour,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Budva,Kotor,Bus,4 Decembar,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Budva,Tivat,Bus,Mediteran Express,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Budva,Tivat,Bus,4 Decembar,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Budva,Tivat,Taxi,Local Operators,On demand,Direct,0.5-1,15-25,Standard fare,Coastal short
+Montenegro,Budva,Ulcinj,Bus,Globtour,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Southern coast
+Montenegro,Budva,Ulcinj,Bus,Bozur,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Southern coast
+Montenegro,Budva,Ulcinj,Taxi,Local Operators,On demand,Direct,2-2.5,40-60,Standard fare,Southern coast
+Montenegro,Kotor,Budva,Bus,Mediteran Express,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Reverse coastal
+Montenegro,Kotor,Budva,Bus,Bozur,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Kotor,Budva,Taxi,Local Operators,On demand,Direct,0.5-1,15-25,Standard fare,Reverse coastal
+Montenegro,Kotor,Herceg Novi,Bus,Bozur,Several daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Bay link
+Montenegro,Kotor,Herceg Novi,Taxi,Local Operators,On demand,Direct,0.5-1,15-25,Standard fare,Bay trip
+Montenegro,Kotor,Perast,Bus,Bozur,Several daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay of Kotor
+Montenegro,Kotor,Perast,Bus,Globtour,Several daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay of Kotor
+Montenegro,Kotor,Perast,Taxi,Local Operators,On demand,Direct,0.5,10-20,Standard fare,Bay of Kotor
+Montenegro,Kotor,Tivat,Bus,Mediteran Express,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Reverse bay
+Montenegro,Kotor,Tivat,Bus,4 Decembar,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay link
+Montenegro,Kotor,Tivat,Bus,Mediteran Express,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay link
+Montenegro,Podgorica,Bar,Bus,4 Decembar,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Reverse coastal
+Montenegro,Podgorica,Bar,Bus,Mediteran Express,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Adriatic route
+Montenegro,Podgorica,Bar,Taxi,Local Operators,On demand,Direct,1-1.5,20-35,Standard fare,Negotiable rates
+Montenegro,Podgorica,Bar,Train,Montenegro Railways,Several daily,Direct,1-1.5,5-10,"Standard: $5-$7, First-class: $10",Adriatic link
+Montenegro,Podgorica,Berane,Bus,4 Decembar,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Northeast inland
+Montenegro,Podgorica,Berane,Bus,Bozur,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Northeast inland
+Montenegro,Podgorica,Berane,Taxi,Local Operators,On demand,Direct,3-4,60-100,Standard fare,Northeast inland
+Montenegro,Podgorica,Bijelo Polje,Bus,4 Decembar,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Northern route
+Montenegro,Podgorica,Bijelo Polje,Train,Montenegro Railways,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, First-class: $15",Northern rail
+Montenegro,Podgorica,Budva,Bus,Bozur,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Coastal route
+Montenegro,Podgorica,Budva,Taxi,Local Operators,On demand,Direct,1-1.5,25-40,Standard fare,Coastal trip
+Montenegro,Podgorica,Cetinje,Bus,Bozur,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Historic capital
+Montenegro,Podgorica,Cetinje,Bus,4 Decembar,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Historic capital
+Montenegro,Podgorica,Cetinje,Taxi,Local Operators,On demand,Direct,0.5-1,15-25,Standard fare,Historic trip
+Montenegro,Podgorica,Danilovgrad,Bus,4 Decembar,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Short inland
+Montenegro,Podgorica,Danilovgrad,Bus,Bozur,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Short inland
+Montenegro,Podgorica,Danilovgrad,Taxi,Local Operators,On demand,Direct,0.5,10-20,Standard fare,Short inland
+Montenegro,Podgorica,Herceg Novi,Bus,Bozur,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Bay of Kotor
+Montenegro,Podgorica,Herceg Novi,Bus,Mediteran Express,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Bay of Kotor
+Montenegro,Podgorica,Herceg Novi,Taxi,Local Operators,On demand,Direct,2-2.5,40-60,Standard fare,Bay route
+Montenegro,Podgorica,Kolašin,Bus,Bozur,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Mountain route
+Montenegro,Podgorica,Kolašin,Bus,4 Decembar,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Mountain route
+Montenegro,Podgorica,Kolašin,Taxi,Local Operators,On demand,Direct,1.5-2,30-50,Standard fare,Mountain route
+Montenegro,Podgorica,Kotor,Bus,4 Decembar,Multiple daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Bay of Kotor
+Montenegro,Podgorica,Kotor,Taxi,Local Operators,On demand,Direct,1.5-2,30-50,Standard fare,Bay of Kotor
+Montenegro,Podgorica,Nikšić,Bus,4 Decembar,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Inland route
+Montenegro,Podgorica,Nikšić,Bus,Globtour,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Inland route
+Montenegro,Podgorica,Nikšić,Taxi,Local Operators,On demand,Direct,1-1.5,25-40,Standard fare,Inland trip
+Montenegro,Podgorica,Nikšić,Train,Montenegro Railways,Several daily,Direct,1-1.5,5-10,"Standard: $5-$7, First-class: $10",Inland rail
+Montenegro,Podgorica,Plav,Bus,Globtour,Daily,Direct,4-5,15-25,"Standard: $15-$20, Premium: $25",Mountain northeast
+Montenegro,Podgorica,Plav,Taxi,Local Operators,On demand,Direct,4-5,80-120,Standard fare,Mountain northeast
+Montenegro,Podgorica,Pljevlja,Bus,4 Decembar,Several daily,Direct,2.5-3,8-15,"Standard: $8-$12, Premium: $15",Northern inland
+Montenegro,Podgorica,Pljevlja,Bus,Bozur,Several daily,Direct,2.5-3,8-15,"Standard: $8-$12, Premium: $15",Northern inland
+Montenegro,Podgorica,Pljevlja,Taxi,Local Operators,On demand,Direct,2.5-3,50-80,Standard fare,Northern inland
+Montenegro,Podgorica,Rožaje,Bus,Bozur,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern border
+Montenegro,Podgorica,Rožaje,Bus,4 Decembar,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern border
+Montenegro,Podgorica,Rožaje,Taxi,Local Operators,On demand,Direct,3-4,60-100,Standard fare,Northern border
+Montenegro,Podgorica,Tivat,Bus,Globtour,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Airport route
+Montenegro,Podgorica,Tivat,Taxi,Local Operators,On demand,Direct,1.5-2,30-50,Standard fare,Airport route
+Montenegro,Podgorica,Ulcinj,Bus,Globtour,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Southern coast
+Montenegro,Podgorica,Ulcinj,Bus,Bozur,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Southern coast
+Montenegro,Podgorica,Ulcinj,Taxi,Local Operators,On demand,Direct,2-2.5,40-60,Standard fare,Southern coast
+Montenegro,Podgorica,Žabljak,Bus,Globtour,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Durmitor mountains
+Montenegro,Podgorica,Žabljak,Bus,4 Decembar,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Durmitor mountains
+Montenegro,Podgorica,Žabljak,Taxi,Local Operators,On demand,Direct,3-4,60-100,Standard fare,Mountain journey
+Montenegro,Tivat,Budva,Bus,Globtour,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Reverse coastal
+Montenegro,Tivat,Budva,Bus,Bozur,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Tivat,Budva,Bus,Mediteran Express,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Coastal short
+Montenegro,Tivat,Herceg Novi,Bus,Globtour,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Bay of Kotor
+Montenegro,Tivat,Herceg Novi,Bus,4 Decembar,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Bay route
+Montenegro,Tivat,Herceg Novi,Taxi,Local Operators,On demand,Direct,1-1.5,25-40,Standard fare,Bay of Kotor
+Montenegro,Tivat,Kotor,Bus,Bozur,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay of Kotor
+Montenegro,Tivat,Kotor,Bus,Globtour,Multiple daily,Direct,0.5,3-8,"Standard: $3-$5, Premium: $8",Bay link
+Montenegro,Tivat,Kotor,Taxi,Local Operators,On demand,Direct,0.5,10-20,Standard fare,Short bay
+Morocco,Agadir,Guelmim,Bus,CTM,Daily,Direct,4-5,10-25,"Standard: $10-$15, Premium: $25",Desert gate
+Morocco,Agadir,Imouzzer,Bus,CTM,Daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Waterfall route
+Morocco,Agadir,Laayoune,Bus,CTM,Daily,Direct,12-14,25-50,"Standard: $25-$35, Premium: $50",Western Sahara
+Morocco,Agadir,Marrakech,Flight,Royal Air Maroc,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Tourist hub link
+Morocco,Agadir,Mirleft,Bus,Supratours,Daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Surfing spot
+Morocco,Agadir,Sidi Ifni,Bus,Supratours,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Fishing town
+Morocco,Agadir,Taghazout,Bus,CTM,Several daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Surf village
+Morocco,Agadir,Taroudant,Bus,CTM,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Premium: $10",Southern short trip
+Morocco,Agadir,Tiznit,Bus,CTM,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Southern market town
+Morocco,Casablanca,Agadir,Flight,Royal Air Maroc,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Seasonal pricing
+Morocco,Casablanca,Azemmour,Bus,CTM,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Coastal artisan town
+Morocco,Casablanca,Benslimane,Train,ONCF,Multiple daily,Direct,1-1.5,5-12,"Standard: $5-$8, First-class: $12",Quiet retreat
+Morocco,Casablanca,Berkane,Bus,CTM,Daily,Direct,12-14,25-50,"Standard: $25-$35, Premium: $50",Long-distance east
+Morocco,Casablanca,Berrechid,Train,ONCF,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, First-class: $8",Industrial suburb
+Morocco,Casablanca,El Jadida,Train,ONCF,Multiple daily,Direct,1-1.5,5-12,"Standard: $5-$8, First-class: $12",Coastal short trip
+Morocco,Casablanca,Essaouira,Bus,CTM,Daily,Direct,6-7,15-30,"Standard: $15-$20, Premium: $30",Coastal journey
+Morocco,Casablanca,Kenitra,Train,ONCF,Multiple daily,Direct,2-2.5,8-20,"Standard: $8-$12, First-class: $20",Industrial north
+Morocco,Casablanca,Khenifra,Bus,CTM,Daily,Direct,5-6,15-25,"Standard: $15-$20, Premium: $25",Middle Atlas
+Morocco,Casablanca,Khouribga,Train,ONCF,Multiple daily,Direct,2-3,8-15,"Standard: $8-$12, First-class: $15",Phosphate region
+Morocco,Casablanca,Larache,Bus,CTM,Daily,Direct,4-5,15-25,"Standard: $15-$20, Premium: $25",Northern coast
+Morocco,Casablanca,Marrakech,Train,ONCF,Multiple daily,Direct,3-3.5,10-25,"Standard: $10-$15, First-class: $25",Air-conditioned first-class available
+Morocco,Casablanca,Mohammedia,Train,ONCF,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, First-class: $8",Commuter route
+Morocco,Casablanca,Nador,Flight,Royal Air Maroc,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Rif region link
+Morocco,Casablanca,Oualidia,Bus,CTM,Daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Lagoon coast
+Morocco,Casablanca,Oujda,Train,ONCF,Several daily,Direct,10-12,20-50,"Standard: $20-$30, Sleeper: $50",Overnight option available
+Morocco,Casablanca,Rabat,Train,ONCF,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, First-class: $15",Frequent service
+Morocco,Casablanca,Safi,Bus,CTM,Several daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Coastal industrial route
+Morocco,Casablanca,Settat,Bus,CTM,Several daily,Direct,1-2,5-12,"Standard: $5-$8, Premium: $12",Industrial short trip
+Morocco,Casablanca,Settat,Train,ONCF,Multiple daily,Direct,1-1.5,5-12,"Standard: $5-$8, First-class: $12",Industrial region
+Morocco,Casablanca,Sidi Kacem,Train,ONCF,Multiple daily,Direct,3-4,10-20,"Standard: $10-$15, First-class: $20",Agricultural hub
+Morocco,Casablanca,Tangier,Train,ONCF,Multiple daily,Direct,5-6,15-40,"Standard: $15-$25, First-class: $40",Al Boraq high-speed available
+Morocco,Casablanca,Taza,Train,ONCF,Several daily,Via Fes,6-7,15-35,"Standard: $15-$25, First-class: $35",Rif gateway
+Morocco,Casablanca,Tiflet,Train,ONCF,Multiple daily,Direct,1.5-2,5-12,"Standard: $5-$8, First-class: $12",Quiet town
+Morocco,Fes,Bhalil,Grand Taxi,Local Operators,Frequent,Direct,0.5-1,3-8,"Per seat, negotiable",Cave dwellings
+Morocco,Fes,Chefchaouen,Bus,CTM,Daily,Direct,4-5,10-25,"Standard: $10-$15, Premium: $25",Rif Mountains scenic route
+Morocco,Fes,Ifrane,Grand Taxi,Local Operators,Frequent,Direct,1-2,5-12,"Per seat, negotiable",Mountain retreat
+Morocco,Fes,Meknes,Train,ONCF,Multiple daily,Direct,0.5-1,5-10,"Standard: $5-$7, First-class: $10",Short intercity link
+Morocco,Fes,Midelt,Bus,Supratours,Daily,Direct,4-5,10-25,"Standard: $10-$15, Premium: $25",Middle Atlas
+Morocco,Fes,Moulay Idriss,Grand Taxi,Local Operators,Frequent,Direct,1-1.5,5-10,"Per seat, negotiable",Holy town
+Morocco,Fes,Ouarzazate,Bus,CTM,Daily,Via Marrakech,10-12,20-40,"Standard: $20-$30, Premium: $40",Film studio route
+Morocco,Fes,Rabat,Bus,CTM,Several daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Reverse capital link
+Morocco,Fes,Sefrou,Grand Taxi,Local Operators,Frequent,Direct,0.5-1,3-8,"Per seat, negotiable",Cherry festival town
+Morocco,Fes,Taourirt,Train,ONCF,Several daily,Direct,4-5,10-25,"Standard: $10-$15, First-class: $25",Eastern route
+Morocco,Fes,Tetouan,Bus,CTM,Daily,Direct,6-7,15-30,"Standard: $15-$20, Premium: $30",Northern crossing
+Morocco,Fes,Volubilis,Grand Taxi,Local Operators,Frequent,Direct,1-1.5,5-12,"Per seat, negotiable",Roman ruins
+Morocco,Marrakech,Agadir,Bus,CTM,Several daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Wi-Fi on premium buses
+Morocco,Marrakech,Azrou,Bus,CTM,Daily,Via Beni Mellal,6-7,15-30,"Standard: $15-$20, Premium: $30",Cedar forest
+Morocco,Marrakech,Beni Mellal,Bus,Supratours,Daily,Direct,4-5,10-25,"Standard: $10-$15, Premium: $25",Atlas foothills
+Morocco,Marrakech,Casablanca,Bus,Supratours,Multiple daily,Direct,3-4,10-20,"Standard: $10-$15, Premium: $20",Reverse route
+Morocco,Marrakech,Chichaoua,Bus,CTM,Several daily,Direct,1-2,5-12,"Standard: $5-$8, Premium: $12",Atlas foothills
+Morocco,Marrakech,Dakhla,Flight,Royal Air Maroc,Daily,Direct,2,60-150,"Economy: $60-$100, Business: $150",Western Sahara coast
+Morocco,Marrakech,El Kelaa des Sraghna,Bus,CTM,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Agricultural region
+Morocco,Marrakech,Erfoud,Bus,CTM,Daily,Via Ouarzazate,10-12,20-40,"Standard: $20-$30, Premium: $40",Sahara dunes
+Morocco,Marrakech,Essaouira,Bus,Supratours,Several daily,Direct,2.5-3,8-15,"Standard: $8-$12, Premium: $15",Coastal route
+Morocco,Marrakech,Fes,Train,ONCF,Several daily,Via Casablanca,7-8,20-45,"Standard: $20-$30, First-class: $45",Long-distance link
+Morocco,Marrakech,Imlil,Grand Taxi,Local Operators,Frequent,Direct,1.5-2,8-15,"Per seat, negotiable",Atlas hiking base
+Morocco,Marrakech,Merzouga,Bus,Supratours,Daily,Via Erfoud,12-14,25-50,"Standard: $25-$35, Premium: $50",Sahara dunes
+Morocco,Marrakech,Ouarzazate,Bus,CTM,Several daily,Direct,4-5,10-20,"Standard: $10-$15, Premium: $20",Atlas Mountains route
+Morocco,Marrakech,Rissani,Bus,Supratours,Daily,Via Erfoud,12-14,25-50,"Standard: $25-$35, Premium: $50",Desert market
+Morocco,Marrakech,Skoura,Bus,CTM,Daily,Via Ouarzazate,6-7,15-30,"Standard: $15-$20, Premium: $30",Palm oasis
+Morocco,Marrakech,Tafraoute,Bus,CTM,Daily,Via Agadir,6-7,15-30,"Standard: $15-$20, Premium: $30",Anti-Atlas route
+Morocco,Marrakech,Taliouine,Bus,Supratours,Daily,Via Taroudant,5-6,15-25,"Standard: $15-$20, Premium: $25",Saffron region
+Morocco,Marrakech,Tarfaya,Bus,CTM,Daily,Via Agadir,10-12,20-40,"Standard: $20-$30, Premium: $40",Southern coast
+Morocco,Marrakech,Tinghir,Bus,CTM,Daily,Via Ouarzazate,8-10,20-40,"Standard: $20-$30, Premium: $40",Todra Gorge route
+Morocco,Marrakech,Tiznit,Bus,Supratours,Daily,Via Agadir,5-6,15-25,"Standard: $15-$20, Premium: $25",Southern loop
+Morocco,Marrakech,Zagora,Bus,Supratours,Daily,Direct,8-9,15-30,"Standard: $15-$20, Premium: $30",Desert gateway
+Morocco,Rabat,Fes,Train,ONCF,Multiple daily,Direct,2.5-3,8-20,"Standard: $8-$12, First-class: $20",High-speed Al Boraq option
+Morocco,Rabat,Khemisset,Train,ONCF,Multiple daily,Direct,1-2,5-12,"Standard: $5-$8, First-class: $12",Agricultural region
+Morocco,Rabat,Marrakech,Train,ONCF,Multiple daily,Direct,3.5-4,10-25,"Standard: $10-$15, First-class: $25",Major city link
+Morocco,Rabat,Meknes,Train,ONCF,Multiple daily,Direct,2-2.5,8-20,"Standard: $8-$12, First-class: $20",Imperial city
+Morocco,Rabat,Oujda,Train,ONCF,Several daily,Via Fes,8-10,20-45,"Standard: $20-$30, First-class: $45",Eastern border
+Morocco,Rabat,Salé,Train,ONCF,Multiple daily,Direct,12-30,2-5,"Standard: $2-$3, First-class: $5",Twin city link
+Morocco,Rabat,Sidi Slimane,Train,ONCF,Several daily,Direct,2-3,8-15,"Standard: $8-$12, First-class: $15",Northern plains
+Morocco,Rabat,Tangier,Train,ONCF,Multiple daily,Direct,4-5,15-35,"Standard: $15-$25, First-class: $35",Al Boraq option
+Morocco,Rabat,Temara,Train,ONCF,Multiple daily,Direct,12-30,2-5,"Standard: $2-$3, First-class: $5",Suburban link
+Morocco,Tangier,Al Hoceima,Bus,CTM,Daily,Direct,6-7,15-30,"Standard: $15-$20, Premium: $30",Mediterranean coast
+Morocco,Tangier,Asilah,Train,ONCF,Multiple daily,Direct,0.5-1,5-10,"Standard: $5-$7, First-class: $10",Artist town link
+Morocco,Tangier,Chefchaouen,Grand Taxi,Local Operators,Frequent,Direct,2-3,8-15,"Per seat, negotiable",Blue city trip
+Morocco,Tangier,Fnideq,Grand Taxi,Local Operators,Frequent,Direct,0.5-1,5-10,"Per seat, negotiable",Near Ceuta
+Morocco,Tangier,Ksar El Kebir,Bus,CTM,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Northern link
+Morocco,Tangier,Larache,Bus,CTM,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Northern coast
+Morocco,Tangier,Martil,Grand Taxi,Local Operators,Frequent,Direct,0.5-1,5-10,"Per seat, negotiable",Beach town
+Morocco,Tangier,Mdiq,Grand Taxi,Local Operators,Frequent,Direct,0.5-1,5-10,"Per seat, negotiable",Beach resort
+Morocco,Tangier,Oued Laou,Grand Taxi,Local Operators,Frequent,Direct,1-2,5-12,"Per seat, negotiable",Beach escape
+Morocco,Tangier,Tetouan,Grand Taxi,Local Operators,Frequent,Direct,1-1.5,5-10,"Per seat, negotiable","Shared taxi, departs when full"
+Oman,Muscat,Al Hamra,Bus,Mwasalat,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Premium: $15",Mountain route
+Oman,Muscat,Al Hamra,Ferry,National Ferries Company,Several daily,Via coastal,5-6,20-50,"Passenger: $20-$35, Car: $50",Mountain route
+Oman,Muscat,Al Hamra,Flight,Oman Air,Several daily,Direct,0.5,50-120,"Economy: $50-$80, Business: $120",Mountain hop
+Oman,Muscat,Al Hamra,Taxi,Mwasalat,On demand,Direct,2-3,30-50,Standard fare,Mountain route
+Oman,Muscat,Bahla,Bus,Mwasalat,Several daily,Direct,2.5-3,10-25,"Standard: $10-$15, Premium: $25",Interior fort
+Oman,Muscat,Bahla,Ferry,National Ferries Company,Several daily,Via coastal,6-7,25-55,"Passenger: $25-$40, Car: $55",Interior link
+Oman,Muscat,Bahla,Flight,SalamAir,Several daily,Direct,12-30,40-100,"Economy: $40-$70, Priority: $100",Short hop
+Oman,Muscat,Bahla,Taxi,Otaxi,On demand,Direct,2.5-3,40-60,Standard fare,Interior fort
+Oman,Muscat,Barka,Bus,Mwasalat,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, Premium: $15",Batinah short
+Oman,Muscat,Barka,Ferry,National Ferries Company,Several daily,Direct,2-3,15-35,"Passenger: $15-$25, Car: $35",Short coastal
+Oman,Muscat,Barka,Flight,Oman Air,Several daily,Direct,0.5,50-120,"Economy: $50-$80, Business: $120",Short hop
+Oman,Muscat,Barka,Taxi,Mwasalat,On demand,Direct,1-1.5,20-35,Standard fare,Short coastal
+Oman,Muscat,Dibba,Bus,Mwasalat,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Musandam gateway
+Oman,Muscat,Dibba,Ferry,National Ferries Company,Several daily,Direct,5-6,25-55,"Passenger: $25-$40, Car: $55",Musandam route
+Oman,Muscat,Dibba,Flight,SalamAir,Several daily,Direct,1,40-100,"Economy: $40-$70, Priority: $100",Musandam hop
+Oman,Muscat,Dibba,Taxi,Otaxi,On demand,Direct,5-6,80-120,Standard fare,Musandam gateway
+Oman,Muscat,Duqm,Bus,Mwasalat,Several daily,Direct,6-7,20-45,"Standard: $20-$35, Premium: $45",Central coast
+Oman,Muscat,Duqm,Ferry,National Ferries Company,Several daily,Direct,6-7,25-55,"Passenger: $25-$40, Car: $55",Central coast
+Oman,Muscat,Duqm,Flight,SalamAir,Several daily,Direct,1,40-100,"Economy: $40-$70, Priority: $100",Central coast
+Oman,Muscat,Duqm,Flight,Oman Air,Several daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Central coast
+Oman,Muscat,Duqm,Taxi,Otaxi,On demand,Direct,6-7,100-150,Standard fare,Central coast
+Oman,Muscat,Ibri,Bus,Mwasalat,Several daily,Direct,3-4,10-25,"Standard: $10-$15, Premium: $25",Western interior
+Oman,Muscat,Ibri,Ferry,National Ferries Company,Several daily,Via coastal,6-7,25-55,"Passenger: $25-$40, Car: $55",Western route
+Oman,Muscat,Ibri,Flight,Oman Air,Several daily,Direct,1,50-120,"Economy: $50-$80, Business: $120",Western hop
+Oman,Muscat,Ibri,Taxi,Otaxi,On demand,Direct,3-4,50-80,Standard fare,Western trip
+Oman,Muscat,Khasab,Bus,Mwasalat,Daily,Direct,6-7,25-55,"Standard: $25-$40, Premium: $55",Musandam long
+Oman,Muscat,Khasab,Ferry,National Ferries Company,Several daily,Direct,5-6,25-55,"Passenger: $25-$40, Car: $55",Musandam route
+Oman,Muscat,Khasab,Flight,Oman Air,Several daily,Direct,1-1.5,50-120,"Economy: $50-$80, Business: $120",Musandam hop
+Oman,Muscat,Khasab,Flight,SalamAir,Several daily,Direct,1-1.5,40-100,"Economy: $40-$70, Priority: $100",Musandam hop
+Oman,Muscat,Khasab,Taxi,Otaxi,On demand,Direct,6-7,100-150,Standard fare,Musandam long
+Oman,Muscat,Masirah,Bus,Mwasalat,Daily,Via Shannah,4-5,15-35,"Standard: $15-$25, Premium: $35",Ferry connection
+Oman,Muscat,Masirah,Ferry,National Ferries Company,Several daily,Direct,1-1.5,15-35,"Passenger: $15-$25, Car: $35",Island hop
+Oman,Muscat,Masirah,Flight,SalamAir,Several daily,Direct,1,40-100,"Economy: $40-$70, Priority: $100",Island hop
+Oman,Muscat,Masirah,Taxi,Mwasalat,On demand,Via Shannah,4-5,60-100,Standard fare,Ferry connection
+Oman,Muscat,Nizwa,Bus,Mwasalat,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Premium: $15",Interior link
+Oman,Muscat,Nizwa,Ferry,National Ferries Company,Several daily,Via coastal,5-6,25-55,"Passenger: $25-$40, Car: $55",Coastal route
+Oman,Muscat,Nizwa,Flight,SalamAir,Several daily,Direct,12-30,40-100,"Economy: $40-$70, Priority: $100",Short hop
+Oman,Muscat,Nizwa,Taxi,Otaxi,On demand,Direct,2-3,30-50,Standard fare,Interior trip
+Oman,Muscat,Rustaq,Bus,Mwasalat,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Premium: $15",Batinah inland
+Oman,Muscat,Rustaq,Ferry,National Ferries Company,Several daily,Via coastal,4-5,20-50,"Passenger: $20-$35, Car: $50",Batinah inland
+Oman,Muscat,Rustaq,Flight,SalamAir,Several daily,Direct,12-30,40-100,"Economy: $40-$70, Priority: $100",Short hop
+Oman,Muscat,Rustaq,Taxi,Mwasalat,On demand,Direct,2-3,30-50,Standard fare,Batinah inland
+Oman,Muscat,Salalah,Bus,Mwasalat,Daily,Direct,12-14,30-60,"Standard: $30-$45, Premium: $60",Long southern
+Oman,Muscat,Salalah,Flight,Oman Air,Multiple daily,Direct,1-1.5,50-120,"Economy: $50-$80, Business: $120",Southern hop
+Oman,Muscat,Salalah,Taxi,Mwasalat,On demand,Direct,10-12,200-300,Standard fare,Long negotiated
+Oman,Muscat,Shinas,Bus,Mwasalat,Several daily,Direct,4-5,15-35,"Standard: $15-$25, Premium: $35",Northern coast
+Oman,Muscat,Shinas,Ferry,National Ferries Company,Several daily,Direct,4-5,20-50,"Passenger: $20-$35, Car: $50",Northern ferry
+Oman,Muscat,Shinas,Flight,SalamAir,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Priority: $100",Northern hop
+Oman,Muscat,Shinas,Taxi,Mwasalat,On demand,Direct,4-5,60-100,Standard fare,Northern coast
+Oman,Muscat,Sohar,Bus,Mwasalat,Several daily,Direct,3-4,10-25,"Standard: $10-$15, Premium: $25",Northern route
+Oman,Muscat,Sohar,Ferry,National Ferries Company,Several daily,Direct,3-4,20-50,"Passenger: $20-$35, Car: $50",Northern ferry
+Oman,Muscat,Sohar,Flight,SalamAir,Several daily,Direct,1,40-100,"Economy: $40-$70, Priority: $100",Northern hop
+Oman,Muscat,Sohar,Taxi,Otaxi,On demand,Direct,3-4,50-80,Standard fare,Northern route
+Oman,Muscat,Sohar,Taxi,Mwasalat,On demand,Direct,3-4,50-80,Standard fare,Northern route
+Oman,Muscat,Sur,Bus,Mwasalat,Several daily,Direct,3-4,10-25,"Standard: $10-$15, Premium: $25",Eastern coast
+Oman,Muscat,Sur,Ferry,National Ferries Company,Several daily,Direct,4-5,20-50,"Passenger: $20-$35, Car: $50",Eastern ferry
+Oman,Muscat,Sur,Flight,Oman Air,Several daily,Direct,1,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+Oman,Muscat,Sur,Taxi,Mwasalat,On demand,Direct,3-4,50-80,Standard fare,Eastern coast
+Oman,Muscat,Sur,Taxi,Otaxi,On demand,Direct,3-4,50-80,Standard fare,Eastern coast
+Oman,Salalah,Bahla,Bus,Mwasalat,Daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Interior long
+Oman,Salalah,Bahla,Taxi,Mwasalat,On demand,Direct,12-14,200-300,Standard fare,Interior long
+Oman,Salalah,Barka,Bus,Mwasalat,Daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Coastal long
+Oman,Salalah,Barka,Taxi,Otaxi,On demand,Direct,12-14,200-300,Standard fare,Coastal long
+Oman,Salalah,Dibba,Flight,Oman Air,Daily,Direct,2,60-150,"Economy: $60-$100, Business: $150",Musandam hop
+Oman,Salalah,Duqm,Bus,Mwasalat,Daily,Direct,6-7,20-45,"Standard: $20-$35, Premium: $45",Coastal link
+Oman,Salalah,Duqm,Flight,Oman Air,Several daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Coastal hop
+Oman,Salalah,Duqm,Taxi,Otaxi,On demand,Direct,6-7,100-150,Standard fare,Coastal link
+Oman,Salalah,Ibri,Bus,Mwasalat,Daily,Direct,14-16,40-80,"Standard: $40-$60, Premium: $80",Western long
+Oman,Salalah,Ibri,Taxi,Otaxi,On demand,Direct,14-16,250-350,Standard fare,Western long
+Oman,Salalah,Khasab,Bus,Mwasalat,Daily,Direct,16-18,50-100,"Standard: $50-$75, Premium: $100",Musandam long
+Oman,Salalah,Khasab,Flight,Oman Air,Daily,Direct,1-1,60-150,"Economy: $60-$100, Business: $150",Musandam hop
+Oman,Salalah,Masirah,Flight,SalamAir,Daily,Direct,1.5,40-100,"Economy: $40-$70, Priority: $100",Island hop
+Oman,Salalah,Muscat,Flight,SalamAir,Multiple daily,Direct,1-1.5,40-100,"Economy: $40-$70, Priority: $100",Reverse southern
+Oman,Salalah,Nizwa,Bus,Mwasalat,Daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Interior long
+Oman,Salalah,Nizwa,Flight,Oman Air,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Interior hop
+Oman,Salalah,Nizwa,Taxi,Mwasalat,On demand,Direct,12-14,200-300,Standard fare,Long interior
+Oman,Salalah,Rustaq,Bus,Mwasalat,Daily,Direct,14-16,40-80,"Standard: $40-$60, Premium: $80",Northern long
+Oman,Salalah,Rustaq,Taxi,Mwasalat,On demand,Direct,14-16,250-350,Standard fare,Northern long
+Oman,Salalah,Shinas,Bus,Mwasalat,Daily,Direct,14-16,40-80,"Standard: $40-$60, Premium: $80",Northern long
+Oman,Salalah,Shinas,Taxi,Otaxi,On demand,Direct,14-16,250-350,Standard fare,Northern long
+Oman,Salalah,Sohar,Bus,Mwasalat,Daily,Direct,14-16,40-80,"Standard: $40-$60, Premium: $80",Long coastal
+Oman,Salalah,Sohar,Flight,SalamAir,Daily,Direct,1.5,50-120,"Economy: $50-$80, Priority: $120",Northern hop
+Oman,Salalah,Sohar,Taxi,Mwasalat,On demand,Direct,14-16,250-350,Standard fare,Northern long
+Oman,Salalah,Sur,Bus,Mwasalat,Daily,Direct,10-12,30-60,"Standard: $30-$45, Premium: $60",Eastern long
+Oman,Salalah,Sur,Flight,SalamAir,Daily,Direct,12-31,40-100,"Economy: $40-$70, Priority: $100",Eastern hop
+Oman,Salalah,Sur,Taxi,Mwasalat,On demand,Direct,10-12,150-250,Standard fare,Eastern long
+Qatar,Al Rayyan,Dukhan,Bus,Mowasalat (Karwa),Daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Western link
+Qatar,Al Rayyan,Lusail,Bus,Mowasalat (Karwa),Several daily,Via Doha,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Urban loop
+Qatar,Al Rayyan,Lusail,Metro,Doha Metro,Multiple daily,Via Doha,12-31,2-5,"Standard: $2-$3, Gold: $5",Red Line loop
+Qatar,Al Rayyan,Umm Salal,Bus,Mowasalat (Karwa),Several daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Suburban link
+Qatar,Al Wakrah,Al Rayyan,Bus,Mowasalat (Karwa),Several daily,Via Doha,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Urban connection
+Qatar,Al Wakrah,Al Rayyan,Taxi,Karwa Taxi,On demand,Via Doha,1-1.5,15-25,Standard fare,Urban loop
+Qatar,Al Wakrah,Mesaieed,Bus,Mowasalat (Karwa),Several daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Southern industrial
+Qatar,Al Wakrah,Mesaieed,Taxi,Karwa Taxi,On demand,Direct,0.5-1,10-20,Standard fare,Southern trip
+Qatar,Doha,Al Khor,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Northern link
+Qatar,Doha,Al Khor,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Reverse northern
+Qatar,Doha,Al Khor,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Northern route
+Qatar,Doha,Al Khor,Flight,Qatar Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Northern hop
+Qatar,Doha,Al Khor,Taxi,Karwa Taxi,On demand,Direct,1-1.5,20-30,Standard fare,Metered service
+Qatar,Doha,Al Khor,Taxi,Karwa Taxi,On demand,Direct,1-1.5,20-30,Standard fare,Northern trip
+Qatar,Doha,Al Rayyan,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Western suburb
+Qatar,Doha,Al Rayyan,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Reverse western
+Qatar,Doha,Al Rayyan,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Red Line service
+Qatar,Doha,Al Rayyan,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Reverse Red Line
+Qatar,Doha,Al Rayyan,Taxi,Karwa Taxi,On demand,Direct,0.5-1,10-20,Standard fare,Western suburb
+Qatar,Doha,Al Shamal,Bus,Mowasalat (Karwa),Daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Far north
+Qatar,Doha,Al Shamal,Bus,Mowasalat (Karwa),Daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Far northern link
+Qatar,Doha,Al Shamal,Bus,Mowasalat (Karwa),Daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Northern link
+Qatar,Doha,Al Shamal,Flight,Qatar Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Far north hop
+Qatar,Doha,Al Shamal,Taxi,Karwa Taxi,On demand,Direct,2-2.5,30-50,Standard fare,Northern trip
+Qatar,Doha,Al Shamal,Taxi,Karwa Taxi,On demand,Direct,2-2.5,30-50,Standard fare,Far north trip
+Qatar,Doha,Al Wakrah,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Frequent urban service
+Qatar,Doha,Al Wakrah,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Reverse urban
+Qatar,Doha,Al Wakrah,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Frequent service
+Qatar,Doha,Al Wakrah,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Red Line service
+Qatar,Doha,Al Wakrah,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Reverse Red Line
+Qatar,Doha,Al Wakrah,Taxi,Karwa Taxi,On demand,Direct,0.5-1,10-20,Standard fare,Short urban trip
+Qatar,Doha,Dukhan,Bus,Mowasalat (Karwa),Several daily,Direct,1.5-2,5-10,"Standard: $5-$8, Premium: $10",Western oil route
+Qatar,Doha,Dukhan,Bus,Mowasalat (Karwa),Several daily,Direct,1.5-2,5-10,"Standard: $5-$8, Premium: $10",Oil field route
+Qatar,Doha,Dukhan,Bus,Mowasalat (Karwa),Several daily,Direct,1.5-2,5-10,"Standard: $5-$8, Premium: $10",Western route
+Qatar,Doha,Dukhan,Flight,Qatar Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Western hop
+Qatar,Doha,Dukhan,Taxi,Karwa Taxi,On demand,Direct,1.5-2,25-40,Standard fare,Western route
+Qatar,Doha,Dukhan,Taxi,Karwa Taxi,On demand,Direct,1.5-2,25-40,Standard fare,Western trip
+Qatar,Doha,Lusail,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Urban expansion link
+Qatar,Doha,Lusail,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Reverse urban
+Qatar,Doha,Lusail,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Smart city link
+Qatar,Doha,Lusail,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Red Line extension
+Qatar,Doha,Lusail,Metro,Doha Metro,Multiple daily,Direct,0.5,1-3,"Standard: $1-$2, Gold: $3",Reverse Red Line
+Qatar,Doha,Lusail,Metro,Doha Metro,Multiple daily,Direct,12-30,1-3,"Standard: $1-$2, Gold: $3",Red Line service
+Qatar,Doha,Lusail,Taxi,Karwa Taxi,On demand,Direct,0.5-1,10-20,Standard fare,Smart city link
+Qatar,Doha,Mesaieed,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Industrial route
+Qatar,Doha,Mesaieed,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Reverse industrial
+Qatar,Doha,Mesaieed,Bus,Mowasalat (Karwa),Several daily,Direct,1-1.5,3-8,"Standard: $3-$5, Premium: $8",Industrial link
+Qatar,Doha,Mesaieed,Flight,Qatar Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Short hop option
+Qatar,Doha,Mesaieed,Taxi,Karwa Taxi,On demand,Direct,1-1.5,15-25,Standard fare,"Metered, app booking available"
+Qatar,Doha,Mesaieed,Taxi,Karwa Taxi,On demand,Direct,1-1.5,15-25,Standard fare,Industrial trip
+Qatar,Doha,Umm Salal,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Suburban link
+Qatar,Doha,Umm Salal,Bus,Mowasalat (Karwa),Multiple daily,Direct,0.5-1,2-5,"Standard: $2-$3, Premium: $5",Reverse suburban
+Qatar,Doha,Umm Salal,Metro,Doha Metro,Multiple daily,Direct,0.5,1-3,"Standard: $1-$2, Gold: $3",Green Line service
+Qatar,Doha,Umm Salal,Metro,Doha Metro,Multiple daily,Direct,0.5,1-3,"Standard: $1-$2, Gold: $3",Reverse Green Line
+Qatar,Doha,Umm Salal,Taxi,Karwa Taxi,On demand,Direct,0.5-1,10-20,Standard fare,Suburban trip
+Qatar,Lusail,Dukhan,Bus,Mowasalat (Karwa),Daily,Via Doha,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Western link
+Qatar,Mesaieed,Al Khor,Bus,Mowasalat (Karwa),Daily,Via Doha,2-3,5-12,"Standard: $5-$8, Premium: $12",Cross-country
+Qatar,Mesaieed,Lusail,Bus,Mowasalat (Karwa),Daily,Via Doha,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Cross-country
+Saudi Arabia,Dammam,Abha,Flight,Flynas,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Cross-country
+Saudi Arabia,Dammam,Al Baha,Flight,Flynas,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Highland crossing
+Saudi Arabia,Dammam,Al Jouf,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northern route
+Saudi Arabia,Dammam,Al Ula,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Heritage long route
+Saudi Arabia,Dammam,Al Wajh,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Northwest coast
+Saudi Arabia,Dammam,Bisha,Flight,Flynas,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",South central
+Saudi Arabia,Dammam,Hail,Bus,SAPTCO,Daily,Direct,7-8,20-40,"Standard: $20-$30, VIP: $40",Northern crossing
+Saudi Arabia,Dammam,Hofuf,Train,Saudi Arabia Railways,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, First-class: $15",Short eastern link
+Saudi Arabia,Dammam,Jizan,Flight,Flynas,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Southwest coast
+Saudi Arabia,Dammam,Jubail,Bus,SAPTCO,Several daily,Direct,1-2,5-15,"Standard: $5-$10, VIP: $15",Industrial corridor
+Saudi Arabia,Dammam,Khobar,Bus,SAPTCO,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, VIP: $8",Short urban link
+Saudi Arabia,Dammam,Najran,Flight,Flynas,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Southern crossing
+Saudi Arabia,Dammam,Qatif,Bus,SAPTCO,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, VIP: $8",Eastern short trip
+Saudi Arabia,Dammam,Riyadh,Flight,Flynas,Daily,Direct,1,30-80,"Economy: $30-$50, Business: $80",Eastern hub
+Saudi Arabia,Dammam,Sakaka,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northern frontier
+Saudi Arabia,Dammam,Tabuk,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Long northern route
+Saudi Arabia,Dammam,Yanbu,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Cross-coastal
+Saudi Arabia,Jeddah,Abha,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern coast
+Saudi Arabia,Jeddah,Al Baha,Flight,Flynas,Daily,Direct,1,30-80,"Economy: $30-$50, Business: $80",Highland link
+Saudi Arabia,Jeddah,Al Jouf,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Far north
+Saudi Arabia,Jeddah,Al Ula,Bus,SAPTCO,Daily,Direct,6-8,20-40,"Standard: $20-$30, VIP: $40",Heritage journey
+Saudi Arabia,Jeddah,Arar,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Far north
+Saudi Arabia,Jeddah,Bisha,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",South central
+Saudi Arabia,Jeddah,Hafar Al Batin,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northeast route
+Saudi Arabia,Jeddah,Hail,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Northern plains
+Saudi Arabia,Jeddah,Jizan,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern route
+Saudi Arabia,Jeddah,Mecca,Train,Saudi Arabia Railways,Multiple daily,Direct,0.5-1,10-25,"Standard: $10-$15, First-class: $25",Haramain high-speed
+Saudi Arabia,Jeddah,Medina,Train,Saudi Arabia Railways,Multiple daily,Direct,2-3,15-35,"Standard: $15-$25, First-class: $35",Haramain high-speed
+Saudi Arabia,Jeddah,Najran,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern border
+Saudi Arabia,Jeddah,Qassim,Bus,SAPTCO,Daily,Direct,7-8,20-40,"Standard: $20-$30, VIP: $40",Central route
+Saudi Arabia,Jeddah,Rabigh,Train,Saudi Arabia Railways,Multiple daily,Direct,1-1.5,10-20,"Standard: $10-$15, First-class: $20",Haramain line
+Saudi Arabia,Jeddah,Riyadh,Flight,Flynas,Multiple daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Major hub connection
+Saudi Arabia,Jeddah,Sakaka,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Northern frontier
+Saudi Arabia,Jeddah,Taif,Bus,SAPTCO,Several daily,Direct,2-3,10-20,"Standard: $10-$15, VIP: $20",Mountain route
+Saudi Arabia,Jeddah,Turaif,Bus,SAPTCO,Daily,Direct,14-16,40-80,"Standard: $40-$60, VIP: $80",Far northwest
+Saudi Arabia,Jeddah,Yanbu,Bus,SAPTCO,Several daily,Direct,3-4,15-25,"Standard: $15-$20, VIP: $25",Coastal route
+Saudi Arabia,Mecca,Al Baha,Bus,SAPTCO,Daily,Direct,3-4,10-25,"Standard: $10-$15, VIP: $25",Highland connection
+Saudi Arabia,Mecca,Jeddah,Bus,SAPTCO,Multiple daily,Direct,1-1.5,5-15,"Standard: $5-$10, VIP: $15",Pilgrimage hub
+Saudi Arabia,Mecca,Medina,Train,Saudi Arabia Railways,Multiple daily,Direct,2-2.5,15-30,"Standard: $15-$20, First-class: $30",Haramain high-speed
+Saudi Arabia,Mecca,Najran,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern border
+Saudi Arabia,Mecca,Qassim,Bus,SAPTCO,Daily,Direct,6-7,20-40,"Standard: $20-$30, VIP: $40",Central link
+Saudi Arabia,Mecca,Rabigh,Bus,SAPTCO,Several daily,Direct,1-2,5-15,"Standard: $5-$10, VIP: $15",Coastal link
+Saudi Arabia,Mecca,Taif,Bus,SAPTCO,Several daily,Direct,1-2,5-15,"Standard: $5-$10, VIP: $15",Highland escape
+Saudi Arabia,Mecca,Yanbu,Bus,SAPTCO,Daily,Direct,4-5,15-30,"Standard: $15-$20, VIP: $30",Coastal journey
+Saudi Arabia,Medina,Al Qurayyat,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northern border
+Saudi Arabia,Medina,Al Ula,Bus,SAPTCO,Daily,Direct,4-5,15-30,"Standard: $15-$20, VIP: $30",Heritage route
+Saudi Arabia,Medina,Hail,Bus,SAPTCO,Daily,Direct,4-5,15-30,"Standard: $15-$20, VIP: $30",Northern plains
+Saudi Arabia,Medina,Jizan,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southwest link
+Saudi Arabia,Medina,Rabigh,Bus,SAPTCO,Several daily,Direct,2-3,10-20,"Standard: $10-$15, VIP: $20",Coastal link
+Saudi Arabia,Medina,Tabuk,Bus,SAPTCO,Daily,Direct,6-7,20-40,"Standard: $20-$30, VIP: $40",Northwest route
+Saudi Arabia,Medina,Yanbu,Bus,SAPTCO,Several daily,Direct,2-3,10-20,"Standard: $10-$15, VIP: $20",Coastal link
+Saudi Arabia,Riyadh,Abha,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern destination
+Saudi Arabia,Riyadh,Al Ahsa,Train,Saudi Arabia Railways,Multiple daily,Direct,3-4,10-25,"Standard: $10-$15, First-class: $25",Eastern province
+Saudi Arabia,Riyadh,Al Badayea,Bus,SAPTCO,Daily,Direct,4-5,15-30,"Standard: $15-$20, VIP: $30",Central route
+Saudi Arabia,Riyadh,Al Dawadmi,Bus,SAPTCO,Several daily,Direct,3-4,10-20,"Standard: $10-$15, VIP: $20",Central west
+Saudi Arabia,Riyadh,Al Jouf,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Northern frontier
+Saudi Arabia,Riyadh,Al Khafji,Bus,SAPTCO,Daily,Direct,5-6,15-35,"Standard: $15-$25, VIP: $35",Northeast coast
+Saudi Arabia,Riyadh,Al Kharj,Bus,SAPTCO,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, VIP: $10",Suburban link
+Saudi Arabia,Riyadh,Al Lith,Bus,SAPTCO,Daily,Direct,6-7,20-40,"Standard: $20-$30, VIP: $40",Southwest coast
+Saudi Arabia,Riyadh,Al Majmaah,Bus,SAPTCO,Several daily,Direct,2-3,8-15,"Standard: $8-$12, VIP: $15",Central short trip
+Saudi Arabia,Riyadh,Al Muzahimiyah,Bus,SAPTCO,Multiple daily,Direct,1-1.5,5-10,"Standard: $5-$8, VIP: $10",Suburban route
+Saudi Arabia,Riyadh,Al Namas,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Asir highlands
+Saudi Arabia,Riyadh,Al Qaisumah,Bus,SAPTCO,Daily,Direct,5-6,15-35,"Standard: $15-$25, VIP: $35",Northeast link
+Saudi Arabia,Riyadh,Al Qunfudhah,Bus,SAPTCO,Daily,Direct,7-8,20-40,"Standard: $20-$30, VIP: $40",Southwest coast
+Saudi Arabia,Riyadh,Al Qurayyat,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Northern border
+Saudi Arabia,Riyadh,Al Rass,Bus,SAPTCO,Several daily,Direct,3-4,10-20,"Standard: $10-$15, VIP: $20",Qassim region
+Saudi Arabia,Riyadh,Al Ula,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Heritage site route
+Saudi Arabia,Riyadh,Al Wajh,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northwest coast
+Saudi Arabia,Riyadh,Al Zulfi,Bus,SAPTCO,Daily,Direct,3-4,10-20,"Standard: $10-$15, VIP: $20",Central region
+Saudi Arabia,Riyadh,Arar,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Far north
+Saudi Arabia,Riyadh,Buraidah,Bus,SAPTCO,Several daily,Direct,3-4,10-25,"Standard: $10-$15, VIP: $25",Qassim region
+Saudi Arabia,Riyadh,Dammam,Train,Saudi Arabia Railways,Multiple daily,Direct,4-5,15-40,"Standard: $15-$25, First-class: $40",Eastern route
+Saudi Arabia,Riyadh,Hafar Al Batin,Bus,SAPTCO,Several daily,Direct,4-5,15-30,"Standard: $15-$20, VIP: $30",Northeast link
+Saudi Arabia,Riyadh,Hail,Bus,SAPTCO,Daily,Direct,5-6,15-35,"Standard: $15-$25, VIP: $35",Northern plains
+Saudi Arabia,Riyadh,Jeddah,Train,Saudi Arabia Railways,Multiple daily,Direct,4-5,20-50,"Standard: $20-$30, First-class: $50",High-speed Haramain line
+Saudi Arabia,Riyadh,Jizan,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southwest coast
+Saudi Arabia,Riyadh,Khamis Mushait,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Asir region
+Saudi Arabia,Riyadh,Mecca,Bus,SAPTCO,Multiple daily,Direct,6-7,20-45,"Standard: $20-$30, VIP: $45",Pilgrimage route
+Saudi Arabia,Riyadh,Medina,Bus,SAPTCO,Several daily,Direct,7-8,25-50,"Standard: $25-$35, VIP: $50","VIP includes Wi-Fi, snacks"
+Saudi Arabia,Riyadh,Najran,Flight,Flynas,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Southern border
+Saudi Arabia,Riyadh,Qassim,Train,Saudi Arabia Railways,Multiple daily,Direct,2-3,10-25,"Standard: $10-$15, First-class: $25",Central link
+Saudi Arabia,Riyadh,Rafha,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Northern plains
+Saudi Arabia,Riyadh,Sakaka,Bus,SAPTCO,Daily,Direct,8-10,25-50,"Standard: $25-$35, VIP: $50",Northern frontier
+Saudi Arabia,Riyadh,Sharurah,Flight,Flynas,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Far south
+Saudi Arabia,Riyadh,Tabuk,Bus,SAPTCO,Daily,Direct,10-12,30-60,"Standard: $30-$40, VIP: $60",Northwest journey
+Saudi Arabia,Riyadh,Taif,Bus,SAPTCO,Several daily,Direct,6-7,20-40,"Standard: $20-$30, VIP: $40",Highland route
+Saudi Arabia,Riyadh,Turaif,Bus,SAPTCO,Daily,Direct,12-14,35-70,"Standard: $35-$50, VIP: $70",Far northwest
+Saudi Arabia,Riyadh,Wadi Al Dawasir,Bus,SAPTCO,Daily,Direct,6-7,20-40,"Standard: $20-$30, VIP: $40",Southern interior
+Spain,Barcelona,Alicante,Bus,ALSA,Daily,Direct,7-8,25-60,"Standard: $25-$40, Supra: $60",Mediterranean route
+Spain,Barcelona,Alicante,Flight,Vueling,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Mediterranean hop
+Spain,Barcelona,Bilbao,Bus,ALSA,Daily,Direct,8-10,25-60,"Standard: $25-$40, Supra: $60",Northern journey
+Spain,Barcelona,Bilbao,Flight,Vueling,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Basque hop
+Spain,Barcelona,Cordoba,Bus,ALSA,Daily,Direct,12-14,35-70,"Standard: $35-$50, Supra: $70",Andalusia journey
+Spain,Barcelona,Cordoba,Flight,Iberia,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Andalusia hop
+Spain,Barcelona,Granada,Bus,ALSA,Daily,Direct,12-14,35-70,"Standard: $35-$50, Supra: $70",Southern journey
+Spain,Barcelona,Granada,Flight,Iberia,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Andalusia hop
+Spain,Barcelona,Leon,Flight,Iberia,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Castile hop
+Spain,Barcelona,Madrid,Bus,ALSA,Several daily,Direct,7-8,20-50,"Standard: $20-$35, Supra: $50",Overnight option available
+Spain,Barcelona,Malaga,Bus,ALSA,Daily,Direct,14-16,40-80,"Standard: $40-$60, Supra: $80",Long coastal route
+Spain,Barcelona,Malaga,Flight,Iberia,Daily,Direct,12-31,50-120,"Economy: $50-$80, Business: $120",Southern hop
+Spain,Barcelona,Oviedo,Flight,Vueling,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Asturias hop
+Spain,Barcelona,Pamplona,Bus,ALSA,Daily,Direct,6-7,20-50,"Standard: $20-$35, Supra: $50",Navarra journey
+Spain,Barcelona,Pamplona,Flight,Iberia,Daily,Direct,1.5,50-120,"Economy: $50-$80, Business: $120",Navarra hop
+Spain,Barcelona,Salamanca,Bus,ALSA,Daily,Direct,10-12,30-65,"Standard: $30-$45, Supra: $65",University route
+Spain,Barcelona,San Sebastian,Bus,ALSA,Daily,Direct,7-9,25-60,"Standard: $25-$40, Supra: $60",Basque journey
+Spain,Barcelona,San Sebastian,Flight,Vueling,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Basque hop
+Spain,Barcelona,Santiago de Compostela,Bus,ALSA,Daily,Direct,16-18,50-90,"Standard: $50-$70, Supra: $90",Pilgrimage long route
+Spain,Barcelona,Santiago de Compostela,Flight,Vueling,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Pilgrimage hop
+Spain,Barcelona,Seville,Bus,ALSA,Daily,Direct,14-16,40-80,"Standard: $40-$60, Supra: $80",Long southern route
+Spain,Barcelona,Seville,Flight,Vueling,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Coastal hop
+Spain,Barcelona,Tarragona,Train,Renfe,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, First-class: $50",Catalonia coast
+Spain,Barcelona,Valencia,Bus,ALSA,Several daily,Direct,4-5,15-40,"Standard: $15-$25, Supra: $40",Coastal bus
+Spain,Barcelona,Valencia,Train,Renfe,Several daily,Direct,3-4,30-80,"Standard: $30-$50, First-class: $80",Coastal route
+Spain,Barcelona,Vigo,Flight,Iberia,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Galicia hop
+Spain,Barcelona,Zaragoza,Bus,ALSA,Several daily,Direct,3-4,15-40,"Standard: $15-$25, Supra: $40",Aragon bus
+Spain,Barcelona,Zaragoza,Flight,Vueling,Daily,Direct,1,40-100,"Economy: $40-$70, Business: $100",Aragon hop
+Spain,Barcelona,Zaragoza,Train,Renfe AVE,Multiple daily,Direct,1.5-2,30-80,"Standard: $30-$50, Preferente: $80",Aragon connection
+Spain,Madrid,A Coruna,Train,Renfe,Several daily,Direct,6-7,50-110,"Standard: $50-$80, First-class: $110",Galicia coast
+Spain,Madrid,Albacete,Train,Renfe AVE,Multiple daily,Direct,1.5-2,30-80,"Standard: $30-$50, Preferente: $80",La Mancha link
+Spain,Madrid,Alcala de Henares,Train,Renfe Cercanias,Multiple daily,Direct,0.5,5-15,"Standard: $5-$10, First-class: $15",Commuter line
+Spain,Madrid,Algeciras,Train,Renfe,Several daily,Via Cordoba,5-6,50-110,"Standard: $50-$80, First-class: $110",Gibraltar gateway
+Spain,Madrid,Alicante,Train,Renfe AVE,Multiple daily,Direct,2-2.5,40-100,"Standard: $40-$70, Preferente: $100",Mediterranean coast
+Spain,Madrid,Almeria,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Southeast coast
+Spain,Madrid,Antequera,Train,Renfe AVE,Multiple daily,Direct,2.5-3,50-120,"Standard: $50-$80, Preferente: $120",Andalusia hub
+Spain,Madrid,Avila,Train,Renfe,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, First-class: $40",Walled city
+Spain,Madrid,Badajoz,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Extremadura link
+Spain,Madrid,Barcelona,Train,Renfe AVE,Multiple daily,Direct,2.5-3,50-120,"Standard: $50-$80, Preferente: $120",High-speed rail
+Spain,Madrid,Bilbao,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Northern route
+Spain,Madrid,Burgos,Train,Renfe,Several daily,Direct,2-3,30-70,"Standard: $30-$50, First-class: $70",Castile north
+Spain,Madrid,Caceres,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Extremadura north
+Spain,Madrid,Cadiz,Train,Renfe,Several daily,Via Seville,4-5,50-110,"Standard: $50-$80, First-class: $110",Southern coast
+Spain,Madrid,Cartagena,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Murcia coast
+Spain,Madrid,Castellon,Train,Renfe,Several daily,Direct,2.5-3,35-85,"Standard: $35-$55, First-class: $85",Valencian coast
+Spain,Madrid,Ciudad Real,Train,Renfe AVE,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, Preferente: $50",La Mancha stop
+Spain,Madrid,Cordoba,Train,Renfe AVE,Multiple daily,Direct,1.5-2,40-100,"Standard: $40-$70, Preferente: $100",Andalusia stop
+Spain,Madrid,Cuenca,Train,Renfe AVE,Multiple daily,Direct,1-1.5,20-50,"Standard: $20-$35, Preferente: $50",Historic link
+Spain,Madrid,Elche,Train,Renfe,Several daily,Via Alicante,3-4,35-85,"Standard: $35-$55, First-class: $85",Palm grove
+Spain,Madrid,Gijon,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Asturias coast
+Spain,Madrid,Girona,Train,Renfe AVE,Multiple daily,Via Barcelona,3-4,50-110,"Standard: $50-$80, Preferente: $110",Catalonia north
+Spain,Madrid,Granada,Train,Renfe AVE,Multiple daily,Direct,3-4,50-110,"Standard: $50-$80, Preferente: $110",Scenic south
+Spain,Madrid,Guadalajara,Train,Renfe,Multiple daily,Direct,0.5-1,10-25,"Standard: $10-$15, First-class: $25",Short commuter
+Spain,Madrid,Huelva,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Southwest coast
+Spain,Madrid,Huesca,Train,Renfe AVE,Several daily,Via Zaragoza,3-4,50-110,"Standard: $50-$80, Preferente: $110",Aragon Pyrenees
+Spain,Madrid,Jaen,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Olive region
+Spain,Madrid,Jerez de la Frontera,Train,Renfe,Several daily,Via Seville,4-5,50-110,"Standard: $50-$80, First-class: $110",Sherry region
+Spain,Madrid,Leon,Train,Renfe,Several daily,Direct,2.5-3,30-70,"Standard: $30-$50, First-class: $70",Castile north
+Spain,Madrid,Lleida,Train,Renfe AVE,Multiple daily,Direct,2-2.5,40-100,"Standard: $40-$70, Preferente: $100",Catalonia west
+Spain,Madrid,Logrono,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",La Rioja route
+Spain,Madrid,Lugo,Train,Renfe,Several daily,Direct,6-7,50-110,"Standard: $50-$80, First-class: $110",Galicia north
+Spain,Madrid,Malaga,Train,Renfe AVE,Multiple daily,Direct,2.5-3,50-120,"Standard: $50-$80, Preferente: $120",Andalusia link
+Spain,Madrid,Merida,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Extremadura Roman
+Spain,Madrid,Monforte de Lemos,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Galicia rural
+Spain,Madrid,Murcia,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Southeast link
+Spain,Madrid,Ourense,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Galicia interior
+Spain,Madrid,Oviedo,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Asturias route
+Spain,Madrid,Palencia,Train,Renfe,Several daily,Direct,2-2.5,30-70,"Standard: $30-$50, First-class: $70",Castile link
+Spain,Madrid,Pamplona,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Navarra route
+Spain,Madrid,Plasencia,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Extremadura green
+Spain,Madrid,Ponferrada,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Bierzo region
+Spain,Madrid,Ronda,Train,Renfe,Several daily,Via Malaga,4-5,50-110,"Standard: $50-$80, First-class: $110",Andalusia cliffs
+Spain,Madrid,Salamanca,Train,Renfe,Several daily,Direct,2.5-3,30-70,"Standard: $30-$50, First-class: $70",University city
+Spain,Madrid,San Sebastian,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Basque coast
+Spain,Madrid,Santander,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Cantabria coast
+Spain,Madrid,Santiago de Compostela,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Pilgrimage route
+Spain,Madrid,Segovia,Train,Renfe AVE,Multiple daily,Direct,0.5-1,10-25,"Standard: $10-$15, Preferente: $25",Historic short trip
+Spain,Madrid,Seville,Train,Renfe AVE,Multiple daily,Direct,2.5-3,50-120,"Standard: $50-$80, Preferente: $120",High-speed south
+Spain,Madrid,Soria,Train,Renfe,Several daily,Direct,2.5-3,30-70,"Standard: $30-$50, First-class: $70",Castile remote
+Spain,Madrid,Talavera de la Reina,Train,Renfe,Several daily,Direct,1.5-2,20-50,"Standard: $20-$35, First-class: $50",Castile west
+Spain,Madrid,Tarragona,Train,Renfe AVE,Multiple daily,Direct,2-2.5,40-100,"Standard: $40-$70, Preferente: $100",Catalonia coast
+Spain,Madrid,Teruel,Train,Renfe,Several daily,Direct,3-4,35-85,"Standard: $35-$55, First-class: $85",Aragon interior
+Spain,Madrid,Toledo,Train,Renfe Avant,Multiple daily,Direct,0.5-1,10-25,"Standard: $10-$15, First-class: $25",Short historic trip
+Spain,Madrid,Valencia,Train,Renfe AVE,Multiple daily,Direct,1.5-2,40-100,"Standard: $40-$70, Preferente: $100",High-speed connection
+Spain,Madrid,Valladolid,Train,Renfe AVE,Multiple daily,Direct,1-1.5,30-80,"Standard: $30-$50, Preferente: $80",Castile link
+Spain,Madrid,Vigo,Train,Renfe,Several daily,Direct,5-6,40-90,"Standard: $40-$60, First-class: $90",Galicia route
+Spain,Madrid,Vitoria-Gasteiz,Train,Renfe,Several daily,Direct,4-5,35-85,"Standard: $35-$55, First-class: $85",Basque interior
+Spain,Madrid,Zamora,Train,Renfe,Several daily,Direct,2.5-3,30-70,"Standard: $30-$50, First-class: $70",Castile west
+Spain,Madrid,Zaragoza,Train,Renfe AVE,Multiple daily,Direct,1.5-2,30-80,"Standard: $30-$50, Preferente: $80",Northeast link
+Tunisia,Bizerte,Tabarka,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Coastal northwest
+Tunisia,Djerba,Gabès,Bus,SRT,Daily,Direct,1-2,5-15,"Standard: $5-$10, Deluxe: $15",Reverse southern
+Tunisia,Djerba,Houmt Souk,Taxi,Private Taxi,On demand,Direct,12-30,5-10,Negotiable per trip,Island hub
+Tunisia,Djerba,Medenine,Louage,Local Operators,Frequent,Direct,1-1.5,5-10,"Per seat, cash only",Southern link
+Tunisia,Djerba,Tataouine,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Southern desert
+Tunisia,Djerba,Zarzis,Taxi,Private Taxi,On demand,Direct,0.5-1,5-15,Negotiable per trip,Short island transfer
+Tunisia,Gabès,Djerba,Louage,Local Operators,Frequent,Direct,1-2,5-10,"Per seat, cash only",Island access
+Tunisia,Gabès,Kairouan,Bus,SRT,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Central route
+Tunisia,Gabès,Matmata,Louage,Local Operators,Frequent,Direct,1-2,5-10,"Per seat, cash only",Berber village route
+Tunisia,Gabès,Tozeur,Bus,SRT,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Desert crossing
+Tunisia,Hammamet,Nabeul,Louage,Local Operators,Frequent,Direct,0.5-1,2-5,"Per seat, cash only",Short regional trip
+Tunisia,Hammamet,Sousse,Louage,Local Operators,Frequent,Direct,1-1.5,5-10,"Per seat, cash only",Tourist hub link
+Tunisia,Monastir,Kasserine,Bus,SRT,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Interior link
+Tunisia,Monastir,Mahdia,Louage,Local Operators,Frequent,Direct,0.5-1,3-7,"Per seat, cash only",Coastal short trip
+Tunisia,Monastir,Sousse,Louage,Local Operators,Frequent,Direct,0.5-1,3-7,"Per seat, cash only",Departs when full
+Tunisia,Monastir,Tunis,Train,SNCFT,Multiple daily,Via Sousse,2-3,8-20,"Standard: $8-$15, First-class: $20",Reverse route
+Tunisia,Sfax,Djerba,Bus,SRT,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Southern coastal link
+Tunisia,Sfax,Douz,Bus,SRT,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Sahara gateway
+Tunisia,Sfax,El Jem,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Roman ruins
+Tunisia,Sfax,Gabès,Train,SNCFT,Several daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Southern route
+Tunisia,Sfax,Gafsa,Bus,SRT,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Interior route
+Tunisia,Sfax,Hammamet,Bus,SRT,Daily,Via Sousse,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Coastal link
+Tunisia,Sfax,Jendouba,Bus,SRT,Daily,Direct,6-7,15-30,"Standard: $15-$20, Deluxe: $30",Northwest route
+Tunisia,Sfax,Kairouan,Bus,SRT,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Central connection
+Tunisia,Sfax,Kasserine,Bus,SRT,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Interior west
+Tunisia,Sfax,Le Kef,Bus,SRT,Daily,Direct,6-7,15-30,"Standard: $15-$20, Deluxe: $30",Northwest link
+Tunisia,Sfax,Mahdia,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Coastal route
+Tunisia,Sfax,Tataouine,Bus,SRT,Daily,Direct,4-5,15-25,"Standard: $15-$20, Deluxe: $25",Desert south
+Tunisia,Sfax,Tozeur,Bus,SRT,Daily,Direct,5-6,15-25,"Standard: $15-$20, Deluxe: $25",Desert route
+Tunisia,Sfax,Tunis,Bus,SRT,Several daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Major intercity link
+Tunisia,Sfax,Zarzis,Bus,SRT,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Southern coast
+Tunisia,Sousse,El Jem,Train,SNCFT,Several daily,Direct,1-2,5-12,"Standard: $5-$8, First-class: $12",Roman ruins trip
+Tunisia,Sousse,Hammamet,Bus,SRT,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Deluxe: $10",Tourist coast
+Tunisia,Sousse,Kairouan,Bus,SRT,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Deluxe: $12",Religious site route
+Tunisia,Sousse,Kairouan,Louage,Local Operators,Frequent,Direct,1.5-2,5-12,"Per seat, cash only",Religious hub
+Tunisia,Sousse,Mahdia,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Coastal connection
+Tunisia,Sousse,Monastir,Bus,SRT,Several daily,Direct,0.5-1,2-5,"Standard: $2-$4, Deluxe: $5",Frequent service
+Tunisia,Sousse,Nabeul,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Coastal Cap Bon
+Tunisia,Sousse,Tabarka,Bus,SRT,Daily,Via Tunis,6-7,15-30,"Standard: $15-$20, Deluxe: $30",Northern coast
+Tunisia,Sousse,Tunis,Train,SNCFT,Multiple daily,Direct,1.5-2,5-15,"Standard: $5-$10, First-class: $15",Reverse coastal route
+Tunisia,Sousse,Zarzis,Bus,SRT,Daily,Via Sfax,5-6,15-30,"Standard: $15-$20, Deluxe: $30",Southern coast
+Tunisia,Tunis,Ain Draham,Bus,SRT,Daily,Via Jendouba,4-5,10-25,"Standard: $10-$15, Deluxe: $25",Mountain forest
+Tunisia,Tunis,Ariana,Metro,TRANSTU,Frequent,Direct,12-30,1-3,Standard fare,Urban light rail
+Tunisia,Tunis,Beja,Train,SNCFT,Several daily,Direct,2-3,5-15,"Standard: $5-$10, First-class: $15",Northern interior
+Tunisia,Tunis,Béja,Bus,SRT,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Fertile north
+Tunisia,Tunis,Bizerte,Bus,SRT,Multiple daily,Direct,1.5-2,5-10,"Standard: $5-$8, Deluxe: $10",Northern coastal route
+Tunisia,Tunis,Bulla Regia,Bus,SRT,Daily,Via Jendouba,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Roman ruins
+Tunisia,Tunis,Carthage,Metro,TRANSTU,Frequent,Direct,12-30,1-3,Standard fare,Historical site link
+Tunisia,Tunis,Chebika,Bus,SRT,Daily,Via Tozeur,8-9,20-35,"Standard: $20-$25, Deluxe: $35",Oasis village
+Tunisia,Tunis,Djerba,Flight,Tunisair Express,Daily,Direct,1,30-80,"Economy: $30-$60, Business: $80",Seasonal availability
+Tunisia,Tunis,Douz,Bus,SRT,Daily,Via Gabès,7-8,15-30,"Standard: $15-$20, Deluxe: $30",Gateway to Sahara
+Tunisia,Tunis,El Haouaria,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Cap Bon tip
+Tunisia,Tunis,El Jem,Bus,SRT,Several daily,Direct,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Amphitheater destination
+Tunisia,Tunis,El Kef,Train,SNCFT,Several daily,Direct,3-4,10-20,"Standard: $10-$15, First-class: $20",Northwest history
+Tunisia,Tunis,Gabès,Train,SNCFT,Several daily,Direct,5-6,15-25,"Standard: $15-$20, First-class: $25",Southern coastal
+Tunisia,Tunis,Gafsa,Train,SNCFT,Several daily,Direct,5-6,10-25,"Standard: $10-$15, First-class: $25",Interior route
+Tunisia,Tunis,Ghardimaou,Bus,SRT,Daily,Via Jendouba,4-5,10-25,"Standard: $10-$15, Deluxe: $25",Algerian border
+Tunisia,Tunis,Hammamet,Train,SNCFT,Multiple daily,Direct,1-1.5,5-12,"Standard: $5-$8, First-class: $12",Tourist-friendly route
+Tunisia,Tunis,Hergla,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Coastal village
+Tunisia,Tunis,Jendouba,Bus,SRT,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Northwest link
+Tunisia,Tunis,Kairouan,Bus,SRT,Multiple daily,Direct,2-3,5-12,"Standard: $5-$8, Deluxe: $12",Holy city connection
+Tunisia,Tunis,Kasserine,Bus,SRT,Daily,Direct,4-5,10-20,"Standard: $10-$15, Deluxe: $20",Mountainous region
+Tunisia,Tunis,Kélibia,Bus,SRT,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Cap Bon peninsula
+Tunisia,Tunis,Korba,Bus,SRT,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Cap Bon coast
+Tunisia,Tunis,La Marsa,Metro,TRANSTU,Frequent,Direct,0.5-1,1-3,Standard fare,Coastal suburb link
+Tunisia,Tunis,Le Kef,Bus,SRT,Daily,Direct,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Historical site
+Tunisia,Tunis,Mahdia,Bus,SRT,Several daily,Via Sousse,3-4,10-20,"Standard: $10-$15, Deluxe: $20",Coastal route
+Tunisia,Tunis,Mahdia,Train,SNCFT,Multiple daily,Via Sousse,3-4,10-20,"Standard: $10-$15, First-class: $20",Scenic coastal route
+Tunisia,Tunis,Matmata,Bus,SRT,Daily,Via Gabès,7-8,15-30,"Standard: $15-$20, Deluxe: $30",Troglodyte village
+Tunisia,Tunis,Medenine,Bus,SRT,Daily,Direct,6-7,15-30,"Standard: $15-$20, Deluxe: $30",Southern route
+Tunisia,Tunis,Menzel Bourguiba,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Northern lake
+Tunisia,Tunis,Metline,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Coastal north
+Tunisia,Tunis,Nabeul,Bus,SRT,Multiple daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Cap Bon region
+Tunisia,Tunis,Port El Kantaoui,Bus,SRT,Several daily,Via Sousse,2-3,5-15,"Standard: $5-$10, Deluxe: $15",Tourist marina
+Tunisia,Tunis,Ras Jebel,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Northern coast
+Tunisia,Tunis,Sbeitla,Bus,SRT,Daily,Direct,4-5,10-25,"Standard: $10-$15, Deluxe: $25",Roman site
+Tunisia,Tunis,Sfax,Train,SNCFT,Multiple daily,Direct,3-4,8-20,"Standard: $8-$15, First-class: $20",Coastal route
+Tunisia,Tunis,Sidi Bou Said,Metro,TRANSTU,Frequent,Direct,0.5-1,1-3,Standard fare,Scenic suburb
+Tunisia,Tunis,Sidi Bouzid,Bus,SRT,Several daily,Direct,3-4,8-18,"Standard: $8-$12, Deluxe: $18",Central Tunisia
+Tunisia,Tunis,Siliana,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Central north
+Tunisia,Tunis,Sousse,Train,SNCFT,Multiple daily,Direct,1.5-2,5-15,"Standard: $5-$10, First-class: $15",Air-conditioned first-class available
+Tunisia,Tunis,Tabarka,Bus,SRT,Daily,Via Bizerte,4-5,10-25,"Standard: $10-$15, Deluxe: $25",Coastal northwest
+Tunisia,Tunis,Tamerza,Bus,SRT,Daily,Via Tozeur,8-9,20-35,"Standard: $20-$25, Deluxe: $35",Mountain oasis
+Tunisia,Tunis,Testour,Bus,SRT,Daily,Direct,2-3,8-15,"Standard: $8-$12, Deluxe: $15",Northern village
+Tunisia,Tunis,Tozeur,Flight,Tunisair Express,Few weekly,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Desert destination
+Tunisia,Tunis,Zaghouan,Bus,SRT,Several daily,Direct,1-2,5-10,"Standard: $5-$8, Deluxe: $10",Mountain spring route
+Turkey,Ankara,Adana,Bus,Metro Turizm,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Southern route
+Turkey,Ankara,Alanya,Bus,Pamukkale Turizm,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Mediterranean route
+Turkey,Ankara,Antalya,Bus,Pamukkale Turizm,Several daily,Direct,7-8,25-55,"Standard: $25-$40, Premium: $55",Southern link
+Turkey,Ankara,Ayvalık,Bus,Kamil Koç,Several daily,Direct,9-10,25-55,"Standard: $25-$40, Premium: $55",North Aegean
+Turkey,Ankara,Bodrum,Bus,Pamukkale Turizm,Several daily,Direct,10-11,30-60,"Standard: $30-$45, Premium: $60",Resort route
+Turkey,Ankara,Bursa,Bus,Kamil Koç,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Marmara route
+Turkey,Ankara,Çanakkale,Bus,Pamukkale Turizm,Several daily,Direct,9-10,25-55,"Standard: $25-$40, Premium: $55",Dardanelles route
+Turkey,Ankara,Denizli,Bus,Kamil Koç,Several daily,Direct,7-8,25-55,"Standard: $25-$40, Premium: $55",Pamukkale route
+Turkey,Ankara,Eskişehir,Train,TCDD Yüksek Hızlı Tren,Multiple daily,Direct,1-1.5,15-40,"Standard: $15-$25, Business: $40",Short high-speed
+Turkey,Ankara,Fethiye,Bus,Pamukkale Turizm,Several daily,Direct,9-10,25-55,"Standard: $25-$40, Premium: $55",Turquoise Coast
+Turkey,Ankara,Gaziantep,Bus,Metro Turizm,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Southeast route
+Turkey,Ankara,Istanbul,Train,TCDD Yüksek Hızlı Tren,Multiple daily,Direct,4-4.5,30-70,"Standard: $30-$50, Business: $70",Reverse high-speed
+Turkey,Ankara,Izmir,Bus,Kamil Koç,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Western journey
+Turkey,Ankara,Kayseri,Bus,Pamukkale Turizm,Several daily,Direct,4-5,15-35,"Standard: $15-$25, Premium: $35",Cappadocia link
+Turkey,Ankara,Konya,Train,TCDD Yüksek Hızlı Tren,Multiple daily,Direct,1.5-2,15-40,"Standard: $15-$25, Business: $40",Short high-speed
+Turkey,Ankara,Marmaris,Bus,Pamukkale Turizm,Several daily,Direct,10-11,30-60,"Standard: $30-$45, Premium: $60",Aegean resort
+Turkey,Ankara,Mersin,Bus,Pamukkale Turizm,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Mediterranean route
+Turkey,Ankara,Muğla,Bus,Kamil Koç,Several daily,Direct,10-11,30-60,"Standard: $30-$45, Premium: $60",Aegean route
+Turkey,Ankara,Samsun,Bus,Kamil Koç,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Black Sea route
+Turkey,Ankara,Sivas,Train,TCDD Yüksek Hızlı Tren,Several daily,Direct,2-2.5,20-50,"Standard: $20-$35, Business: $50",Eastern high-speed
+Turkey,Ankara,Trabzon,Flight,Turkish Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Black Sea hop
+Turkey,Antalya,Fethiye,Bus,Pamukkale Turizm,Several daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Turquoise Coast
+Turkey,Antalya,Izmir,Bus,Kamil Koç,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Reverse coastal
+Turkey,Istanbul,Adana,Flight,Turkish Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Southern route
+Turkey,Istanbul,Afyonkarahisar,Bus,Metro Turizm,Several daily,Direct,7-8,25-55,"Standard: $25-$40, Premium: $55",Central route
+Turkey,Istanbul,Alanya,Bus,Metro Turizm,Several daily,Direct,14-15,40-80,"Standard: $40-$60, Premium: $80",Long southern
+Turkey,Istanbul,Ankara,Flight,Pegasus Airlines,Multiple daily,Direct,1,30-80,"Economy: $30-$50, Priority: $80",Quick hop
+Turkey,Istanbul,Ankara,Train,TCDD Yüksek Hızlı Tren,Multiple daily,Direct,4-4.5,30-70,"Standard: $30-$50, Business: $70",High-speed rail
+Turkey,Istanbul,Antalya,Bus,Pamukkale Turizm,Several daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Long southern
+Turkey,Istanbul,Antalya,Flight,Pegasus Airlines,Multiple daily,Direct,1-1.5,30-80,"Economy: $30-$50, Priority: $80",Budget flight
+Turkey,Istanbul,Aydın,Bus,Metro Turizm,Several daily,Direct,9-10,25-55,"Standard: $25-$40, Premium: $55",Aegean route
+Turkey,Istanbul,Ayvalık,Bus,Pamukkale Turizm,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",North Aegean
+Turkey,Istanbul,Balıkesir,Bus,Kamil Koç,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Aegean inland
+Turkey,Istanbul,Bandırma,Ferry,İDO,Several daily,Direct,2-2.5,20-50,"Standard: $20-$35, Premium: $50",Sea of Marmara
+Turkey,Istanbul,Bodrum,Flight,Pegasus Airlines,Multiple daily,Direct,1-1.5,30-80,"Economy: $30-$50, Priority: $80",Resort hop
+Turkey,Istanbul,Bursa,Bus,Kamil Koç,Multiple daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Marmara region
+Turkey,Istanbul,Bursa,Ferry,İDO,Multiple daily,Direct,2-2.5,20-50,"Standard: $20-$35, Premium: $50",Sea of Marmara
+Turkey,Istanbul,Çanakkale,Bus,Metro Turizm,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Dardanelles route
+Turkey,Istanbul,Denizli,Bus,Metro Turizm,Several daily,Direct,10-11,30-60,"Standard: $30-$45, Premium: $60",Pamukkale route
+Turkey,Istanbul,Diyarbakır,Flight,Turkish Airlines,Several daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Southeast hop
+Turkey,Istanbul,Edirne,Bus,Pamukkale Turizm,Several daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Thrace region
+Turkey,Istanbul,Elazığ,Flight,Pegasus Airlines,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+Turkey,Istanbul,Erzurum,Flight,Turkish Airlines,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+Turkey,Istanbul,Eskişehir,Bus,Metro Turizm,Multiple daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Reverse short
+Turkey,Istanbul,Eskişehir,Train,TCDD Yüksek Hızlı Tren,Multiple daily,Direct,2.5-3,20-50,"Standard: $20-$35, Business: $50",High-speed short
+Turkey,Istanbul,Gaziantep,Flight,Pegasus Airlines,Several daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Southeast hop
+Turkey,Istanbul,Hatay,Flight,Pegasus Airlines,Several daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Southeast hop
+Turkey,Istanbul,Isparta,Bus,Kamil Koç,Several daily,Direct,10-11,30-60,"Standard: $30-$45, Premium: $60",Lakes region
+Turkey,Istanbul,Izmir,Bus,Metro Turizm,Multiple daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Long coastal
+Turkey,Istanbul,Izmir,Flight,Turkish Airlines,Multiple daily,Direct,1-1.5,40-100,"Economy: $40-$70, Business: $100",Fast option
+Turkey,Istanbul,Kars,Flight,Turkish Airlines,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+Turkey,Istanbul,Kayseri,Flight,Turkish Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Cappadocia gateway
+Turkey,Istanbul,Konya,Train,TCDD Yüksek Hızlı Tren,Several daily,Direct,4.5-5,30-70,"Standard: $30-$50, Business: $70",Central Anatolia
+Turkey,Istanbul,Kütahya,Bus,Kamil Koç,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Central west
+Turkey,Istanbul,Malatya,Flight,Turkish Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Eastern hop
+Turkey,Istanbul,Mersin,Flight,Pegasus Airlines,Several daily,Direct,1.5,30-80,"Economy: $30-$50, Priority: $80",Mediterranean hop
+Turkey,Istanbul,Muğla,Bus,Metro Turizm,Several daily,Direct,12-13,35-70,"Standard: $35-$50, Premium: $70",Aegean long
+Turkey,Istanbul,Nevşehir,Flight,Pegasus Airlines,Several daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Cappadocia hop
+Turkey,Istanbul,Ordu,Flight,Turkish Airlines,Daily,Direct,1.5,40-100,"Economy: $40-$70, Business: $100",Black Sea hop
+Turkey,Istanbul,Rize,Flight,Pegasus Airlines,Daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Black Sea hop
+Turkey,Istanbul,Samsun,Flight,Turkish Airlines,Several daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Black Sea route
+Turkey,Istanbul,Şanlıurfa,Flight,Turkish Airlines,Daily,Direct,2,50-120,"Economy: $50-$80, Business: $120",Southeast hop
+Turkey,Istanbul,Sinop,Flight,Turkish Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Black Sea hop
+Turkey,Istanbul,Sivas,Bus,Metro Turizm,Several daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Eastern long
+Turkey,Istanbul,Tokat,Bus,Metro Turizm,Several daily,Direct,12-13,35-70,"Standard: $35-$50, Premium: $70",Central east
+Turkey,Istanbul,Trabzon,Flight,Pegasus Airlines,Several daily,Direct,1.5,30-80,"Economy: $30-$50, Priority: $80",Black Sea hop
+Turkey,Istanbul,Uşak,Bus,Kamil Koç,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Aegean inland
+Turkey,Istanbul,Van,Flight,Turkish Airlines,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Far east hop
+Turkey,Istanbul,Zonguldak,Bus,Metro Turizm,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Black Sea route
+Turkey,Izmir,Adana,Flight,Pegasus Airlines,Several daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Southern hop
+Turkey,Izmir,Ankara,Bus,Pamukkale Turizm,Several daily,Direct,8-9,25-55,"Standard: $25-$40, Premium: $55",Reverse western
+Turkey,Izmir,Antalya,Bus,Metro Turizm,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Coastal route
+Turkey,Izmir,Bodrum,Bus,Kamil Koç,Multiple daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Aegean coast
+Turkey,Izmir,Bursa,Bus,Metro Turizm,Several daily,Direct,5-6,20-45,"Standard: $20-$35, Premium: $45",Marmara link
+Turkey,Izmir,Çeşme,Bus,Kamil Koç,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Aegean short
+Turkey,Izmir,Denizli,Bus,Pamukkale Turizm,Several daily,Direct,3-4,15-35,"Standard: $15-$25, Premium: $35",Pamukkale link
+Turkey,Izmir,Eskişehir,Bus,Metro Turizm,Several daily,Direct,6-7,20-50,"Standard: $20-$35, Premium: $50",Central link
+Turkey,Izmir,Fethiye,Bus,Pamukkale Turizm,Several daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Turquoise Coast
+Turkey,Izmir,Gaziantep,Flight,Pegasus Airlines,Daily,Direct,12-31,30-80,"Economy: $30-$50, Priority: $80",Southeast hop
+Turkey,Izmir,Istanbul,Flight,Turkish Airlines,Multiple daily,Direct,1-1.5,40-100,"Economy: $40-$70, Business: $100",Reverse flight
+Turkey,Izmir,Kayseri,Flight,Pegasus Airlines,Daily,Direct,1.5,30-80,"Economy: $30-$50, Priority: $80",Cappadocia hop
+Turkey,Izmir,Konya,Bus,Pamukkale Turizm,Several daily,Direct,7-8,25-55,"Standard: $25-$40, Premium: $55",Central Anatolia
+Turkey,Izmir,Kuşadası,Bus,Kamil Koç,Multiple daily,Direct,1-1.5,10-25,"Standard: $10-$15, Premium: $25",Short coastal
+Turkey,Izmir,Marmaris,Bus,Kamil Koç,Several daily,Direct,4-5,20-45,"Standard: $20-$35, Premium: $45",Aegean resort
+Turkey,Izmir,Nevşehir,Flight,Turkish Airlines,Daily,Direct,12-31,40-100,"Economy: $40-$70, Business: $100",Cappadocia hop
+Turkey,Izmir,Samsun,Flight,Turkish Airlines,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Black Sea hop
+Turkey,Izmir,Sivas,Bus,Kamil Koç,Daily,Direct,12-14,35-70,"Standard: $35-$50, Premium: $70",Eastern long
+Turkey,Izmir,Trabzon,Flight,Turkish Airlines,Daily,Direct,1-1,50-120,"Economy: $50-$80, Business: $120",Black Sea hop
+UAE,Abu Dhabi,Ajman,Bus,AD Mobility,Daily,Via Dubai,2.5-3,8-15,"Standard: $8-$12, Premium: $15",Northern urban
+UAE,Abu Dhabi,Ajman,Flight,Etihad Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Northern urban
+UAE,Abu Dhabi,Al Ain,Bus,AD Mobility,Multiple daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Eastern route
+UAE,Abu Dhabi,Al Ain,Bus,AD Mobility,Multiple daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Frequent service
+UAE,Abu Dhabi,Al Ain,Flight,Etihad Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Limited service
+UAE,Abu Dhabi,Al Ain,Flight,Etihad Airways,Daily,Direct,0.5,50-120,"Economy: $50-$80, Business: $120",Eastern hop
+UAE,Abu Dhabi,Dubai,Bus,RTA Intercity,Multiple daily,Direct,1.5-2,5-15,"Standard: $5-$10, Premium: $15",Frequent service
+UAE,Abu Dhabi,Fujairah,Bus,AD Mobility,Daily,Via Dubai,4-5,15-25,"Standard: $15-$20, Premium: $25",East coast link
+UAE,Abu Dhabi,Fujairah,Bus,AD Mobility,Daily,Via Dubai,4-5,15-25,"Standard: $15-$20, Premium: $25",East coast route
+UAE,Abu Dhabi,Fujairah,Flight,Etihad Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",East coast link
+UAE,Abu Dhabi,Ras Al Khaimah,Bus,AD Mobility,Several daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern emirate
+UAE,Abu Dhabi,Ras Al Khaimah,Bus,AD Mobility,Several daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern route
+UAE,Abu Dhabi,Ras Al Khaimah,Flight,Etihad Airways,Daily,Direct,0.5,50-120,"Economy: $50-$80, Business: $120",Northern hop
+UAE,Abu Dhabi,Sharjah,Bus,AD Mobility,Multiple daily,Via Dubai,2-3,8-15,"Standard: $8-$12, Premium: $15",Urban corridor
+UAE,Abu Dhabi,Sharjah,Bus,AD Mobility,Multiple daily,Via Dubai,2-3,8-15,"Standard: $8-$12, Premium: $15",Reverse urban
+UAE,Abu Dhabi,Sharjah,Flight,Etihad Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Urban hop
+UAE,Abu Dhabi,Umm Al Quwain,Bus,AD Mobility,Daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern route
+UAE,Abu Dhabi,Umm Al Quwain,Bus,AD Mobility,Daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Northern link
+UAE,Abu Dhabi,Umm Al Quwain,Flight,Etihad Airways,Daily,Direct,12-30,50-120,"Economy: $50-$80, Business: $120",Northern link
+UAE,Al Ain,Abu Dhabi,Bus,AD Mobility,Multiple daily,Direct,2-2.5,5-12,"Standard: $5-$8, Premium: $12",Reverse eastern
+UAE,Al Ain,Dubai,Bus,RTA Intercity,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Reverse route
+UAE,Al Ain,Fujairah,Bus,RTA Intercity,Daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Eastern connection
+UAE,Al Ain,Fujairah,Flight,Flydubai,Daily,Direct,0.5,40-100,"Economy: $40-$70, Business: $100",East coast link
+UAE,Al Ain,Ras Al Khaimah,Bus,RTA Intercity,Daily,Via Dubai,4-5,15-25,"Standard: $15-$20, Premium: $25",Northern loop
+UAE,Al Ain,Ras Al Khaimah,Flight,Flydubai,Daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Northern hop
+UAE,Al Ain,Sharjah,Bus,RTA Intercity,Several daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Reverse route
+UAE,Al Ain,Sharjah,Flight,Flydubai,Daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Reverse urban
+UAE,Dubai,Abu Dhabi,Bus,RTA Intercity,Multiple daily,Direct,1.5-2,5-15,"Standard: $5-$10, Premium: $15",Wi-Fi on premium buses
+UAE,Dubai,Abu Dhabi,Flight,Flydubai,Daily,Direct,0.5,40-100,"Economy: $40-$70, Business: $100",Short hop option
+UAE,Dubai,Ajman,Bus,RTA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Short trip
+UAE,Dubai,Ajman,Bus,RTA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Urban corridor
+UAE,Dubai,Ajman,Flight,Flydubai,Daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Short hop
+UAE,Dubai,Al Ain,Bus,RTA Intercity,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Desert highway
+UAE,Dubai,Al Ain,Bus,RTA Intercity,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",Reverse eastern
+UAE,Dubai,Al Ain,Flight,Flydubai,Daily,Direct,0.5,40-100,"Economy: $40-$70, Business: $100",Eastern hop
+UAE,Dubai,Fujairah,Bus,RTA Intercity,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",East coast
+UAE,Dubai,Fujairah,Bus,RTA Intercity,Several daily,Direct,2-2.5,8-15,"Standard: $8-$12, Premium: $15",Hajar Mountains
+UAE,Dubai,Fujairah,Flight,Flydubai,Daily,Direct,0.5,40-100,"Economy: $40-$70, Business: $100",East coast hop
+UAE,Dubai,Ras Al Khaimah,Bus,RTA Intercity,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Northern route
+UAE,Dubai,Ras Al Khaimah,Bus,RTA Intercity,Several daily,Direct,1.5-2,5-12,"Standard: $5-$8, Premium: $12",Northern emirate
+UAE,Dubai,Ras Al Khaimah,Flight,Flydubai,Daily,Direct,0.5,40-100,"Economy: $40-$70, Business: $100",Northern hop
+UAE,Dubai,Sharjah,Bus,RTA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Short urban link
+UAE,Dubai,Sharjah,Bus,RTA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Reverse urban
+UAE,Dubai,Sharjah,Metro,RTA,Multiple daily,Direct,0.5,2-5,"Standard: $2-$3, Gold: $5",Dubai Metro extension
+UAE,Dubai,Umm Al Quwain,Bus,RTA Intercity,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Northern emirate
+UAE,Dubai,Umm Al Quwain,Bus,RTA Intercity,Several daily,Direct,1-1.5,5-10,"Standard: $5-$8, Premium: $10",Northern short trip
+UAE,Dubai,Umm Al Quwain,Flight,Flydubai,Daily,Direct,12-30,40-100,"Economy: $40-$70, Business: $100",Northern link
+UAE,Sharjah,Ajman,Bus,RTA,Multiple daily,Direct,0.5,2-5,"Standard: $2-$3, Premium: $5",Neighboring emirates
+UAE,Sharjah,Ajman,Bus,RTA,Multiple daily,Direct,0.5,2-5,"Standard: $2-$3, Premium: $5",Adjacent emirates
+UAE,Sharjah,Ajman,Flight,Air Arabia,Daily,Direct,12-30,30-80,"Economy: $30-$50, Business: $80",Short hop
+UAE,Sharjah,Al Ain,Bus,RTA Intercity,Several daily,Via Dubai,3-4,10-20,"Standard: $10-$15, Premium: $20",Eastern connection
+UAE,Sharjah,Dubai,Bus,RTA,Multiple daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Commuter route
+UAE,Sharjah,Fujairah,Bus,RTA Intercity,Several daily,Direct,2-3,8-15,"Standard: $8-$12, Premium: $15",East coast route
+UAE,Sharjah,Fujairah,Flight,Air Arabia,Daily,Direct,0.5,30-80,"Economy: $30-$50, Business: $80",East coast hop
+UAE,Sharjah,Ras Al Khaimah,Bus,RTA Intercity,Several daily,Direct,1-2,5-12,"Standard: $5-$8, Premium: $12",Northern link
+UAE,Sharjah,Ras Al Khaimah,Flight,Air Arabia,Daily,Direct,0.5,30-80,"Economy: $30-$50, Business: $80",Northern hop
+UAE,Sharjah,Umm Al Quwain,Bus,RTA Intercity,Several daily,Direct,0.5-1,3-8,"Standard: $3-$5, Premium: $8",Short northern
+UAE,Sharjah,Umm Al Quwain,Flight,Air Arabia,Daily,Direct,12-30,30-80,"Economy: $30-$50, Business: $80",Northern hop

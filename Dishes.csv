@@ -1,0 +1,1711 @@
+Country,City,Dish Name,Dish Details,Type,Avg Price (USD),Best For
+Bahrain,Hamad Town,Balaleet,Sweet vermicelli with eggs,Breakfast Dish,3,Breakfast
+Bahrain,Hamad Town,Machboos,Spiced rice with chicken,Main Dish,7,Dinner
+Bahrain,Hamad Town,Harees,Wheat porridge with lamb,Main Dish,5,Lunch
+Bahrain,Hamad Town,Thareed,Bread in vegetable and meat broth,Main Dish,6,Lunch
+Bahrain,Hamad Town,Muhammar,Sweet rice with saffron,Main Dish,5,Lunch
+Bahrain,Hamad Town,Luqaimat,Fried dough with date syrup,Dessert,2,Snack
+Bahrain,Hamad Town,Samboosa,Pastries with spiced filling,Appetizer,2,Snack
+Bahrain,Hamad Town,Khanfaroosh,Sweet fried dough,Dessert,2,Snack
+Bahrain,Hamad Town,Karak Tea,Spiced milky tea,Dessert,1,Snack
+Bahrain,Isa Town,Balaleet,Sweet noodles with saffron,Breakfast Dish,3,Breakfast
+Bahrain,Isa Town,Machboos,Rice with lamb and baharat,Main Dish,7,Dinner
+Bahrain,Isa Town,Kebab,Grilled spiced meat skewers,Street Food,4,Dinner
+Bahrain,Isa Town,Harees,Wheat and chicken porridge,Main Dish,5,Lunch
+Bahrain,Isa Town,Thareed,Bread in lamb broth,Main Dish,6,Lunch
+Bahrain,Isa Town,Muhammar,Sweet rice with dates,Main Dish,5,Lunch
+Bahrain,Isa Town,Luqaimat,Fried dough with honey,Dessert,2,Snack
+Bahrain,Isa Town,Samboosa,Pastries with meat,Appetizer,2,Snack
+Bahrain,Isa Town,Qahwa,Arabic coffee with spices,Dessert,1,Snack
+Bahrain,Manama,Balaleet,Sweet vermicelli noodles with cardamom and eggs,Breakfast Dish,3,Breakfast
+Bahrain,Manama,Machboos,"Spiced rice with chicken or fish, baharat blend",Main Dish,7,Dinner
+Bahrain,Manama,Harees,Wheat porridge with meat and ghee,Main Dish,5,Dinner
+Bahrain,Manama,Muhammar,Sweet rice with dates and saffron,Main Dish,5,Lunch
+Bahrain,Manama,Thareed,Bread soaked in lamb broth with spices,Main Dish,6,Lunch
+Bahrain,Manama,Khanfaroosh,Fried dough with saffron and sugar,Dessert,2,Snack
+Bahrain,Manama,Samboosa,Pastries with spiced meat or cheese,Appetizer,2,Snack
+Bahrain,Manama,Luqaimat,Fried dough balls with date syrup,Dessert,2,Snack
+Bahrain,Manama,Qahwa,Arabic coffee with cardamom,Dessert,1,Snack
+Bahrain,Muharraq,Balaleet,Sweet noodles with saffron,Breakfast Dish,3,Breakfast
+Bahrain,Muharraq,Machboos with Fish,Spiced rice with fresh hammour,Main Dish,8,Dinner
+Bahrain,Muharraq,Grilled Hammour,Fresh fish with baharat spices,Main Dish,7,Dinner
+Bahrain,Muharraq,Jireesh,Cracked wheat with chicken and spices,Main Dish,5,Lunch
+Bahrain,Muharraq,Thareed,Bread in fish broth,Main Dish,6,Lunch
+Bahrain,Muharraq,Khanfaroosh,Sweet fried dough with rose water,Dessert,2,Snack
+Bahrain,Muharraq,Samboosa,Pastries with fish filling,Appetizer,2,Snack
+Bahrain,Muharraq,Rangina,Dates with flour and butter sauce,Dessert,3,Snack
+Bahrain,Muharraq,Karak Tea,Spiced tea with milk,Dessert,1,Snack
+Bahrain,Riffa,Machboos,Rice with lamb and dried lime,Main Dish,7,Dinner
+Bahrain,Riffa,Kebab,Grilled meat skewers with spices,Street Food,4,Dinner
+Bahrain,Riffa,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+Bahrain,Riffa,Muhammar,Sweet rice with dates,Main Dish,5,Lunch
+Bahrain,Riffa,Thareed,Bread in spiced meat broth,Main Dish,6,Lunch
+Bahrain,Riffa,Luqaimat,Fried dough with honey,Dessert,2,Snack
+Bahrain,Riffa,Samboosa,Pastries with cheese or meat,Appetizer,2,Snack
+Bahrain,Riffa,Khanfaroosh,Fried dough with saffron,Dessert,2,Snack
+Bahrain,Riffa,Qahwa,Cardamom coffee,Dessert,1,Snack
+Croatia,Dubrovnik,Pašticada,Slow-cooked beef with sweet-sour sauce,Main Dish,12,Dinner
+Croatia,Dubrovnik,Crni Rižot,Squid ink black risotto,Main Dish,9,Dinner
+Croatia,Dubrovnik,Šporki Makaruli,Pasta with beef in cinnamon sauce,Main Dish,10,Dinner
+Croatia,Dubrovnik,Buzara,Mussels in wine and garlic sauce,Main Dish,8,Dinner
+Croatia,Dubrovnik,Stonske Školjke,Oysters from Ston,Appetizer,6,Lunch
+Croatia,Dubrovnik,Zelena Menestra,Vegetable and meat stew,Main Dish,7,Lunch
+Croatia,Dubrovnik,Rožata,Custard with rose liqueur,Dessert,4,Snack
+Croatia,Dubrovnik,Fritule,Fried dough with rum and citrus,Dessert,3,Snack
+Croatia,Dubrovnik,Kotonjata,Quince jelly candy,Dessert,2,Snack
+Croatia,Osijek,Slavonska Pogača,Flatbread with lard,Breakfast Dish,3,Breakfast
+Croatia,Osijek,Čobanac,Spicy shepherd’s stew with meat,Main Dish,8,Dinner
+Croatia,Osijek,Sarma,Cabbage rolls with minced meat,Main Dish,6,Dinner
+Croatia,Osijek,Gulaš,Beef stew with paprika,Main Dish,7,Dinner
+Croatia,Osijek,Fiš Paprikaš,Fish stew with paprika,Main Dish,7,Lunch
+Croatia,Osijek,Ćevapi,Grilled minced meat sausages,Main Dish,6,Lunch
+Croatia,Osijek,Kulen,Spicy cured sausage,Appetizer,5,Snack
+Croatia,Osijek,Šnenokle,Floating meringue dessert,Dessert,3,Snack
+Croatia,Osijek,Knedle s Šljivama,Plum dumplings,Dessert,4,Snack
+Croatia,Pula,Fritaja s Šparogama,Asparagus omelette,Breakfast Dish,5,Breakfast
+Croatia,Pula,Fuži s Tartufima,Pasta with Istrian truffles,Main Dish,12,Dinner
+Croatia,Pula,Pljukanci,Hand-rolled pasta with sauce,Main Dish,7,Dinner
+Croatia,Pula,Buzara,Shellfish in wine sauce,Main Dish,9,Dinner
+Croatia,Pula,Boškarin,Istrian ox stew,Main Dish,11,Dinner
+Croatia,Pula,Supa,Red wine soup with bread,Appetizer,4,Dinner
+Croatia,Pula,Brodet,Fish stew with garlic and wine,Main Dish,8,Lunch
+Croatia,Pula,Maneštra,Vegetable and bean soup,Main Dish,6,Lunch
+Croatia,Pula,Kroštule,Fried sweet dough strips,Dessert,2,Snack
+Croatia,Rijeka,Fuži s Tartufima,Pasta with truffle sauce,Main Dish,12,Dinner
+Croatia,Rijeka,Bakalar na Bijelo,Cod in garlic sauce,Main Dish,9,Dinner
+Croatia,Rijeka,Šurlice,Handmade pasta with meat sauce,Main Dish,8,Dinner
+Croatia,Rijeka,Brodet,Fish stew with polenta,Main Dish,8,Lunch
+Croatia,Rijeka,Jota,Bean and sauerkraut stew,Main Dish,6,Lunch
+Croatia,Rijeka,Sardele na Savor,Marinated sardines,Appetizer,5,Lunch
+Croatia,Rijeka,Kroštule,Fried twisted pastries,Dessert,2,Snack
+Croatia,Rijeka,Presnac,Cheese and egg pastry,Dessert,4,Snack
+Croatia,Rijeka,Rakija,Fruit brandy,Dessert,3,Snack
+Croatia,Šibenik,Pašticada,Beef stew with gnocchi,Main Dish,12,Dinner
+Croatia,Šibenik,Crni Rižot,Squid ink risotto,Main Dish,9,Dinner
+Croatia,Šibenik,Gregada,Fish stew with potatoes,Main Dish,8,Dinner
+Croatia,Šibenik,Janjetina,Spit-roasted lamb,Main Dish,14,Dinner
+Croatia,Šibenik,Skampi na Buzaru,Shrimp in wine sauce,Main Dish,10,Dinner
+Croatia,Šibenik,Soparnik,Swiss chard pie,Main Dish,5,Lunch
+Croatia,Šibenik,Viška Pogača,Anchovy and onion bread,Main Dish,6,Lunch
+Croatia,Šibenik,Rožata,Custard pudding with rose liqueur,Dessert,4,Snack
+Croatia,Šibenik,Fritule,Fried dough with raisins,Dessert,3,Snack
+Croatia,Split,Pašticada,Beef stewed in wine with gnocchi,Main Dish,12,Dinner
+Croatia,Split,Crni Rižot,Black risotto with squid ink,Main Dish,9,Dinner
+Croatia,Split,Gregada,Fish stew with potatoes,Main Dish,8,Dinner
+Croatia,Split,Janjetina,Roast lamb on a spit,Main Dish,14,Dinner
+Croatia,Split,Brudet,Fish stew with polenta,Main Dish,8,Lunch
+Croatia,Split,Soparnik,Swiss chard pie baked in ashes,Main Dish,5,Lunch
+Croatia,Split,Salata od Hobotnice,Octopus salad with olive oil,Appetizer,6,Lunch
+Croatia,Split,Rožata,Rose liqueur custard pudding,Dessert,4,Snack
+Croatia,Split,Fritule,Fried dough balls with raisins,Dessert,3,Snack
+Croatia,Trogir,Pašticada,Beef in sweet-sour sauce with gnocchi,Main Dish,12,Dinner
+Croatia,Trogir,Crni Rižot,Black squid ink risotto,Main Dish,9,Dinner
+Croatia,Trogir,Gregada,Fish and potato stew,Main Dish,8,Dinner
+Croatia,Trogir,Soparnik,Chard pie baked in ashes,Main Dish,5,Lunch
+Croatia,Trogir,Brudet,Fish stew with polenta,Main Dish,8,Lunch
+Croatia,Trogir,Salata od Hobotnice,Octopus salad,Appetizer,6,Lunch
+Croatia,Trogir,Rafiol,Sweet ravioli with almond filling,Dessert,3,Snack
+Croatia,Trogir,Rožata,Rose-flavored custard,Dessert,4,Snack
+Croatia,Trogir,Fritule,Fried dough balls,Dessert,3,Snack
+Croatia,Varaždin,Varaždinski Klipići,Crescent rolls,Breakfast Dish,2,Breakfast
+Croatia,Varaždin,Mlinci s Puretinom,Flatbread with turkey,Main Dish,8,Dinner
+Croatia,Varaždin,Špek Fileki,Pasta with bacon,Main Dish,6,Dinner
+Croatia,Varaždin,Zagorski Štrukli,Cheese-filled dough pockets,Main Dish,5,Lunch
+Croatia,Varaždin,Gibanica,Layered cheese pastry,Main Dish,6,Lunch
+Croatia,Varaždin,Bučnica,Pumpkin strudel,Main Dish,5,Lunch
+Croatia,Varaždin,Turoš,Spiced cottage cheese spread,Appetizer,3,Snack
+Croatia,Varaždin,Kremšnita,Custard cake,Dessert,3,Snack
+Croatia,Varaždin,Medenjaci,Honey gingerbread,Dessert,2,Snack
+Croatia,Zadar,Pašticada,Beef stew with prunes and wine,Main Dish,12,Dinner
+Croatia,Zadar,Janjetina ispod Peke,Lamb cooked under a bell,Main Dish,14,Dinner
+Croatia,Zadar,Crni Rižot,Black squid ink risotto,Main Dish,9,Dinner
+Croatia,Zadar,Brudet,Mixed fish stew with polenta,Main Dish,8,Lunch
+Croatia,Zadar,Ninski Šokol,Cured pork neck,Appetizer,6,Lunch
+Croatia,Zadar,Soparnik,Chard-filled flatbread,Main Dish,5,Lunch
+Croatia,Zadar,Paški Sir,Salty sheep cheese from Pag,Appetizer,5,Snack
+Croatia,Zadar,Maraschino,Cherry liqueur,Dessert,4,Snack
+Croatia,Zadar,Fritule,Fried dough balls,Dessert,3,Snack
+Croatia,Zagreb,Fritaja,Omelette with seasonal herbs,Breakfast Dish,4,Breakfast
+Croatia,Zagreb,Zagrebački Odrezak,Veal cutlet stuffed with ham and cheese,Main Dish,10,Dinner
+Croatia,Zagreb,Čobanac,Spicy meat stew with paprika,Main Dish,8,Dinner
+Croatia,Zagreb,Mlinci,Thin dried flatbread with roast meat,Main Dish,7,Dinner
+Croatia,Zagreb,Zagorski Štrukli,"Dough pockets with cheese, baked or boiled",Main Dish,5,Lunch
+Croatia,Zagreb,Punjena Paprika,Peppers stuffed with minced meat and rice,Main Dish,7,Lunch
+Croatia,Zagreb,Špek Fileki,Pasta with bacon and cream,Main Dish,6,Lunch
+Croatia,Zagreb,Kremšnita,Custard cream cake from Samobor,Dessert,3,Snack
+Croatia,Zagreb,Orehnjača,Walnut roll pastry,Dessert,3,Snack
+Egypt,Alexandria,Foul Iskandarani,"Fava beans with tomatoes, onions, and spices",Breakfast Dish,2,Breakfast
+Egypt,Alexandria,Sayadeya,"Fish stew with rice, tomatoes, and onions",Main Dish,5,Dinner
+Egypt,Alexandria,Grilled Seabass,Fresh fish grilled with herbs and lemon,Main Dish,7,Dinner
+Egypt,Alexandria,Clams Soup,Spiced broth with fresh clams,Appetizer,3,Dinner
+Egypt,Alexandria,Makaroni Bechamel,Baked pasta with meat and creamy sauce,Main Dish,5,Dinner
+Egypt,Alexandria,Kebdet Eskandarani,Pan-fried liver with spices and peppers,Main Dish,4,Lunch
+Egypt,Alexandria,Sambousak,Fried pastries with cheese or meat filling,Appetizer,2,Snack
+Egypt,Alexandria,Basbousa,Semolina cake soaked in syrup,Dessert,2,Snack
+Egypt,Alexandria,Roz Bel Laban,Rice pudding with cinnamon and nuts,Dessert,2,Snack
+Egypt,Aswan,Ful Nabed,Fava bean soup with herbs,Breakfast Dish,2,Breakfast
+Egypt,Aswan,Feteer Bel Asal,Pastry with honey topping,Dessert,3,Breakfast
+Egypt,Aswan,Kebab Halla,Beef stew cooked in a pot with onions and spices,Main Dish,5,Dinner
+Egypt,Aswan,Tagine,Fish or meat baked with vegetables in a clay pot,Main Dish,6,Dinner
+Egypt,Aswan,Molokhia,Jute leaf stew with garlic and coriander,Main Dish,4,Dinner
+Egypt,Aswan,Kamounia,Spiced liver and cumin stew,Main Dish,4,Lunch
+Egypt,Aswan,Halawa,Sesame paste sweet with nuts,Dessert,2,Snack
+Egypt,Aswan,Sambousak Bel Geebna,Cheese-filled fried pastries,Appetizer,2,Snack
+Egypt,Aswan,Shai Bel Na’na,"Mint tea, often served with meals",Dessert,1,Snack
+Egypt,Cairo,Ful Medames,"Slow-cooked fava beans with garlic, lemon, and olive oil",Breakfast Dish,1,Breakfast
+Egypt,Cairo,Feteer Meshaltet,Layered pastry with sweet or savory fillings,Main Dish,3,Breakfast
+Egypt,Cairo,Molokhia,"Green soup made from jute leaves, served with rabbit or chicken",Main Dish,4,Dinner
+Egypt,Cairo,Hamam Mahshi,Stuffed pigeon with rice or freekeh,Main Dish,6,Dinner
+Egypt,Cairo,Mahshi,Vegetables like zucchini or peppers stuffed with rice and meat,Main Dish,4,Dinner
+Egypt,Cairo,Koshari,"Lentils, rice, pasta, and crispy onions with spicy tomato sauce",Street Food,2,Lunch
+Egypt,Cairo,Shawarma,Sliced meat in pita bread with tahini and vegetables,Street Food,3,Lunch
+Egypt,Cairo,Taameya,"Egyptian falafel made from fava beans, served with tahini",Street Food,1,Snack
+Egypt,Cairo,Umm Ali,"Bread pudding with nuts, raisins, and cream",Dessert,2,Snack
+Egypt,Fayoum,Aish Baladi,Traditional flatbread,Breakfast Dish,1,Breakfast
+Egypt,Fayoum,Ful,Fava beans with oil and spices,Breakfast Dish,1,Breakfast
+Egypt,Fayoum,Duck Roast,Roasted duck with garlic and spices,Main Dish,6,Dinner
+Egypt,Fayoum,Molokhia,Jute leaf stew with rabbit,Main Dish,4,Dinner
+Egypt,Fayoum,Roz Meammar,Creamy baked rice,Main Dish,3,Dinner
+Egypt,Fayoum,Feseekh,Fermented fish with onions,Appetizer,4,Lunch
+Egypt,Fayoum,Keshk,Fermented yogurt and wheat dish,Main Dish,3,Lunch
+Egypt,Fayoum,Taameya,Fava bean falafel,Street Food,1,Snack
+Egypt,Fayoum,Halawa,Sesame sweet with honey,Dessert,2,Snack
+Egypt,Giza,Ful Sandwich,Fava beans in pita with salad,Street Food,1,Breakfast
+Egypt,Giza,Kofta,Grilled minced meat skewers,Main Dish,4,Dinner
+Egypt,Giza,Macaroni Bil Lahm,Pasta with minced meat and tomato sauce,Main Dish,4,Dinner
+Egypt,Giza,Batates Mahshiya,Potatoes stuffed with spiced meat,Main Dish,3,Dinner
+Egypt,Giza,Hawawshi,"Spiced meat stuffed in bread, baked or grilled",Street Food,2,Lunch
+Egypt,Giza,Roz Bel Sharia,Rice with vermicelli,Main Dish,2,Lunch
+Egypt,Giza,Baklava,Layered pastry with nuts and syrup,Dessert,3,Snack
+Egypt,Giza,Sahlab,Warm milk drink with nuts and cinnamon,Dessert,2,Snack
+Egypt,Giza,Taameya Sandwich,Fava bean falafel in bread with tahini,Street Food,2,Snack
+Egypt,Hurghada,Feteer,Flaky pastry with cheese or meat,Main Dish,3,Breakfast
+Egypt,Hurghada,Grilled Mullet,Fresh Red Sea fish with garlic and spices,Main Dish,7,Dinner
+Egypt,Hurghada,Seafood Tagine,Fish and shrimp baked with vegetables,Main Dish,8,Dinner
+Egypt,Hurghada,Shrimp Soup,Spicy broth with fresh shrimp,Appetizer,4,Dinner
+Egypt,Hurghada,Mahshi Kromb,Cabbage leaves stuffed with rice,Main Dish,4,Dinner
+Egypt,Hurghada,Grilled Calamari,Squid with lemon and herbs,Main Dish,6,Dinner
+Egypt,Hurghada,Koshari,"Street-style mix of lentils, rice, and pasta",Street Food,2,Lunch
+Egypt,Hurghada,Qamar El Din,Apricot juice thickened into a pudding,Dessert,2,Snack
+Egypt,Hurghada,Sobia,Sweet coconut and milk drink,Dessert,1,Snack
+Egypt,Luxor,Foul,Fava bean stew with cumin and garlic,Breakfast Dish,1,Breakfast
+Egypt,Luxor,Aish Baladi,Traditional Egyptian flatbread,Breakfast Dish,1,Breakfast
+Egypt,Luxor,Fatet Goulash,Layered pastry with meat and broth,Main Dish,4,Dinner
+Egypt,Luxor,Kebab,Grilled meat skewers with spices,Main Dish,5,Dinner
+Egypt,Luxor,Roz Meammar,Baked rice with milk and cream,Main Dish,3,Dinner
+Egypt,Luxor,Bamia,Okra stew with lamb or beef,Main Dish,4,Lunch
+Egypt,Luxor,Sogo’,Spicy sausage with bread,Street Food,2,Lunch
+Egypt,Luxor,Tahtalia,Sesame paste dessert with honey,Dessert,2,Snack
+Egypt,Luxor,Konafa,"Shredded pastry with cheese or nuts, soaked in syrup",Dessert,3,Snack
+Egypt,Port Said,Foul,Fava beans with tahini,Breakfast Dish,2,Breakfast
+Egypt,Port Said,Feteer,Layered pastry with savory fillings,Main Dish,3,Breakfast
+Egypt,Port Said,Sayadeya,Fish with rice and spiced tomato sauce,Main Dish,5,Dinner
+Egypt,Port Said,Grilled Shrimp,Fresh shrimp with garlic and herbs,Main Dish,7,Dinner
+Egypt,Port Said,Kofta,Grilled meat skewers,Main Dish,4,Dinner
+Egypt,Port Said,Seafood Soup,Broth with fish and clams,Appetizer,4,Dinner
+Egypt,Port Said,Sambousak,Pastries with fish or cheese,Appetizer,2,Snack
+Egypt,Port Said,Basbousa,Semolina cake with syrup,Dessert,2,Snack
+Egypt,Port Said,Roz Bel Laban,Rice pudding with nuts,Dessert,2,Snack
+Egypt,Sharm El Sheikh,Aish Merahrah,Thin bread with fenugreek,Breakfast Dish,2,Breakfast
+Egypt,Sharm El Sheikh,Grilled Snapper,Fresh fish with spices and lemon,Main Dish,7,Dinner
+Egypt,Sharm El Sheikh,Kebab,Skewered meat grilled over charcoal,Main Dish,5,Dinner
+Egypt,Sharm El Sheikh,Molokhia,Green leaf stew with seafood twist,Main Dish,5,Dinner
+Egypt,Sharm El Sheikh,Seafood Pasta,Pasta with shrimp and squid in tomato sauce,Main Dish,6,Dinner
+Egypt,Sharm El Sheikh,Feseekh,"Fermented salted fish, often with bread",Appetizer,5,Lunch
+Egypt,Sharm El Sheikh,Basbousa,Sweet semolina cake with syrup,Dessert,2,Snack
+Egypt,Sharm El Sheikh,Taameya,Fava bean fritters with salad,Street Food,1,Snack
+Egypt,Sharm El Sheikh,Roz Bel Laban,Creamy rice pudding,Dessert,2,Snack
+Egypt,Siwa,Siwan Bread,Thick flatbread baked in sand ovens,Breakfast Dish,1,Breakfast
+Egypt,Siwa,Date Molasses,Sweet spread made from local dates,Breakfast Dish,2,Breakfast
+Egypt,Siwa,Lamb Tagine,Slow-cooked lamb with dates and spices,Main Dish,6,Dinner
+Egypt,Siwa,Kofta,Grilled minced meat with Siwan spices,Main Dish,4,Dinner
+Egypt,Siwa,Bamia,Okra stew with lamb,Main Dish,5,Dinner
+Egypt,Siwa,Fatta,Bread soaked in broth with meat,Main Dish,4,Lunch
+Egypt,Siwa,Olive Salad,Local olives with herbs and lemon,Appetizer,2,Lunch
+Egypt,Siwa,Makhtouta,Date and nut candy,Dessert,2,Snack
+Egypt,Siwa,Shai Bel Tamar,Date-infused tea,Dessert,1,Snack
+Greece,Athens,Moussaka,"Layered eggplant, minced meat, and béchamel sauce",Main Dish,10,Dinner
+Greece,Athens,Dolmades,Grape leaves stuffed with rice and meat,Appetizer,4,Dinner
+Greece,Athens,Gemista,Stuffed tomatoes or peppers with rice,Main Dish,8,Dinner
+Greece,Athens,Souvlaki,Grilled meat skewers with pita and tzatziki,Street Food,4,Lunch
+Greece,Athens,Fava,Yellow split pea puree with onions and olive oil,Appetizer,3,Lunch
+Greece,Athens,Spanakopita,Spinach and feta pie in phyllo pastry,Main Dish,5,Lunch
+Greece,Athens,Horiatiki,"Greek salad with tomatoes, cucumbers, feta",Appetizer,5,Lunch
+Greece,Athens,Baklava,Layered pastry with nuts and honey,Dessert,3,Snack
+Greece,Athens,Loukoumades,Fried dough balls with honey and cinnamon,Dessert,3,Snack
+Greece,Chania,Boureki,Zucchini and potato pie with mizithra,Main Dish,7,Dinner
+Greece,Chania,Stifado,Rabbit stew with onions and spices,Main Dish,10,Dinner
+Greece,Chania,Gamopilafo,Rice cooked in meat broth,Main Dish,8,Dinner
+Greece,Chania,Dakos,Barley rusk with tomato and feta,Appetizer,4,Lunch
+Greece,Chania,Sfakianopita,Thin pancake with cheese filling,Main Dish,5,Lunch
+Greece,Chania,Kalitsounia,Cheese or herb-filled pastries,Street Food,2,Snack
+Greece,Chania,Xerotigana,Fried dough strips with honey,Dessert,3,Snack
+Greece,Chania,Marathopites,Fennel herb pies,Appetizer,4,Snack
+Greece,Chania,Tsikoudia,Local grape spirit,Dessert,2,Snack
+Greece,Corfu,Pastitsada,Rooster in tomato sauce with pasta,Main Dish,10,Dinner
+Greece,Corfu,Sofrito,Veal in garlic-wine sauce,Main Dish,9,Dinner
+Greece,Corfu,Bourdeto,Spicy fish stew,Main Dish,8,Dinner
+Greece,Corfu,Stifado,Beef stew with onions,Main Dish,10,Dinner
+Greece,Corfu,Tzatziki,Yogurt with cucumber and garlic,Appetizer,3,Lunch
+Greece,Corfu,Skordalia,Garlic potato dip,Appetizer,3,Lunch
+Greece,Corfu,Kumquat Liqueur,Local citrus spirit,Dessert,4,Snack
+Greece,Corfu,Fig Pie,Dried figs in pastry,Dessert,3,Snack
+Greece,Corfu,Sikomaida,Fig and walnut cake,Dessert,3,Snack
+Greece,Heraklion,Staka me Avga,Creamy goat milk sauce with eggs,Main Dish,7,Breakfast
+Greece,Heraklion,Gamopilafo,Wedding rice with goat broth,Main Dish,8,Dinner
+Greece,Heraklion,Snails with Rosemary,Stewed snails with herbs,Main Dish,9,Dinner
+Greece,Heraklion,Apaki,Smoked pork with vinegar,Appetizer,5,Dinner
+Greece,Heraklion,Dakos,Barley rusk with tomatoes and mizithra cheese,Appetizer,4,Lunch
+Greece,Heraklion,Horta,Boiled wild greens with olive oil,Appetizer,4,Lunch
+Greece,Heraklion,Kalitsounia,Small pies with cheese or greens,Street Food,2,Snack
+Greece,Heraklion,Rizogalo,Rice pudding with cinnamon,Dessert,3,Snack
+Greece,Heraklion,Loukoumades,Honey-drizzled fried dough,Dessert,3,Snack
+Greece,Ioannina,Frog Legs,Fried frog legs with garlic,Main Dish,9,Dinner
+Greece,Ioannina,Trout with Herbs,Grilled freshwater trout,Main Dish,8,Dinner
+Greece,Ioannina,Kontosouvli,Spit-roasted pork,Main Dish,9,Dinner
+Greece,Ioannina,Pita Zoi,Cheese and leek pie,Main Dish,6,Lunch
+Greece,Ioannina,Zagorisio,Meat pie with phyllo,Main Dish,7,Lunch
+Greece,Ioannina,Batzina,Cornmeal pie with cheese,Main Dish,5,Lunch
+Greece,Ioannina,Galotyri,Creamy sheep’s cheese spread,Appetizer,4,Snack
+Greece,Ioannina,Karydopita,Walnut cake with syrup,Dessert,3,Snack
+Greece,Ioannina,Tsipouro,Local grape spirit,Dessert,2,Snack
+Greece,Nafplio,Gargales,Handmade pasta with burnt butter,Main Dish,7,Dinner
+Greece,Nafplio,Kleftiko,Slow-cooked lamb in parchment,Main Dish,10,Dinner
+Greece,Nafplio,Dolmades,Rice-stuffed grape leaves,Appetizer,4,Dinner
+Greece,Nafplio,Pastitsio,Pasta with meat and béchamel,Main Dish,9,Dinner
+Greece,Nafplio,Horiatiki,Greek salad with feta,Appetizer,5,Lunch
+Greece,Nafplio,Souvlaki,Grilled meat skewers with pita,Street Food,4,Lunch
+Greece,Nafplio,Galaktoboureko,Custard pie with syrup,Dessert,3,Snack
+Greece,Nafplio,Tiropita,Cheese pie,Street Food,2,Snack
+Greece,Nafplio,Baklava,Nut-filled pastry with honey,Dessert,3,Snack
+Greece,Patras,Soutzoukakia,Spiced meatballs in tomato sauce,Main Dish,8,Dinner
+Greece,Patras,Kleftiko,Slow-cooked lamb with herbs,Main Dish,10,Dinner
+Greece,Patras,Pastitsio,Baked pasta with meat and béchamel,Main Dish,9,Dinner
+Greece,Patras,Mavrodafni Soup,Sweet wine-based soup with spices,Main Dish,6,Lunch
+Greece,Patras,Fava,Split pea puree with olive oil,Appetizer,3,Lunch
+Greece,Patras,Tiropita,Cheese pie in phyllo,Street Food,2,Snack
+Greece,Patras,Loukoumades,Fried dough with honey,Dessert,3,Snack
+Greece,Patras,Saganaki,Fried cheese appetizer,Appetizer,5,Snack
+Greece,Patras,Galaktoboureko,Custard pie with syrup,Dessert,3,Snack
+Greece,Rhodes,Kapamas,Goat stew with cinnamon,Main Dish,10,Dinner
+Greece,Rhodes,Symi Shrimp,Tiny fried shrimp,Main Dish,8,Dinner
+Greece,Rhodes,Revithia,Baked chickpeas with onions,Main Dish,6,Dinner
+Greece,Rhodes,Dolmades,Stuffed grape leaves,Appetizer,4,Dinner
+Greece,Rhodes,Pitaroudia,Chickpea fritters with herbs,Appetizer,4,Lunch
+Greece,Rhodes,Ladopita,Olive oil pie with greens,Main Dish,5,Lunch
+Greece,Rhodes,Horiatiki,Traditional Greek salad,Appetizer,5,Lunch
+Greece,Rhodes,Melekouni,Sesame and honey bars,Dessert,2,Snack
+Greece,Rhodes,Koulourakia,Butter cookies with sesame,Dessert,2,Snack
+Greece,Thessaloniki,Koulouri,Sesame seed bread ring,Street Food,1,Breakfast
+Greece,Thessaloniki,Bouyiourdi,Baked feta with tomatoes and peppers,Appetizer,5,Dinner
+Greece,Thessaloniki,Soutzoukakia,Spiced meatballs in tomato sauce,Main Dish,8,Dinner
+Greece,Thessaloniki,Mydia Saganaki,Mussels in tomato and feta sauce,Main Dish,9,Dinner
+Greece,Thessaloniki,Ladopita,Olive oil pie with herbs,Main Dish,4,Lunch
+Greece,Thessaloniki,Patsas,Tripe soup with garlic and vinegar,Main Dish,6,Lunch
+Greece,Thessaloniki,Trigona Panoramatos,Triangular pastries with custard,Dessert,2,Snack
+Greece,Thessaloniki,Halva,Semolina sweet with nuts,Dessert,3,Snack
+Greece,Thessaloniki,Tiropita,Cheese-filled phyllo pastry,Street Food,2,Snack
+Greece,Volos,Tsipouro Meze,Seafood snacks with tsipouro,Appetizer,6,Dinner
+Greece,Volos,Spetzofai,Sausage and pepper stew,Main Dish,8,Dinner
+Greece,Volos,Mydia,Mussels steamed with wine,Main Dish,7,Dinner
+Greece,Volos,Fasolada,White bean soup with tomatoes,Main Dish,5,Lunch
+Greece,Volos,Kreatopita,Meat pie with phyllo,Main Dish,6,Lunch
+Greece,Volos,Tiropita,Cheese-filled phyllo pie,Street Food,2,Snack
+Greece,Volos,Loukoumades,Honey-drizzled dough balls,Dessert,3,Snack
+Greece,Volos,Halva,Semolina dessert with nuts,Dessert,3,Snack
+Greece,Volos,Saganaki,Fried cheese,Appetizer,5,Snack
+Italy,Bari,Orecchiette alle Cime di Rapa,Ear-shaped pasta with turnip greens,Main Dish,7,Dinner
+Italy,Bari,Braciole,Beef rolls in tomato sauce,Main Dish,9,Dinner
+Italy,Bari,Pesce Crudo,Raw seafood platter,Appetizer,10,Dinner
+Italy,Bari,Tiella,"Baked rice, potatoes, and mussels",Main Dish,8,Lunch
+Italy,Bari,Pasta al Forno,Baked pasta with meatballs,Main Dish,8,Lunch
+Italy,Bari,Focaccia Barese,Tomato-topped flatbread,Street Food,3,Snack
+Italy,Bari,Sgagliozze,Fried polenta squares,Street Food,2,Snack
+Italy,Bari,Sporcamuss,Puff pastry with custard,Dessert,2,Snack
+Italy,Bari,Panzerotti,Fried stuffed pastries,Street Food,3,Snack
+Italy,Bologna,Tagliatelle al Ragù,Pasta with Bolognese meat sauce,Main Dish,8,Dinner
+Italy,Bologna,Lasagne alla Bolognese,Layered pasta with ragù and béchamel,Main Dish,9,Dinner
+Italy,Bologna,Cotoletta alla Bolognese,Veal cutlet with ham and cheese,Main Dish,10,Dinner
+Italy,Bologna,Gramigna con Salsiccia,Short pasta with sausage sauce,Main Dish,7,Dinner
+Italy,Bologna,Tortellini in Brodo,Meat-filled pasta in broth,Main Dish,7,Lunch
+Italy,Bologna,Mortadella,Spiced pork sausage,Appetizer,4,Snack
+Italy,Bologna,Crescentine,Fried dough with cured meats,Street Food,3,Snack
+Italy,Bologna,Zuppa Inglese,Trifle with custard and liqueur,Dessert,3,Snack
+Italy,Bologna,Torta di Riso,Rice cake with almonds,Dessert,3,Snack
+Italy,Florence,Bistecca alla Fiorentina,Grilled T-bone steak from Chianina cattle,Main Dish,15,Dinner
+Italy,Florence,Pappardelle al Cinghiale,Pasta with wild boar ragù,Main Dish,9,Dinner
+Italy,Florence,Ribollita,Tuscan bread and vegetable soup,Main Dish,6,Lunch
+Italy,Florence,Panzanella,Bread salad with tomatoes and onions,Appetizer,4,Lunch
+Italy,Florence,Lampredotto,Tripe sandwich with green sauce,Street Food,5,Lunch
+Italy,Florence,Cantucci,"Almond biscotti, often with Vin Santo",Dessert,3,Snack
+Italy,Florence,Schiacciata,"Tuscan flatbread, plain or stuffed",Street Food,3,Snack
+Italy,Florence,Crostini di Fegatini,Toasted bread with chicken liver pâté,Appetizer,4,Snack
+Italy,Florence,Gelato,Creamy Italian ice cream,Dessert,3,Snack
+Italy,Genoa,Trofie al Pesto,Twisted pasta with basil pesto,Main Dish,8,Dinner
+Italy,Genoa,Cima Ripiena,Stuffed veal breast,Main Dish,10,Dinner
+Italy,Genoa,Stoccafisso Accommodato,Stewed stockfish with potatoes,Main Dish,9,Dinner
+Italy,Genoa,Acciughe Ripiene,Stuffed anchovies,Appetizer,5,Dinner
+Italy,Genoa,Minestrone alla Genovese,Vegetable soup with pesto,Main Dish,6,Lunch
+Italy,Genoa,Focaccia Genovese,Olive oil flatbread,Street Food,3,Snack
+Italy,Genoa,Farinata,Chickpea flour pancake,Appetizer,3,Snack
+Italy,Genoa,Pandolce,Sweet bread with raisins and candied fruit,Dessert,4,Snack
+Italy,Genoa,Focaccia col Formaggio,Cheese-filled flatbread,Street Food,4,Snack
+Italy,Milan,Risotto alla Milanese,Saffron-infused rice,Main Dish,9,Dinner
+Italy,Milan,Cotoletta alla Milanese,Breaded veal cutlet,Main Dish,12,Dinner
+Italy,Milan,Ossobuco,Braised veal shank with gremolata,Main Dish,14,Dinner
+Italy,Milan,Cassoeula,Pork and cabbage stew,Main Dish,10,Lunch
+Italy,Milan,Polenta,"Cornmeal dish, often with meat",Main Dish,6,Lunch
+Italy,Milan,Panettone,Sweet bread with candied fruit,Dessert,5,Snack
+Italy,Milan,Gorgonzola,Creamy blue cheese,Appetizer,4,Snack
+Italy,Milan,Mondeghili,Fried meatballs from leftovers,Appetizer,5,Snack
+Italy,Milan,Negroni Sbagliato,"Campari, vermouth, and prosecco",Dessert,6,Snack
+Italy,Naples,Pizza Margherita,"Tomato, mozzarella, and basil pizza",Main Dish,6,Dinner
+Italy,Naples,Spaghetti alle Vongole,Pasta with clams and garlic,Main Dish,9,Dinner
+Italy,Naples,Impepata di Cozze,Peppered mussels,Main Dish,7,Dinner
+Italy,Naples,Ragù Napoletano,Slow-cooked meat sauce with pasta,Main Dish,8,Lunch
+Italy,Naples,Pizza Fritta,Fried pizza with ricotta and pork,Street Food,4,Lunch
+Italy,Naples,Sfogliatella,Layered pastry with ricotta filling,Dessert,2,Snack
+Italy,Naples,Frittatina,Fried pasta with béchamel and peas,Street Food,3,Snack
+Italy,Naples,Pastiera,Ricotta and wheat pie with orange blossom,Dessert,3,Snack
+Italy,Naples,Babà al Rum,Rum-soaked yeast cake,Dessert,2,Snack
+Italy,Palermo,Granita,Flavored shaved ice with brioche,Dessert,3,Breakfast
+Italy,Palermo,Pasta con le Sarde,Pasta with sardines and fennel,Main Dish,8,Dinner
+Italy,Palermo,Sarde a Beccafico,Baked sardines with breadcrumbs,Main Dish,7,Dinner
+Italy,Palermo,Spaghetti ai Ricci,Pasta with sea urchins,Main Dish,10,Dinner
+Italy,Palermo,Caponata,Sweet and sour eggplant stew,Appetizer,4,Lunch
+Italy,Palermo,Pane con la Milza,Spleen sandwich,Street Food,4,Lunch
+Italy,Palermo,Arancini,Fried rice balls with meat or cheese,Street Food,3,Snack
+Italy,Palermo,Cassata,Sponge cake with ricotta and candied fruit,Dessert,4,Snack
+Italy,Palermo,Cannoli,Fried pastry tubes with ricotta filling,Dessert,3,Snack
+Italy,Rome,Spaghetti Carbonara,"Pasta with guanciale, egg, Pecorino Romano, and black pepper",Main Dish,8,Dinner
+Italy,Rome,Cacio e Pepe,Spaghetti with Pecorino Romano and black pepper,Main Dish,7,Dinner
+Italy,Rome,Saltimbocca alla Romana,Veal with prosciutto and sage in white wine,Main Dish,10,Dinner
+Italy,Rome,Amatriciana,"Pasta with guanciale, tomato, and Pecorino",Main Dish,8,Dinner
+Italy,Rome,Coda alla Vaccinara,Oxtail stew with tomatoes and celery,Main Dish,9,Lunch
+Italy,Rome,Pizza al Taglio,Thick-crusted pizza by the slice,Street Food,3,Lunch
+Italy,Rome,Carciofi alla Giudia,Deep-fried artichokes,Appetizer,5,Lunch
+Italy,Rome,Supplì,Fried rice balls with mozzarella,Street Food,2,Snack
+Italy,Rome,Tiramisù,Coffee-soaked ladyfingers with mascarpone cream,Dessert,4,Snack
+Italy,Turin,Agnolotti del Plin,Small meat-filled pasta with sage butter,Main Dish,9,Dinner
+Italy,Turin,Vitello Tonnato,Veal covered with tuna-flavored sauce,Main Dish,10,Dinner
+Italy,Turin,Bagna Cauda,Warm garlic-anchovy dip with vegetables,Appetizer,6,Dinner
+Italy,Turin,Brasato al Barolo,Beef braised in Barolo wine,Main Dish,12,Dinner
+Italy,Turin,Tajarin al Tartufo,Thin pasta with truffle,Main Dish,14,Dinner
+Italy,Turin,Gianduiotti,Hazelnut chocolate pralines,Dessert,3,Snack
+Italy,Turin,Panna Cotta,Creamy dessert with fruit coulis,Dessert,4,Snack
+Italy,Turin,Bicerin,"Layered coffee, chocolate, and cream drink",Dessert,5,Snack
+Italy,Turin,Grissini,Crunchy breadsticks,Appetizer,2,Snack
+Italy,Venice,Risotto al Nero di Seppia,Black squid ink risotto,Main Dish,10,Dinner
+Italy,Venice,Bigoli in Salsa,Thick pasta with anchovy sauce,Main Dish,8,Dinner
+Italy,Venice,Fegato alla Veneziana,Calf’s liver with onions,Main Dish,9,Dinner
+Italy,Venice,Polenta e Schie,Polenta with tiny shrimp,Main Dish,8,Dinner
+Italy,Venice,Sarde in Saor,Sweet and sour sardines with onions,Appetizer,6,Lunch
+Italy,Venice,Risi e Bisi,Rice and pea soup,Main Dish,6,Lunch
+Italy,Venice,Cicchetti,Small tapas-like snacks,Appetizer,3,Snack
+Italy,Venice,Tiramisù,Coffee and mascarpone dessert,Dessert,4,Snack
+Italy,Venice,Bussolai,Ring-shaped cookies,Dessert,2,Snack
+Jordan,Ajloun,Foul,Fava beans with garlic,Breakfast Dish,2,Breakfast
+Jordan,Ajloun,Mansaf,Lamb with yogurt sauce and rice,Main Dish,10,Dinner
+Jordan,Ajloun,Maqluba,Upside-down rice dish,Main Dish,9,Dinner
+Jordan,Ajloun,Zarb,Meat and vegetables in underground oven,Main Dish,12,Dinner
+Jordan,Ajloun,Musakhan,Chicken with sumac and onions,Main Dish,8,Lunch
+Jordan,Ajloun,Falafel,Fried chickpea patties,Street Food,2,Snack
+Jordan,Ajloun,Knafeh,Cheese pastry with syrup,Dessert,3,Snack
+Jordan,Ajloun,Hummus,Chickpea dip with bread,Appetizer,2,Snack
+Jordan,Ajloun,Baklava,Nuts in layered pastry with syrup,Dessert,3,Snack
+Jordan,Amman,Foul,Fava beans with garlic and olive oil,Breakfast Dish,2,Breakfast
+Jordan,Amman,Mansaf,"Lamb cooked in fermented yogurt sauce, served with rice",Main Dish,10,Dinner
+Jordan,Amman,Maqluba,"Upside-down rice dish with chicken, eggplant, and potatoes",Main Dish,9,Dinner
+Jordan,Amman,Zarb,Meat and vegetables slow-cooked in an underground oven,Main Dish,12,Dinner
+Jordan,Amman,Musakhan,Roasted chicken with sumac and onions on flatbread,Main Dish,8,Lunch
+Jordan,Amman,Shawarma,Sliced meat in pita with garlic sauce,Street Food,3,Lunch
+Jordan,Amman,Falafel,Deep-fried chickpea balls with tahini,Street Food,2,Snack
+Jordan,Amman,Knafeh,"Shredded pastry with cheese or cream, soaked in syrup",Dessert,3,Snack
+Jordan,Amman,Hummus,Chickpea dip with olive oil and spices,Appetizer,2,Snack
+Jordan,Aqaba,Foul,Fava beans with tahini,Breakfast Dish,2,Breakfast
+Jordan,Aqaba,Sayadiyah,Fish with spiced rice and caramelized onions,Main Dish,8,Dinner
+Jordan,Aqaba,Grilled Red Mullet,Fresh fish with lemon and herbs,Main Dish,7,Dinner
+Jordan,Aqaba,Makmoura,Layered dough with chicken and onions,Main Dish,6,Dinner
+Jordan,Aqaba,Grilled Shrimp,Fresh shrimp with garlic and spices,Main Dish,9,Dinner
+Jordan,Aqaba,Shorba,Lentil soup with cumin,Appetizer,2,Lunch
+Jordan,Aqaba,Knafeh,Sweet cheese pastry with syrup,Dessert,3,Snack
+Jordan,Aqaba,Samboosa,Fried pastries with meat or cheese,Appetizer,2,Snack
+Jordan,Aqaba,Halawa,Sesame paste sweet with pistachios,Dessert,2,Snack
+Jordan,Irbid,Foul,Fava beans with spices,Breakfast Dish,2,Breakfast
+Jordan,Irbid,Mansaf,Lamb in yogurt sauce with rice,Main Dish,10,Dinner
+Jordan,Irbid,Maqluba,Rice with chicken and vegetables,Main Dish,9,Dinner
+Jordan,Irbid,Musakhan,Chicken with sumac on flatbread,Main Dish,8,Lunch
+Jordan,Irbid,Shawarma,Sliced meat in pita,Street Food,3,Lunch
+Jordan,Irbid,Falafel,Fried chickpea balls in pita,Street Food,2,Snack
+Jordan,Irbid,Knafeh,Cheese-filled pastry with syrup,Dessert,3,Snack
+Jordan,Irbid,Hummus,Chickpea dip with bread,Appetizer,2,Snack
+Jordan,Irbid,Qatayef,Stuffed pancakes with nuts,Dessert,3,Snack
+Jordan,Jerash,Foul,Fava beans with olive oil,Breakfast Dish,2,Breakfast
+Jordan,Jerash,Mansaf,Lamb with yogurt sauce and rice,Main Dish,10,Dinner
+Jordan,Jerash,Maqluba,Upside-down rice and meat dish,Main Dish,9,Dinner
+Jordan,Jerash,Zarb,Underground-cooked meat and vegetables,Main Dish,12,Dinner
+Jordan,Jerash,Musakhan,Chicken with sumac on flatbread,Main Dish,8,Lunch
+Jordan,Jerash,Shawarma,Meat in pita with garlic sauce,Street Food,3,Lunch
+Jordan,Jerash,Falafel,Fried chickpea balls with tahini,Street Food,2,Snack
+Jordan,Jerash,Knafeh,Cheese pastry with syrup,Dessert,3,Snack
+Jordan,Jerash,Hummus,Chickpea dip with spices,Appetizer,2,Snack
+Jordan,Karak,Foul,Spiced fava beans,Breakfast Dish,2,Breakfast
+Jordan,Karak,Mansaf,Lamb in fermented yogurt with rice,Main Dish,10,Dinner
+Jordan,Karak,Maqluba,Rice with meat and vegetables,Main Dish,9,Dinner
+Jordan,Karak,Zarb,Bedouin-style underground roast,Main Dish,12,Dinner
+Jordan,Karak,Musakhan,Chicken with sumac on bread,Main Dish,8,Lunch
+Jordan,Karak,Shawarma,Meat in pita with garlic sauce,Street Food,3,Lunch
+Jordan,Karak,Falafel,Chickpea balls with tahini,Street Food,2,Snack
+Jordan,Karak,Knafeh,Shredded pastry with cheese,Dessert,3,Snack
+Jordan,Karak,Hummus,Chickpea dip with olive oil,Appetizer,2,Snack
+Jordan,Madaba,Foul,Fava beans with garlic,Breakfast Dish,2,Breakfast
+Jordan,Madaba,Mansaf,Traditional lamb with yogurt and rice,Main Dish,10,Dinner
+Jordan,Madaba,Maqluba,Layered rice with meat and vegetables,Main Dish,9,Dinner
+Jordan,Madaba,Zarb,Bedouin underground barbecue,Main Dish,12,Dinner
+Jordan,Madaba,Musakhan,Chicken with onions and sumac on bread,Main Dish,8,Lunch
+Jordan,Madaba,Falafel,Chickpea patties with tahini,Street Food,2,Snack
+Jordan,Madaba,Knafeh,Sweet shredded pastry with cheese,Dessert,3,Snack
+Jordan,Madaba,Hummus,Chickpea dip with olive oil,Appetizer,2,Snack
+Jordan,Madaba,Baklava,Layered pastry with nuts and syrup,Dessert,3,Snack
+Jordan,Petra,Foul,Spiced fava beans,Breakfast Dish,2,Breakfast
+Jordan,Petra,Zarb,Bedouin-style meat and vegetables cooked underground,Main Dish,12,Dinner
+Jordan,Petra,Mansaf,Lamb in yogurt sauce with rice,Main Dish,10,Dinner
+Jordan,Petra,Maqluba,Rice with meat and vegetables,Main Dish,9,Dinner
+Jordan,Petra,Shorba,Spicy lentil soup,Appetizer,2,Lunch
+Jordan,Petra,Falafel,Chickpea fritters in pita,Street Food,2,Snack
+Jordan,Petra,Knafeh,Sweet pastry with cheese filling,Dessert,3,Snack
+Jordan,Petra,Hummus,Chickpea dip with bread,Appetizer,2,Snack
+Jordan,Petra,Qatayef,Pancakes stuffed with nuts or cheese,Dessert,3,Snack
+Jordan,Salt,Foul,Fava beans with olive oil,Breakfast Dish,2,Breakfast
+Jordan,Salt,Mansaf,Lamb with yogurt sauce over rice,Main Dish,10,Dinner
+Jordan,Salt,Maqluba,Upside-down rice with meat,Main Dish,9,Dinner
+Jordan,Salt,Zarb,Meat and vegetables cooked underground,Main Dish,12,Dinner
+Jordan,Salt,Musakhan,Chicken with onions and sumac,Main Dish,8,Lunch
+Jordan,Salt,Shorba,Lentil soup with spices,Appetizer,2,Lunch
+Jordan,Salt,Falafel,Chickpea fritters with tahini,Street Food,2,Snack
+Jordan,Salt,Knafeh,Sweet cheese pastry,Dessert,3,Snack
+Jordan,Salt,Hummus,Chickpea dip with spices,Appetizer,2,Snack
+Jordan,Zarqa,Foul,Fava beans with olive oil,Breakfast Dish,2,Breakfast
+Jordan,Zarqa,Mansaf,Lamb in yogurt sauce with rice,Main Dish,10,Dinner
+Jordan,Zarqa,Maqluba,Rice with meat and vegetables,Main Dish,9,Dinner
+Jordan,Zarqa,Musakhan,Chicken with sumac on flatbread,Main Dish,8,Lunch
+Jordan,Zarqa,Shawarma,Sliced meat in pita,Street Food,3,Lunch
+Jordan,Zarqa,Falafel,Chickpea fritters in pita,Street Food,2,Snack
+Jordan,Zarqa,Knafeh,Sweet cheese-filled pastry,Dessert,3,Snack
+Jordan,Zarqa,Hummus,Chickpea dip with spices,Appetizer,2,Snack
+Jordan,Zarqa,Qatayef,Pancakes with nuts or cheese,Dessert,3,Snack
+Lebanon,Baalbek,Manakish Jibneh,"Flatbread topped with melted Akkawi cheese, baked fresh.",Breakfast Dish,2.5,Breakfast
+Lebanon,Baalbek,Kibbeh Hamda,"Kibbeh balls in a lemony broth with greens, a local favorite.",Main Dish,7,Dinner
+Lebanon,Baalbek,Adas Bil Hamod,"Lentil soup with spinach, garlic, and lemon juice, a comforting dish.",Main Dish,4,Dinner
+Lebanon,Baalbek,Hrisseh,"Slow-cooked wheat and lamb porridge, often served at gatherings.",Main Dish,8,Dinner
+Lebanon,Baalbek,Shorbet Freekeh,Freekeh (roasted green wheat) soup with chicken and spices.,Main Dish,5,Dinner
+Lebanon,Baalbek,Makhlouta,"A hearty stew of mixed legumes and grains, spiced with cumin.",Main Dish,5,Lunch
+Lebanon,Baalbek,Fattet Sfiha,"Sfiha pies layered with yogurt and pine nuts, a unique twist.",Main Dish,6,Lunch
+Lebanon,Baalbek,Sfiha Baalbakieh,Spicy meat pies with a tangy tomato and pomegranate molasses topping.,Street Food,3,Snack
+Lebanon,Baalbek,Qatayef,"Pancakes stuffed with sweet cheese or nuts, fried and soaked in syrup.",Dessert,4,Snack
+Lebanon,Baalbek,Znoud El Sit,"Filo rolls filled with cream, fried, and soaked in sugar syrup.",Dessert,4,Snack
+Lebanon,Baatroun,Knefeh Bil Jibneh,"Knefeh with a stretchy cheese filling, served hot.",Dessert,4,Breakfast
+Lebanon,Baatroun,Kafta Bil Sanieh,Tray-baked kafta with potatoes and tomatoes in a spiced sauce.,Main Dish,6,Dinner
+Lebanon,Baatroun,Samkeh Bi Zeit,"Fish fried in olive oil with garlic and lemon, a seaside dish.",Main Dish,9,Dinner
+Lebanon,Baatroun,Kibbeh Zgharta,A northern-style kibbeh with a unique spice blend.,Main Dish,7,Dinner
+Lebanon,Baatroun,Lahm Mishwi,Grilled meat skewers served with toum and grilled vegetables.,Main Dish,7,Dinner
+Lebanon,Baatroun,Fattet Kafta,"Layered kafta with yogurt, pita, and pine nuts, a local specialty.",Main Dish,6,Lunch
+Lebanon,Baatroun,Tabbouleh Batrouni,A coastal version of tabbouleh with extra mint and lemon.,Appetizer,4,Lunch
+Lebanon,Baatroun,Halloumi Salad,"Grilled halloumi cheese with greens, tomatoes, and olive oil.",Appetizer,5,Lunch
+Lebanon,Baatroun,Mafroukeh,"Semolina pudding with nuts and cream, drizzled with syrup.",Dessert,4,Snack
+Lebanon,Beirut,Manakish,"Flatbread topped with za’atar (thyme, sesame seeds, sumac) or cheese, baked until crispy.",Breakfast Dish,2,Breakfast
+Lebanon,Beirut,Knafeh,"Shredded phyllo pastry layered with sweet cheese, soaked in sugar syrup, often topped with pistachios.",Dessert,4,Breakfast
+Lebanon,Beirut,Shawarma,"Marinated meat (chicken or lamb) roasted on a spit, served in pita with garlic sauce and pickles.",Street Food,5,Dinner
+Lebanon,Beirut,Kibbeh,"Minced meat and bulgur wheat mixture, often fried or baked, sometimes stuffed with pine nuts.",Main Dish,6,Dinner
+Lebanon,Beirut,Baba Ghanoush,"Smoky roasted eggplant blended with tahini, garlic, and lemon juice, served with pita.",Appetizer,3,Dinner
+Lebanon,Beirut,Hummus,"A creamy dip made from mashed chickpeas, tahini, garlic, and lemon juice, served with pita bread.",Appetizer,3,Lunch
+Lebanon,Beirut,Tabbouleh,"A fresh salad of finely chopped parsley, tomatoes, bulgur, onions, lemon juice, and olive oil.",Appetizer,4,Lunch
+Lebanon,Beirut,Fattoush,"A salad of mixed greens, tomatoes, cucumbers, radishes, and fried pita, dressed with sumac and lemon.",Appetizer,4,Lunch
+Lebanon,Beirut,Falafel,"Deep-fried patties of ground chickpeas and spices, served in pita with tahini sauce.",Street Food,3,Snack
+Lebanon,Beirut,Lahm Bi Ajeen,"Small flatbreads topped with spiced minced meat, onions, and tomatoes, baked until crisp.",Street Food,3,Snack
+Lebanon,Byblos,Labneh,"Strained yogurt drizzled with olive oil and served with pita, often garnished with za’atar.",Breakfast Dish,2,Breakfast
+Lebanon,Byblos,Mousabbaha,"A chunky hummus variation with whole chickpeas, tahini, and garlic.",Breakfast Dish,3,Breakfast
+Lebanon,Byblos,Samkeh Harra,"Spicy baked fish (often sea bass) with a tahini, garlic, and chili sauce.",Main Dish,10,Dinner
+Lebanon,Byblos,Kafta,"Grilled skewers of ground lamb or beef mixed with parsley, onions, and spices.",Main Dish,6,Dinner
+Lebanon,Byblos,Arak,"An anise-flavored distilled spirit, typically diluted with water and served with mezze.",Appetizer,5,Dinner
+Lebanon,Byblos,Shanklish,"Aged cheese balls rolled in za’atar or chili, served with tomatoes and olive oil.",Appetizer,4,Lunch
+Lebanon,Byblos,Za’atar Salad,"A simple salad of fresh za’atar leaves, onions, and tomatoes with olive oil.",Appetizer,3,Lunch
+Lebanon,Byblos,Fatayer,"Triangular pastries filled with spinach, cheese, or meat, baked until golden.",Street Food,2.5,Snack
+Lebanon,Byblos,Sfouf,"A turmeric and semolina cake flavored with anise, often enjoyed with tea.",Dessert,2,Snack
+Lebanon,Byblos,Jallab,"A refreshing drink of grape molasses, rose water, and dates, topped with pine nuts.",Dessert,2,Snack
+Lebanon,Jounieh,Ejjeh,"Herb and vegetable omelette with parsley, scallions, and spices.",Breakfast Dish,2.5,Breakfast
+Lebanon,Jounieh,Sayadiyet Samak,"Fish cooked with rice and spices, served with a side of tahini.",Main Dish,9,Dinner
+Lebanon,Jounieh,Kibbeh Sayniyeh,"Tray-baked kibbeh with layers of meat and bulgur, cut into diamonds.",Main Dish,7,Dinner
+Lebanon,Jounieh,Batata Mahshi,"Potatoes stuffed with spiced meat and rice, baked in tomato sauce.",Main Dish,6,Dinner
+Lebanon,Jounieh,Kibbeh Makli,Fried kibbeh balls with a crunchy exterior and spiced meat filling.,Appetizer,4,Dinner
+Lebanon,Jounieh,Shorbet Adas,"Red lentil soup with cumin, garlic, and a squeeze of lemon.",Main Dish,4,Dinner
+Lebanon,Jounieh,Fattet Samak,"Layered dish of fish, rice, yogurt, and crispy bread.",Main Dish,7,Lunch
+Lebanon,Jounieh,Rocca Salad,"Arugula salad with tomatoes, onions, and a lemon-olive oil dressing.",Appetizer,3,Lunch
+Lebanon,Jounieh,Osmallieh,Shredded phyllo layered with cream and soaked in sugar syrup.,Dessert,4,Snack
+Lebanon,Jounieh,Halawet El Riz,"Rice-based dessert with cream and sugar syrup, a coastal treat.",Dessert,3,Snack
+Lebanon,Sidon,Fattet Hummus,"Layered dish of chickpeas, yogurt, pita, and pine nuts, drizzled with olive oil.",Breakfast Dish,4,Breakfast
+Lebanon,Sidon,Sayadieh,A spiced fish and rice dish with caramelized onions and a side of tahini sauce.,Main Dish,8,Dinner
+Lebanon,Sidon,Kibbeh Bil Sanieh,"Layered kibbeh baked in a tray with minced meat, bulgur, and pine nuts.",Main Dish,7,Dinner
+Lebanon,Sidon,Kousa Mahshi,"Zucchini stuffed with rice and meat, cooked in a tomato broth.",Main Dish,6,Dinner
+Lebanon,Sidon,Kibbeh Labanieh,Kibbeh balls cooked in a creamy yogurt sauce with garlic and mint.,Main Dish,7,Dinner
+Lebanon,Sidon,Moghrabieh,"Lebanese couscous with chicken, chickpeas, and pearl onions in a spiced broth.",Main Dish,8,Lunch
+Lebanon,Sidon,Riz Bi Sharieh,"Rice cooked with vermicelli noodles, often served with chicken or meat.",Main Dish,5,Lunch
+Lebanon,Sidon,Aish El Saraya,"A sweet bread pudding with custard and pistachios, soaked in sugar syrup.",Dessert,4,Snack
+Lebanon,Sidon,Warbat,"Cream-filled filo pastry triangles drizzled with sugar syrup, a local sweet treat.",Dessert,3,Snack
+Lebanon,Sidon,Tahinopita,A sesame seed bread often enjoyed with sweet spreads or as a snack.,Street Food,2,Snack
+Lebanon,Tripoli,Foul Medames,"Slow-cooked fava beans with garlic, lemon, and olive oil, served with pita.",Breakfast Dish,2.5,Breakfast
+Lebanon,Tripoli,Sfiha,"Open-faced meat pies with spiced lamb or beef, baked until golden, a specialty of the region.",Street Food,3,Dinner
+Lebanon,Tripoli,Batata Harra,"Spicy fried potatoes seasoned with garlic, cilantro, and chili, often served as a side.",Appetizer,3,Dinner
+Lebanon,Tripoli,Kibbeh Nayyeh,"Raw minced lamb or beef mixed with bulgur and spices, served with olive oil and pita.",Appetizer,6,Dinner
+Lebanon,Tripoli,Shish Taouk,"Grilled chicken skewers marinated in garlic, lemon, and yogurt, served with toum sauce.",Main Dish,7,Dinner
+Lebanon,Tripoli,Toum,"A potent garlic sauce made with garlic, lemon juice, and oil, served with grilled meats.",Appetizer,2,Dinner
+Lebanon,Tripoli,Mujadara,"A lentil and rice dish topped with caramelized onions, seasoned with cumin and olive oil.",Main Dish,4,Lunch
+Lebanon,Tripoli,Kaak,"Sesame-crusted bread rings, often enjoyed plain or with za’atar, a popular street snack.",Street Food,1.5,Snack
+Lebanon,Tripoli,Halawet El Jibn,"Sweet cheese rolls made with semolina and rose water, drizzled with sugar syrup.",Dessert,4,Snack
+Lebanon,Tripoli,Baklava,Layered filo pastry filled with nuts and soaked in honey or sugar syrup.,Dessert,3,Snack
+Lebanon,Tyre,Sahlab,A warm milk pudding flavored with rose water and topped with cinnamon and nuts.,Dessert,3,Breakfast
+Lebanon,Tyre,Foul Akhdar,"Fresh green fava beans cooked with garlic, cilantro, and olive oil.",Breakfast Dish,3,Breakfast
+Lebanon,Tyre,Fattet Makdous,"Layered dish of stuffed eggplants, pita, yogurt, and pine nuts.",Main Dish,6,Dinner
+Lebanon,Tyre,Shish Barak,"Dumplings filled with spiced meat, cooked in a yogurt sauce with garlic.",Main Dish,7,Dinner
+Lebanon,Tyre,Kibbeh Kras,Fried kibbeh balls stuffed with spiced meat and pine nuts.,Appetizer,4,Dinner
+Lebanon,Tyre,Kibbeh Sajiyeh,"Flat kibbeh cooked on a saj (domed griddle), topped with spices and olive oil.",Main Dish,6,Lunch
+Lebanon,Tyre,Fattet Batenjen,"Layered dish of fried eggplant, yogurt, pita, and chickpeas.",Main Dish,5,Lunch
+Lebanon,Tyre,Namoura,"Semolina cake soaked in sugar syrup, often topped with almonds.",Dessert,3,Snack
+Lebanon,Tyre,Arayes,Pita stuffed with spiced minced meat and grilled until crispy.,Street Food,4,Snack
+Lebanon,Tyre,Maamoul,"Semolina cookies filled with dates, walnuts, or pistachios, dusted with powdered sugar.",Dessert,2.5,Snack
+Lebanon,Zahle,Ashta,A creamy clotted cream dessert served with honey or sugar syrup.,Dessert,3,Breakfast
+Lebanon,Zahle,Fattet Laban,"Yogurt layered with pita and chickpeas, garnished with garlic and mint.",Breakfast Dish,4,Breakfast
+Lebanon,Zahle,Kibbeh Arnabieh,"Kibbeh balls in a tangy orange and tahini sauce, a Bekaa Valley specialty.",Main Dish,8,Dinner
+Lebanon,Zahle,Kafta Meshwi,Grilled kafta patties served with grilled vegetables and tahini.,Main Dish,6,Dinner
+Lebanon,Zahle,Batata Bil Kizbara,"Potatoes sautéed with garlic and coriander, a simple side dish.",Appetizer,3,Dinner
+Lebanon,Zahle,Laban Immo,"Lamb cooked in yogurt sauce with rice, a hearty Bekaa dish.",Main Dish,8,Dinner
+Lebanon,Zahle,Fattet Djaj,"Layered dish of chicken, rice, yogurt, and crispy pita, topped with pine nuts.",Main Dish,6,Lunch
+Lebanon,Zahle,Tabbouleh Bekaa Style,A regional tabbouleh with extra bulgur and a heavier lemon dressing.,Appetizer,4,Lunch
+Lebanon,Zahle,Meghli,"Spiced rice pudding with cinnamon, anise, and caraway, served for celebrations.",Dessert,3,Snack
+Lebanon,Zahle,Riz Bi Haleeb,Rice pudding flavored with rose water and topped with pistachios.,Dessert,3,Snack
+Malta,Birgu,Stuffat tal-Fenek,Rabbit stew with tomatoes,Main Dish,10,Dinner
+Malta,Birgu,Timpana,Pasta pie with ragù,Main Dish,9,Dinner
+Malta,Birgu,Bragioli,Beef olives in tomato sauce,Main Dish,9,Dinner
+Malta,Birgu,Ħobż biż-Żejt,Bread with olive oil and tuna,Street Food,3,Lunch
+Malta,Birgu,Aljotta,Fish soup with herbs,Main Dish,7,Lunch
+Malta,Birgu,Pastizzi,Flaky pastry with ricotta or peas,Street Food,1,Snack
+Malta,Birgu,Qagħaq tal-Għasel,Treacle rings,Dessert,2,Snack
+Malta,Birgu,Bigilla,Broad bean dip,Appetizer,3,Snack
+Malta,Birgu,Kannoli,Ricotta-filled pastry,Dessert,3,Snack
+Malta,Għarb,Stuffat tal-Fenek,Rabbit stew with wine,Main Dish,10,Dinner
+Malta,Għarb,Ravjul bil-Ġbejna,Cheese-filled ravioli,Main Dish,8,Dinner
+Malta,Għarb,Ftira Għawdxija,Flatbread with cheese or potatoes,Street Food,4,Lunch
+Malta,Għarb,Imqarrun il-Forn,Baked macaroni,Main Dish,8,Lunch
+Malta,Għarb,Kapunata,Vegetable stew,Appetizer,4,Lunch
+Malta,Għarb,Pastizzi,Ricotta or pea pastry,Street Food,1,Snack
+Malta,Għarb,Ġbejna t’Għawdex,Gozitan cheeselet,Appetizer,4,Snack
+Malta,Għarb,Qagħaq tal-Għasel,Honey rings,Dessert,2,Snack
+Malta,Għarb,Imqaret,Date pastries,Dessert,2,Snack
+Malta,Marsaxlokk,Lampuki Pie,Dolphinfish pie with olives,Main Dish,10,Dinner
+Malta,Marsaxlokk,Stuffat tal-Qarnit,Octopus stew,Main Dish,9,Dinner
+Malta,Marsaxlokk,Zalzett Malti,Spiced Maltese sausage,Main Dish,5,Dinner
+Malta,Marsaxlokk,Aljotta,Fish soup with garlic and lemon,Main Dish,7,Lunch
+Malta,Marsaxlokk,Ħobż biż-Żejt,Bread with tuna and capers,Street Food,3,Lunch
+Malta,Marsaxlokk,Pastizzi,Flaky pastry with ricotta,Street Food,1,Snack
+Malta,Marsaxlokk,Qagħaq tal-Għasel,Treacle-filled rings,Dessert,2,Snack
+Malta,Marsaxlokk,Bigilla,Broad bean dip,Appetizer,3,Snack
+Malta,Marsaxlokk,Kannoli,Ricotta-filled pastry,Dessert,3,Snack
+Malta,Mdina,Fenek Moqli,Fried rabbit with garlic,Main Dish,9,Dinner
+Malta,Mdina,Timpana,Pasta pie with meat sauce,Main Dish,9,Dinner
+Malta,Mdina,Imqarrun il-Forn,Baked macaroni with ragù,Main Dish,8,Lunch
+Malta,Mdina,Kapunata,Maltese ratatouille,Appetizer,4,Lunch
+Malta,Mdina,Soppa tal-Armla,Vegetable soup with cheese,Main Dish,6,Lunch
+Malta,Mdina,Pastizzi,Ricotta or pea-filled pastry,Street Food,1,Snack
+Malta,Mdina,Qagħaq tal-Għasel,Honey rings with spiced treacle,Dessert,2,Snack
+Malta,Mdina,Ġbejniet,Traditional Maltese cheese,Appetizer,4,Snack
+Malta,Mdina,Imqaret,Deep-fried date pastries,Dessert,2,Snack
+Malta,Mellieħa,Lampuki Pie,Dolphinfish pie with vegetables,Main Dish,10,Dinner
+Malta,Mellieħa,Stuffat tal-Qarnit,Octopus stew,Main Dish,9,Dinner
+Malta,Mellieħa,Zalzett Malti,Maltese sausage with herbs,Main Dish,5,Dinner
+Malta,Mellieħa,Ħobż biż-Żejt,Bread with tuna and olives,Street Food,3,Lunch
+Malta,Mellieħa,Aljotta,Garlicky fish soup,Main Dish,7,Lunch
+Malta,Mellieħa,Pastizzi,Ricotta or pea-filled pastry,Street Food,1,Snack
+Malta,Mellieħa,Qagħaq tal-Għasel,Honey rings,Dessert,2,Snack
+Malta,Mellieħa,Bigilla,Broad bean pate,Appetizer,3,Snack
+Malta,Mellieħa,Kannoli,Fried pastry with ricotta,Dessert,3,Snack
+Malta,Rabat,Stuffat tal-Fenek,Rabbit stew with red wine,Main Dish,10,Dinner
+Malta,Rabat,Lampuki Pie,Fish pie with seasonal dolphinfish,Main Dish,10,Dinner
+Malta,Rabat,Ħobż biż-Żejt,Bread with tomato and tuna,Street Food,3,Lunch
+Malta,Rabat,Aljotta,Fish soup with herbs,Main Dish,7,Lunch
+Malta,Rabat,Pastizzi,Flaky pastry with ricotta or peas,Street Food,1,Snack
+Malta,Rabat,Qassatat,Round pastry with cheese or peas,Street Food,2,Snack
+Malta,Rabat,Kannoli,Ricotta-filled fried pastry,Dessert,3,Snack
+Malta,Rabat,Bigilla,Broad bean dip with olive oil,Appetizer,3,Snack
+Malta,Rabat,Kwareżimal,Almond biscuit for Lent,Dessert,2,Snack
+Malta,Sliema,Lampuki Pie,Dolphinfish pie with vegetables,Main Dish,10,Dinner
+Malta,Sliema,Bragioli,Beef rolls with breadcrumbs and egg,Main Dish,9,Dinner
+Malta,Sliema,Ftira,"Flatbread with tuna, capers, and olives",Street Food,4,Lunch
+Malta,Sliema,Kapunata,Vegetable stew with eggplant and peppers,Appetizer,4,Lunch
+Malta,Sliema,Soppa tal-Armla,Widow’s soup with vegetables and cheese,Main Dish,6,Lunch
+Malta,Sliema,Pastizzi,Flaky pastry with ricotta or peas,Street Food,1,Snack
+Malta,Sliema,Imqaret,Fried date pastries,Dessert,2,Snack
+Malta,Sliema,Ġbejniet,"Goat or sheep cheese, fresh or dried",Appetizer,4,Snack
+Malta,Sliema,Kwareżimal,Lenten almond biscuit,Dessert,2,Snack
+Malta,St. Julian’s,Stuffat tal-Fenek,Slow-cooked rabbit stew,Main Dish,10,Dinner
+Malta,St. Julian’s,Torta tal-Lampuki,Fish pie with dolphinfish,Main Dish,10,Dinner
+Malta,St. Julian’s,Zalzett Malti,Maltese sausage with coriander,Main Dish,5,Dinner
+Malta,St. Julian’s,Ħobż biż-Żejt,Bread with olive oil and tuna,Street Food,3,Lunch
+Malta,St. Julian’s,Aljotta,Garlicky fish soup,Main Dish,7,Lunch
+Malta,St. Julian’s,Pastizzi,Flaky pastry with ricotta or peas,Street Food,1,Snack
+Malta,St. Julian’s,Qagħaq tal-Għasel,Treacle-filled honey rings,Dessert,2,Snack
+Malta,St. Julian’s,Kannoli,Ricotta-filled pastry,Dessert,3,Snack
+Malta,St. Julian’s,Bigilla,Broad bean pate with bread,Appetizer,3,Snack
+Malta,Valletta,Stuffat tal-Fenek,"Rabbit stew with wine, garlic, and tomatoes",Main Dish,10,Dinner
+Malta,Valletta,Timpana,Pasta pie with ragù encased in pastry,Main Dish,9,Dinner
+Malta,Valletta,Imqarrun il-Forn,Baked macaroni with meat sauce and egg,Main Dish,8,Lunch
+Malta,Valletta,Ħobż biż-Żejt,"Bread with tomato paste, tuna, and olive oil",Street Food,3,Lunch
+Malta,Valletta,Aljotta,Fish soup with garlic and tomatoes,Main Dish,7,Lunch
+Malta,Valletta,Pastizzi,Flaky pastry with ricotta or mushy peas,Street Food,1,Snack
+Malta,Valletta,Qagħaq tal-Għasel,Honey rings with treacle filling,Dessert,2,Snack
+Malta,Valletta,Bigilla,Broad bean dip with garlic and herbs,Appetizer,3,Snack
+Malta,Valletta,Kannoli,Fried pastry tubes with ricotta filling,Dessert,3,Snack
+Malta,Victoria (Gozo,Pastizzi,Ricotta or pea-filled pastry,Street Food,1,Snack
+Malta,Victoria (Gozo),Stuffat tal-Qarnit,Octopus stew with tomatoes,Main Dish,9,Dinner
+Malta,Victoria (Gozo),Ravjul bil-Ġbejna,Ravioli with Gozo cheese,Main Dish,8,Dinner
+Malta,Victoria (Gozo),Ftira Għawdxija,Gozo flatbread with potatoes,Street Food,4,Lunch
+Malta,Victoria (Gozo),Imqarrun il-Forn,Baked macaroni with egg,Main Dish,8,Lunch
+Malta,Victoria (Gozo),Kapunata,Vegetable stew,Appetizer,4,Lunch
+Malta,Victoria (Gozo),Ġbejna t’Għawdex,Gozitan cheeselet,Appetizer,4,Snack
+Malta,Victoria (Gozo),Qagħaq tal-Għasel,Honey rings,Dessert,2,Snack
+Malta,Victoria (Gozo),Imqaret,Fried date-filled pastry,Dessert,2,Snack
+Morocco,Agadir,Tagine with Fish,Fish stew with vegetables and chermoula,Main Dish,8,Dinner
+Morocco,Agadir,Harira,Spicy lentil and chickpea soup,Appetizer,3,Dinner
+Morocco,Agadir,Grilled Sardines,Fresh sardines with lemon and spices,Main Dish,5,Lunch
+Morocco,Agadir,Couscous with Vegetables,Semolina with mixed vegetables,Main Dish,6,Lunch
+Morocco,Agadir,Kafta,Grilled minced meat skewers,Street Food,4,Lunch
+Morocco,Agadir,Taktouka,Pepper and tomato salad,Appetizer,2,Lunch
+Morocco,Agadir,Sfenj,Fried dough rings,Street Food,1,Snack
+Morocco,Agadir,Bambalouni,Sugar-coated fried dough,Dessert,2,Snack
+Morocco,Agadir,Mint Tea,Sweet green tea with mint,Dessert,1,Snack
+Morocco,Casablanca,Rfissa,"Shredded msemen pancakes with chicken, lentils, and fenugreek broth",Main Dish,7,Dinner
+Morocco,Casablanca,Harira,"Tomato-based soup with lentils, chickpeas, and lamb",Appetizer,3,Dinner
+Morocco,Casablanca,Pastilla,"Flaky pastry with pigeon or chicken, almonds, and cinnamon",Main Dish,9,Dinner
+Morocco,Casablanca,Couscous with Seven Vegetables,Steamed semolina with a variety of vegetables and meat,Main Dish,8,Lunch
+Morocco,Casablanca,Zaalouk,Smoked eggplant dip with tomatoes and spices,Appetizer,2,Lunch
+Morocco,Casablanca,Brochettes,Grilled meat skewers with spices,Street Food,4,Lunch
+Morocco,Casablanca,Brik,Fried pastry with egg and tuna,Street Food,2,Snack
+Morocco,Casablanca,Chebakia,Fried sesame cookie soaked in honey,Dessert,2,Snack
+Morocco,Casablanca,Mint Tea,Green tea with fresh mint and sugar,Dessert,1,Snack
+Morocco,Essaouira,Tagine with Fish,Fish stew with vegetables,Main Dish,8,Dinner
+Morocco,Essaouira,Couscous with Seafood,Semolina with shrimp and fish,Main Dish,9,Dinner
+Morocco,Essaouira,Harira,Spiced lentil soup,Appetizer,3,Dinner
+Morocco,Essaouira,Grilled Sardines,Fresh sardines with chermoula spices,Main Dish,5,Lunch
+Morocco,Essaouira,Zaalouk,Eggplant dip with tomatoes,Appetizer,2,Lunch
+Morocco,Essaouira,Kaak d’Essaouira,Anise and sesame seed cookie,Dessert,2,Snack
+Morocco,Essaouira,Sfenj,Fried dough rings,Street Food,1,Snack
+Morocco,Essaouira,Mint Tea,Sweet green tea with mint,Dessert,1,Snack
+Morocco,Essaouira,Briouates,Fried pastries with seafood,Appetizer,3,Snack
+Morocco,Fez,Bissara,Thick split pea soup with olive oil and cumin,Breakfast Dish,2,Breakfast
+Morocco,Fez,Beghrir,Spongy semolina pancakes with honey,Breakfast Dish,2,Breakfast
+Morocco,Fez,Pastilla,"Sweet-savory pie with pigeon, almonds, and cinnamon",Main Dish,9,Dinner
+Morocco,Fez,Tagine with Lamb and Prunes,Lamb stew with sweet prunes and almonds,Main Dish,8,Dinner
+Morocco,Fez,Harira,Lentil and tomato soup with spices,Appetizer,3,Dinner
+Morocco,Fez,Couscous Fassi,Semolina with meat and caramelized onions,Main Dish,8,Lunch
+Morocco,Fez,Zaalouk,Eggplant and tomato dip with garlic,Appetizer,2,Lunch
+Morocco,Fez,Sfenj,"Fried dough rings, sometimes with sugar",Street Food,1,Snack
+Morocco,Fez,Sellou,Ground almond and sesame sweet,Dessert,3,Snack
+Morocco,Marrakech,Tanjia,Slow-cooked lamb or beef in a clay pot with spices,Main Dish,10,Dinner
+Morocco,Marrakech,Tagine with Chicken and Olives,Chicken stew with preserved lemons and olives,Main Dish,8,Dinner
+Morocco,Marrakech,Harira,Spiced lentil and chickpea soup,Appetizer,3,Dinner
+Morocco,Marrakech,Mechoui,Whole roasted lamb with cumin and salt,Main Dish,12,Lunch
+Morocco,Marrakech,Kafta,Grilled minced meat skewers,Street Food,4,Lunch
+Morocco,Marrakech,Maakouda,"Spiced potato fritters, fried and crispy",Street Food,2,Snack
+Morocco,Marrakech,Chebakia,Honey-soaked sesame cookie,Dessert,2,Snack
+Morocco,Marrakech,Mint Tea,Sweetened green tea with mint,Dessert,1,Snack
+Morocco,Marrakech,Briouates,Fried pastries with meat or cheese,Appetizer,3,Snack
+Morocco,Meknes,Bissara,Thick pea soup with olive oil,Breakfast Dish,2,Breakfast
+Morocco,Meknes,Tagine with Chicken and Lemon,Chicken stew with preserved lemons,Main Dish,7,Dinner
+Morocco,Meknes,Harira,Lentil soup with tomatoes and spices,Appetizer,3,Dinner
+Morocco,Meknes,Couscous with Raisins,Semolina with sweet raisins and meat,Main Dish,8,Lunch
+Morocco,Meknes,Zaalouk,Eggplant and tomato dip,Appetizer,2,Lunch
+Morocco,Meknes,Kefta,Spiced grilled meat skewers,Street Food,4,Lunch
+Morocco,Meknes,Sfenj,Fried dough rings,Street Food,1,Snack
+Morocco,Meknes,Chebakia,Sesame cookie with honey,Dessert,2,Snack
+Morocco,Meknes,Mint Tea,Sweetened mint tea,Dessert,1,Snack
+Morocco,Oujda,Beghrir,Semolina pancakes with honey,Breakfast Dish,2,Breakfast
+Morocco,Oujda,Tagine with Beef,Beef stew with vegetables and spices,Main Dish,8,Dinner
+Morocco,Oujda,Harira,Spiced lentil and chickpea soup,Appetizer,3,Dinner
+Morocco,Oujda,Couscous with Lamb,Semolina with lamb and vegetables,Main Dish,8,Lunch
+Morocco,Oujda,Kaak,Anise-flavored ring cookie,Dessert,2,Snack
+Morocco,Oujda,Maakouda,Fried potato fritters,Street Food,2,Snack
+Morocco,Oujda,Sellou,Almond and sesame sweet,Dessert,3,Snack
+Morocco,Oujda,Mint Tea,Green tea with mint and sugar,Dessert,1,Snack
+Morocco,Oujda,Briouates,Fried pastries with meat,Appetizer,3,Snack
+Morocco,Rabat,Bissara,Pea soup with olive oil and cumin,Breakfast Dish,2,Breakfast
+Morocco,Rabat,Tagine with Lamb and Almonds,Lamb stew with almonds and spices,Main Dish,8,Dinner
+Morocco,Rabat,Harira,Tomato-based lentil soup,Appetizer,3,Dinner
+Morocco,Rabat,Couscous with Chicken,Semolina with chicken and vegetables,Main Dish,7,Lunch
+Morocco,Rabat,Zaalouk,Eggplant dip with tomatoes,Appetizer,2,Lunch
+Morocco,Rabat,Brochettes,Spiced grilled meat skewers,Street Food,4,Lunch
+Morocco,Rabat,Maakouda,Fried spiced potato patties,Street Food,2,Snack
+Morocco,Rabat,Chebakia,Honey-coated sesame cookie,Dessert,2,Snack
+Morocco,Rabat,Mint Tea,Traditional sweet mint tea,Dessert,1,Snack
+Morocco,Tangier,Chermoula Fish,Grilled fish marinated in herb and spice blend,Main Dish,7,Dinner
+Morocco,Tangier,Tajine with Chicken,Chicken stew with vegetables and spices,Main Dish,7,Dinner
+Morocco,Tangier,Harira,Spiced lentil and chickpea soup,Appetizer,3,Dinner
+Morocco,Tangier,Couscous with Fish,Semolina with spicy fish stew,Main Dish,8,Lunch
+Morocco,Tangier,Kefta,Grilled minced meat skewers,Street Food,4,Lunch
+Morocco,Tangier,Taktouka,Grilled pepper and tomato salad,Appetizer,2,Lunch
+Morocco,Tangier,Sfenj,"Fried dough rings, a street staple",Street Food,1,Snack
+Morocco,Tangier,Mint Tea,Sweet mint-infused green tea,Dessert,1,Snack
+Morocco,Tangier,Briouates,Fried pastries with seafood or meat,Appetizer,3,Snack
+Morocco,Tetouan,Pastilla with Seafood,Flaky pastry with fish and spices,Main Dish,9,Dinner
+Morocco,Tetouan,Tagine with Chicken,Chicken stew with olives and lemons,Main Dish,7,Dinner
+Morocco,Tetouan,Harira,Lentil and tomato soup,Appetizer,3,Dinner
+Morocco,Tetouan,Couscous with Vegetables,Semolina with mixed vegetables,Main Dish,6,Lunch
+Morocco,Tetouan,Taktouka,Grilled pepper and tomato salad,Appetizer,2,Lunch
+Morocco,Tetouan,Brochettes,Grilled meat skewers,Street Food,4,Lunch
+Morocco,Tetouan,Sfenj,Fried dough rings,Street Food,1,Snack
+Morocco,Tetouan,Knafeh,Sweet cheese pastry with syrup,Dessert,3,Snack
+Morocco,Tetouan,Mint Tea,Sweet mint tea,Dessert,1,Snack
+Oman,Muscat,Khubz Rukhal,Thin bread baked over palm leaves,Breakfast Dish,2,Breakfast
+Oman,Muscat,Khubz Rukhal,Thin bread baked over palm leaves,Breakfast Dish,2,Breakfast
+Oman,Muscat,Shuwa,"Slow-roasted lamb or goat in spices, wrapped in banana leaves",Main Dish,12,Dinner
+Oman,Muscat,Majboos,"Spiced rice with chicken or fish, flavored with saffron",Main Dish,8,Dinner
+Oman,Muscat,Mashuai,Roasted kingfish with lemon rice,Main Dish,7,Dinner
+Oman,Muscat,Shuwa,"Slow-roasted lamb or goat in spices, wrapped in banana leaves",Main Dish,12,Dinner
+Oman,Muscat,Majboos,"Spiced rice with chicken or fish, flavored with saffron",Main Dish,8,Dinner
+Oman,Muscat,Mashuai,Roasted kingfish with lemon rice,Main Dish,7,Dinner
+Oman,Muscat,Harees,Wheat porridge with meat and butter,Main Dish,5,Lunch
+Oman,Muscat,Mishkak,Grilled meat skewers with spices,Street Food,4,Lunch
+Oman,Muscat,Harees,Wheat porridge with meat and butter,Main Dish,5,Lunch
+Oman,Muscat,Mishkak,Grilled meat skewers with spices,Street Food,4,Lunch
+Oman,Muscat,Lokhemat,Fried dough balls with cardamom syrup,Dessert,2,Snack
+Oman,Muscat,Halwa,"Sticky sweet with honey, nuts, and rose water",Dessert,3,Snack
+Oman,Muscat,Kahwa,Coffee with cardamom and saffron,Dessert,1,Snack
+Oman,Muscat,Lokhemat,Fried dough balls with cardamom syrup,Dessert,2,Snack
+Oman,Muscat,Halwa,"Sticky sweet with honey, nuts, and rose water",Dessert,3,Snack
+Oman,Muscat,Kahwa,Coffee with cardamom and saffron,Dessert,1,Snack
+Oman,Nizwa,Khubz Rukhal,Thin traditional bread,Breakfast Dish,2,Breakfast
+Oman,Nizwa,Khubz Rukhal,Thin traditional bread,Breakfast Dish,2,Breakfast
+Oman,Nizwa,Shuwa,Lamb roasted underground with spices,Main Dish,12,Dinner
+Oman,Nizwa,Majboos,Spiced rice with chicken,Main Dish,8,Dinner
+Oman,Nizwa,Madrouba,Rice porridge with chicken and spices,Main Dish,6,Dinner
+Oman,Nizwa,Shuwa,Lamb roasted underground with spices,Main Dish,12,Dinner
+Oman,Nizwa,Majboos,Spiced rice with chicken,Main Dish,8,Dinner
+Oman,Nizwa,Madrouba,Rice porridge with chicken and spices,Main Dish,6,Dinner
+Oman,Nizwa,Harees,Wheat porridge with lamb,Main Dish,5,Lunch
+Oman,Nizwa,Mishkak,Grilled meat skewers,Street Food,4,Lunch
+Oman,Nizwa,Harees,Wheat porridge with lamb,Main Dish,5,Lunch
+Oman,Nizwa,Mishkak,Grilled meat skewers,Street Food,4,Lunch
+Oman,Nizwa,Lokhemat,Fried dough with honey,Dessert,2,Snack
+Oman,Nizwa,Halwa,Sweet with rose water and nuts,Dessert,3,Snack
+Oman,Nizwa,Kahwa,Cardamom coffee,Dessert,1,Snack
+Oman,Nizwa,Lokhemat,Fried dough with honey,Dessert,2,Snack
+Oman,Nizwa,Halwa,Sweet with rose water and nuts,Dessert,3,Snack
+Oman,Nizwa,Kahwa,Cardamom coffee,Dessert,1,Snack
+Oman,Salalah,Shuwa,Underground-roasted lamb with Omani spices,Main Dish,12,Dinner
+Oman,Salalah,Majboos,"Rice with fish or lamb, spiced with cloves",Main Dish,8,Dinner
+Oman,Salalah,Mashuai,Grilled kingfish with savory rice,Main Dish,7,Dinner
+Oman,Salalah,Shuwa,Underground-roasted lamb with Omani spices,Main Dish,12,Dinner
+Oman,Salalah,Majboos,"Rice with fish or lamb, spiced with cloves",Main Dish,8,Dinner
+Oman,Salalah,Mashuai,Grilled kingfish with savory rice,Main Dish,7,Dinner
+Oman,Salalah,Harees,Wheat and meat porridge,Main Dish,5,Lunch
+Oman,Salalah,Mishkak,Skewered meat with tamarind sauce,Street Food,4,Lunch
+Oman,Salalah,Aursia,Mashed rice with spices,Main Dish,6,Lunch
+Oman,Salalah,Harees,Wheat and meat porridge,Main Dish,5,Lunch
+Oman,Salalah,Mishkak,Skewered meat with tamarind sauce,Street Food,4,Lunch
+Oman,Salalah,Aursia,Mashed rice with spices,Main Dish,6,Lunch
+Oman,Salalah,Lokhemat,Sweet fried dough with syrup,Dessert,2,Snack
+Oman,Salalah,Halwa,Honey and nut dessert,Dessert,3,Snack
+Oman,Salalah,Kahwa,Spiced Omani coffee,Dessert,1,Snack
+Oman,Salalah,Lokhemat,Sweet fried dough with syrup,Dessert,2,Snack
+Oman,Salalah,Halwa,Honey and nut dessert,Dessert,3,Snack
+Oman,Salalah,Kahwa,Spiced Omani coffee,Dessert,1,Snack
+Oman,Sohar,Khubz Rukhal,Thin bread with honey,Breakfast Dish,2,Breakfast
+Oman,Sohar,Khubz Rukhal,Thin bread with honey,Breakfast Dish,2,Breakfast
+Oman,Sohar,Majboos,Rice with lamb or fish,Main Dish,8,Dinner
+Oman,Sohar,Mashuai,Grilled kingfish with rice,Main Dish,7,Dinner
+Oman,Sohar,Shuwa,Underground-roasted lamb,Main Dish,12,Dinner
+Oman,Sohar,Majboos,Rice with lamb or fish,Main Dish,8,Dinner
+Oman,Sohar,Mashuai,Grilled kingfish with rice,Main Dish,7,Dinner
+Oman,Sohar,Shuwa,Underground-roasted lamb,Main Dish,12,Dinner
+Oman,Sohar,Harees,Wheat porridge with meat,Main Dish,5,Lunch
+Oman,Sohar,Mishkak,Grilled meat skewers,Street Food,4,Lunch
+Oman,Sohar,Harees,Wheat porridge with meat,Main Dish,5,Lunch
+Oman,Sohar,Mishkak,Grilled meat skewers,Street Food,4,Lunch
+Oman,Sohar,Lokhemat,Fried dough with syrup,Dessert,2,Snack
+Oman,Sohar,Halwa,Sweet with rose water,Dessert,3,Snack
+Oman,Sohar,Kahwa,Cardamom-spiced coffee,Dessert,1,Snack
+Oman,Sohar,Lokhemat,Fried dough with syrup,Dessert,2,Snack
+Oman,Sohar,Halwa,Sweet with rose water,Dessert,3,Snack
+Oman,Sohar,Kahwa,Cardamom-spiced coffee,Dessert,1,Snack
+Oman,Sur,Mashuai,Roasted kingfish with lemon rice,Main Dish,7,Dinner
+Oman,Sur,Majboos,Rice with fish and saffron,Main Dish,8,Dinner
+Oman,Sur,Shuwa,Spiced lamb roasted underground,Main Dish,12,Dinner
+Oman,Sur,Mashuai,Roasted kingfish with lemon rice,Main Dish,7,Dinner
+Oman,Sur,Majboos,Rice with fish and saffron,Main Dish,8,Dinner
+Oman,Sur,Shuwa,Spiced lamb roasted underground,Main Dish,12,Dinner
+Oman,Sur,Harees,Wheat and fish porridge,Main Dish,5,Lunch
+Oman,Sur,Mishkak,Skewered fish with spices,Street Food,4,Lunch
+Oman,Sur,Aursia,Spiced mashed rice,Main Dish,6,Lunch
+Oman,Sur,Harees,Wheat and fish porridge,Main Dish,5,Lunch
+Oman,Sur,Mishkak,Skewered fish with spices,Street Food,4,Lunch
+Oman,Sur,Aursia,Spiced mashed rice,Main Dish,6,Lunch
+Oman,Sur,Lokhemat,Sweet fried dough balls,Dessert,2,Snack
+Oman,Sur,Halwa,Nutty sweet with honey,Dessert,3,Snack
+Oman,Sur,Kahwa,Spiced coffee,Dessert,1,Snack
+Oman,Sur,Lokhemat,Sweet fried dough balls,Dessert,2,Snack
+Oman,Sur,Halwa,Nutty sweet with honey,Dessert,3,Snack
+Oman,Sur,Kahwa,Spiced coffee,Dessert,1,Snack
+Qatar,Al Khor,Balaleet,Sweet noodles with rose water and eggs,Breakfast Dish,3,Breakfast
+Qatar,Al Khor,Machboos,"Rice with camel or lamb, spiced with loomi",Main Dish,8,Dinner
+Qatar,Al Khor,Ghuzi,Whole roasted lamb over nutty rice,Main Dish,12,Dinner
+Qatar,Al Khor,Saloona,Fish stew with vegetables,Main Dish,7,Dinner
+Qatar,Al Khor,Madrouba,Rice porridge with beans and spices,Main Dish,6,Dinner
+Qatar,Al Khor,Harees,Wheat porridge with chicken,Main Dish,5,Lunch
+Qatar,Al Khor,Kunafa,Sweet cheese pastry with syrup,Dessert,3,Snack
+Qatar,Al Khor,Samboosa,Pastries with spiced filling,Appetizer,2,Snack
+Qatar,Al Khor,Qahwa,Cardamom-spiced coffee,Dessert,1,Snack
+Qatar,Al Rayyan,Balaleet,Sweet vermicelli with saffron,Breakfast Dish,3,Breakfast
+Qatar,Al Rayyan,Machboos,Spiced rice with chicken and loomi,Main Dish,8,Dinner
+Qatar,Al Rayyan,Saloona,Chicken stew with potatoes and spices,Main Dish,6,Dinner
+Qatar,Al Rayyan,Thareed,Bread in meat broth with vegetables,Main Dish,5,Lunch
+Qatar,Al Rayyan,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+Qatar,Al Rayyan,Luqaimat,Fried dough with honey,Dessert,2,Snack
+Qatar,Al Rayyan,Kunafa,Cheese-filled pastry with syrup,Dessert,3,Snack
+Qatar,Al Rayyan,Khubz Rgag,Thin bread with cheese or honey,Street Food,2,Snack
+Qatar,Al Rayyan,Karak Tea,Spiced milky tea,Dessert,1,Snack
+Qatar,Al Wakrah,Khubz Rgag,Thin crepe-like bread with egg or honey,Street Food,2,Breakfast
+Qatar,Al Wakrah,Machboos with Fish,Spiced rice with fresh seafood,Main Dish,9,Dinner
+Qatar,Al Wakrah,Saloona,Lamb and vegetable stew,Main Dish,6,Dinner
+Qatar,Al Wakrah,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+Qatar,Al Wakrah,Thareed,Bread in spiced broth with chicken,Main Dish,5,Lunch
+Qatar,Al Wakrah,Samboosa,Fried pastries with meat or cheese,Appetizer,2,Snack
+Qatar,Al Wakrah,Umm Ali,Bread pudding with nuts and cinnamon,Dessert,3,Snack
+Qatar,Al Wakrah,Luqaimat,Sweet fried dumplings with date syrup,Dessert,2,Snack
+Qatar,Al Wakrah,Karak Tea,Spiced tea with condensed milk,Dessert,1,Snack
+Qatar,Doha,Balaleet,"Sweet vermicelli noodles with saffron, topped with omelette",Breakfast Dish,3,Breakfast
+Qatar,Doha,Machboos,"Spiced rice with lamb or chicken, slow-cooked with bizar spices",Main Dish,8,Dinner
+Qatar,Doha,Saloona,Vegetable and meat stew with turmeric and coriander,Main Dish,6,Dinner
+Qatar,Doha,Madrouba,Spiced rice porridge with chicken and cardamom,Main Dish,6,Dinner
+Qatar,Doha,Harees,"Wheat porridge with meat, ghee, and cinnamon",Main Dish,5,Lunch
+Qatar,Doha,Thareed,Bread soaked in lamb or chicken broth with vegetables,Main Dish,5,Lunch
+Qatar,Doha,Luqaimat,Fried dough balls with honey and sesame,Dessert,2,Snack
+Qatar,Doha,Kunafa,"Cheese pastry soaked in syrup, topped with pistachios",Dessert,3,Snack
+Qatar,Doha,Qahwa,Arabic coffee with cardamom,Dessert,1,Snack
+Qatar,Umm Salal,Machboos,Rice with lamb and bizar spices,Main Dish,8,Dinner
+Qatar,Umm Salal,Ghuzi,Roasted lamb with spiced rice,Main Dish,12,Dinner
+Qatar,Umm Salal,Saloona,Vegetable and lamb stew,Main Dish,6,Dinner
+Qatar,Umm Salal,Madrouba,Spiced rice porridge with chicken,Main Dish,6,Dinner
+Qatar,Umm Salal,Harees,Wheat porridge with meat,Main Dish,5,Lunch
+Qatar,Umm Salal,Thareed,Bread in chicken broth,Main Dish,5,Lunch
+Qatar,Umm Salal,Luqaimat,Sweet fried dough balls,Dessert,2,Snack
+Qatar,Umm Salal,Samboosa,Fried pastries with cheese,Appetizer,2,Snack
+Qatar,Umm Salal,Qahwa,Arabic coffee with saffron,Dessert,1,Snack
+Saudi Arabia,Abha,Foul,Spiced fava beans,Breakfast Dish,2,Breakfast
+Saudi Arabia,Abha,Mandi,"Rice with lamb, southern style",Main Dish,9,Dinner
+Saudi Arabia,Abha,Jareesh,Wheat stew with meat,Main Dish,5,Dinner
+Saudi Arabia,Abha,Haneeth,Roasted lamb with Asir spices,Main Dish,10,Dinner
+Saudi Arabia,Abha,Thareed,Bread in meat broth,Main Dish,5,Lunch
+Saudi Arabia,Abha,Aseedah,Thick wheat porridge with honey,Dessert,3,Snack
+Saudi Arabia,Abha,Luqaimat,Sweet fried dough balls,Dessert,2,Snack
+Saudi Arabia,Abha,Samboosa,Fried pastries with filling,Appetizer,2,Snack
+Saudi Arabia,Abha,Qahwa,Cardamom-spiced coffee,Dessert,1,Snack
+Saudi Arabia,Al Khobar,Foul,Fava beans with spices,Breakfast Dish,2,Breakfast
+Saudi Arabia,Al Khobar,Hamour Sayadiyah,Grouper fish with spiced rice,Main Dish,8,Dinner
+Saudi Arabia,Al Khobar,Mandi,Rice with chicken or lamb,Main Dish,9,Dinner
+Saudi Arabia,Al Khobar,Mathbi,Stone-grilled meat,Main Dish,10,Dinner
+Saudi Arabia,Al Khobar,Roz Bukhari,Spiced rice with meat,Main Dish,6,Lunch
+Saudi Arabia,Al Khobar,Mutabbaq,Stuffed pastry with meat or eggs,Street Food,3,Snack
+Saudi Arabia,Al Khobar,Luqaimat,Fried dough with date syrup,Dessert,2,Snack
+Saudi Arabia,Al Khobar,Samboosa,Pastries with cheese or meat,Appetizer,2,Snack
+Saudi Arabia,Al Khobar,Basbousa,Semolina cake with nuts,Dessert,3,Snack
+Saudi Arabia,Al Ula,Tamriyah,Date pancakes,Breakfast Dish,2,Breakfast
+Saudi Arabia,Al Ula,Foul,Fava beans with spices,Breakfast Dish,2,Breakfast
+Saudi Arabia,Al Ula,Madfoon,Buried meat with rice,Main Dish,8,Dinner
+Saudi Arabia,Al Ula,Kabsa,Spiced rice with camel or lamb,Main Dish,8,Dinner
+Saudi Arabia,Al Ula,Haneeth,Slow-roasted lamb,Main Dish,10,Dinner
+Saudi Arabia,Al Ula,Jareesh,Cracked wheat stew,Main Dish,5,Dinner
+Saudi Arabia,Al Ula,Saleeg,Creamy rice with meat,Main Dish,6,Lunch
+Saudi Arabia,Al Ula,Luqaimat,Fried dough with syrup,Dessert,2,Snack
+Saudi Arabia,Al Ula,Qahwa,Arabic coffee with cardamom,Dessert,1,Snack
+Saudi Arabia,Dammam,Shakshouka,Eggs in spicy tomato sauce,Breakfast Dish,3,Breakfast
+Saudi Arabia,Dammam,Kabsa,"Rice with fish or shrimp, Eastern Province style",Main Dish,7,Dinner
+Saudi Arabia,Dammam,Sayadiyah,Spiced fish with rice,Main Dish,6,Dinner
+Saudi Arabia,Dammam,Mathbi,Grilled meat over hot stones,Main Dish,9,Dinner
+Saudi Arabia,Dammam,Qursan,Vegetable and meat stew with bread,Main Dish,5,Dinner
+Saudi Arabia,Dammam,Harees,Wheat porridge with meat,Main Dish,4,Lunch
+Saudi Arabia,Dammam,Samboosa,Fried pastries with spiced filling,Appetizer,2,Snack
+Saudi Arabia,Dammam,Balilah,Chickpeas with cumin and lemon,Street Food,2,Snack
+Saudi Arabia,Dammam,Aish Al Saraya,Bread pudding with cream,Dessert,3,Snack
+Saudi Arabia,Jeddah,Foul,Fava beans with olive oil and spices,Breakfast Dish,2,Breakfast
+Saudi Arabia,Jeddah,Sayadiyah,Fish with spiced rice and caramelized onions,Main Dish,7,Dinner
+Saudi Arabia,Jeddah,Mandi,Slow-cooked meat with rice and saffron,Main Dish,9,Dinner
+Saudi Arabia,Jeddah,Mabshoor,Grilled fish with spicy marinade,Main Dish,8,Dinner
+Saudi Arabia,Jeddah,Roz Bukhari,Rice with chicken and aromatic spices,Main Dish,6,Lunch
+Saudi Arabia,Jeddah,Samboosa,Fried pastries with meat or cheese,Appetizer,2,Snack
+Saudi Arabia,Jeddah,Balilah,Spiced chickpeas with herbs,Street Food,2,Snack
+Saudi Arabia,Jeddah,Kunafa,"Shredded pastry with cheese or cream, soaked in syrup",Dessert,4,Snack
+Saudi Arabia,Jeddah,Aseedah,Sweet wheat pudding with honey,Dessert,3,Snack
+Saudi Arabia,Mecca,Foul Medames,Fava beans with garlic and lemon,Breakfast Dish,2,Breakfast
+Saudi Arabia,Mecca,Thareed,Bread soaked in meat and vegetable stew,Main Dish,5,Dinner
+Saudi Arabia,Mecca,Kabsa,Spiced rice with camel or lamb,Main Dish,8,Dinner
+Saudi Arabia,Mecca,Saleeg,Creamy rice with meat,Main Dish,6,Dinner
+Saudi Arabia,Mecca,Harees,Wheat and meat porridge,Main Dish,4,Lunch
+Saudi Arabia,Mecca,Marqouq,Layered bread with meat stew,Main Dish,5,Lunch
+Saudi Arabia,Mecca,Mutabbaq,Savory stuffed pastry,Street Food,3,Snack
+Saudi Arabia,Mecca,Basbousa,Semolina cake with syrup,Dessert,3,Snack
+Saudi Arabia,Mecca,Qahwa,Spiced Arabic coffee with cardamom,Dessert,1,Snack
+Saudi Arabia,Medina,Tamriyah,Date-filled flatbread,Breakfast Dish,2,Breakfast
+Saudi Arabia,Medina,Foul,Fava beans with tahini,Breakfast Dish,2,Breakfast
+Saudi Arabia,Medina,Mandi,Yemeni-style rice with lamb or chicken,Main Dish,9,Dinner
+Saudi Arabia,Medina,Haneeth,Tender roasted lamb with spices,Main Dish,10,Dinner
+Saudi Arabia,Medina,Madfoon,Meat buried and slow-cooked with rice,Main Dish,8,Dinner
+Saudi Arabia,Medina,Jareesh,Spiced wheat stew,Main Dish,5,Dinner
+Saudi Arabia,Medina,Shorba,Lentil or vegetable soup,Appetizer,2,Lunch
+Saudi Arabia,Medina,Luqaimat,Sweet fried dumplings,Dessert,2,Snack
+Saudi Arabia,Medina,Kunafa,Sweet cheese pastry with syrup,Dessert,4,Snack
+Saudi Arabia,Taif,Rghayef,Layered pancakes with honey,Breakfast Dish,3,Breakfast
+Saudi Arabia,Taif,Foul,Fava beans with olive oil,Breakfast Dish,2,Breakfast
+Saudi Arabia,Taif,Kabsa,Rice with lamb and Taif spices,Main Dish,8,Dinner
+Saudi Arabia,Taif,Haneeth,Slow-roasted meat,Main Dish,10,Dinner
+Saudi Arabia,Taif,Marqouq,Thin bread with stew,Main Dish,5,Dinner
+Saudi Arabia,Taif,Saleeg,Creamy rice with chicken,Main Dish,6,Lunch
+Saudi Arabia,Taif,Qursan,Bread-based vegetable stew,Main Dish,4,Lunch
+Saudi Arabia,Taif,Aseedah,Wheat pudding with ghee,Dessert,3,Snack
+Saudi Arabia,Taif,Kunafa,Cheese-filled pastry with syrup,Dessert,4,Snack
+Saudi Arabia,Yanbu,Foul,Fava beans with tahini,Breakfast Dish,2,Breakfast
+Saudi Arabia,Yanbu,Sayadiyah,Fish with rice and spices,Main Dish,7,Dinner
+Saudi Arabia,Yanbu,Mandi,Slow-cooked meat with rice,Main Dish,9,Dinner
+Saudi Arabia,Yanbu,Mathbi,Grilled meat on stones,Main Dish,10,Dinner
+Saudi Arabia,Yanbu,Harees,Wheat and meat porridge,Main Dish,4,Lunch
+Saudi Arabia,Yanbu,Roz Bukhari,Rice with chicken,Main Dish,6,Lunch
+Saudi Arabia,Yanbu,Mutabbaq,Savory stuffed pastry,Street Food,3,Snack
+Saudi Arabia,Yanbu,Kunafa,Sweet pastry with cheese,Dessert,4,Snack
+Saudi Arabia,Yanbu,Balilah,Spiced chickpeas,Street Food,2,Snack
+Spain,Barcelona,Pa amb Tomàquet,Bread rubbed with tomato and olive oil,Appetizer,2,Breakfast
+Spain,Barcelona,Fideuà,Seafood noodle dish similar to paella,Main Dish,10,Dinner
+Spain,Barcelona,Canelons,Meat-filled pasta rolls with béchamel,Main Dish,7,Dinner
+Spain,Barcelona,Escalivada,Grilled eggplant and peppers with olive oil,Appetizer,4,Lunch
+Spain,Barcelona,Botifarra amb Mongetes,Grilled sausage with white beans,Main Dish,8,Lunch
+Spain,Barcelona,Calçots,Grilled spring onions with romesco sauce,Appetizer,5,Lunch
+Spain,Barcelona,Esqueixada,Shredded salt cod salad with peppers,Main Dish,6,Lunch
+Spain,Barcelona,Crema Catalana,Custard with caramelized sugar,Dessert,3,Snack
+Spain,Barcelona,Xuixo,Cream-filled pastry dusted with sugar,Dessert,2,Snack
+Spain,Bilbao,Bacalao al Pil-Pil,Cod in garlic and olive oil emulsion,Main Dish,10,Dinner
+Spain,Bilbao,Txangurro,Stuffed spider crab,Main Dish,12,Dinner
+Spain,Bilbao,Chuletón,Grilled T-bone steak,Main Dish,15,Dinner
+Spain,Bilbao,Marmitako,Tuna and potato stew,Main Dish,8,Lunch
+Spain,Bilbao,Porrusalda,Leek and potato soup,Main Dish,5,Lunch
+Spain,Bilbao,Pintxos,"Small tapas on bread, often with seafood or meats",Appetizer,3,Snack
+Spain,Bilbao,Idiazabal Cheese,Smoked sheep’s cheese,Appetizer,4,Snack
+Spain,Bilbao,Pantxineta,Puff pastry with custard,Dessert,3,Snack
+Spain,Bilbao,Gilda,"Skewer with olive, anchovy, and pepper",Appetizer,2,Snack
+Spain,Córdoba,Rabo de Toro,Oxtail stew with red wine,Main Dish,10,Dinner
+Spain,Córdoba,Flamenquín,Breaded pork roll with ham,Main Dish,7,Dinner
+Spain,Córdoba,Japuta en Adobo,Marinated dogfish,Main Dish,8,Dinner
+Spain,Córdoba,Salmorejo,Thick tomato and bread soup with ham,Appetizer,3,Lunch
+Spain,Córdoba,Albóndigas,Meatballs in tomato sauce,Main Dish,6,Lunch
+Spain,Córdoba,Ajo Blanco,Cold garlic and almond soup,Appetizer,3,Lunch
+Spain,Córdoba,Berenjenas Fritas,Fried eggplant with honey,Appetizer,4,Snack
+Spain,Córdoba,Pastel Cordobés,Puff pastry with sweet squash filling,Dessert,3,Snack
+Spain,Córdoba,Pestiños,Honey-fried pastries,Dessert,2,Snack
+Spain,Granada,Habas con Jamón,Broad beans with ham,Main Dish,6,Dinner
+Spain,Granada,Olla de San Antón,Bean and pork stew,Main Dish,7,Dinner
+Spain,Granada,Pastela Moruna,Spiced meat pie,Main Dish,9,Dinner
+Spain,Granada,Plato Alpujarreño,"Potatoes, eggs, chorizo, and morcilla",Main Dish,8,Lunch
+Spain,Granada,Tortilla del Sacromonte,Omelette with brains and testicles,Main Dish,7,Lunch
+Spain,Granada,Remojón,Cod and orange salad,Appetizer,5,Lunch
+Spain,Granada,Sopa de Almendras,Almond soup,Appetizer,4,Lunch
+Spain,Granada,Piononos,Sponge cake rolls with custard,Dessert,2,Snack
+Spain,Granada,Cuajada,Milk curd dessert,Dessert,2,Snack
+Spain,Madrid,Tortilla Española,Potato and egg omelette,Main Dish,3,Breakfast
+Spain,Madrid,Callos a la Madrileña,Tripe stew with chorizo and morcilla,Main Dish,8,Dinner
+Spain,Madrid,Gallina en Pepitoria,Chicken in almond and saffron sauce,Main Dish,9,Dinner
+Spain,Madrid,Cocido Madrileño,"Chickpea stew with pork, sausages, and vegetables",Main Dish,10,Lunch
+Spain,Madrid,Bocadillo de Calamares,Fried squid sandwich,Street Food,4,Snack
+Spain,Madrid,Churros con Chocolate,Fried dough with thick hot chocolate,Dessert,3,Snack
+Spain,Madrid,Jamón Ibérico,Cured ham from black Iberian pigs,Appetizer,6,Snack
+Spain,Madrid,Patatas Bravas,Fried potatoes with spicy tomato sauce,Appetizer,4,Snack
+Spain,Madrid,Rosquillas,Traditional ring-shaped pastries,Dessert,2,Snack
+Spain,Málaga,Fritura Malagueña,Fried seafood platter,Main Dish,10,Dinner
+Spain,Málaga,Chivo a la Pastora,Goat stew with herbs,Main Dish,9,Dinner
+Spain,Málaga,Espetos,Sardines skewered and grilled,Main Dish,6,Lunch
+Spain,Málaga,Ajoblanco,Cold almond and garlic soup,Appetizer,3,Lunch
+Spain,Málaga,Ensaladilla Malagueña,Potato salad with cod and orange,Appetizer,4,Lunch
+Spain,Málaga,Porra Antequerana,Thick tomato soup with bread,Appetizer,3,Lunch
+Spain,Málaga,Sopa Malagueña,Seafood soup with noodles,Main Dish,7,Lunch
+Spain,Málaga,Boquerones en Vinagre,Marinated anchovies,Appetizer,4,Snack
+Spain,Málaga,Tarta Malagueña,Almond and raisin cake,Dessert,3,Snack
+Spain,San Sebastián,Txuleta,Grilled rib-eye steak,Main Dish,15,Dinner
+Spain,San Sebastián,Bacalao a la Vizcaína,Cod in red pepper sauce,Main Dish,10,Dinner
+Spain,San Sebastián,Kokotxas,Cod cheeks in green sauce,Main Dish,12,Dinner
+Spain,San Sebastián,Marmitako,Tuna stew with potatoes,Main Dish,8,Lunch
+Spain,San Sebastián,Sopa de Pescado,Fish soup with bread,Main Dish,7,Lunch
+Spain,San Sebastián,Pintxos,Bite-sized tapas on bread or skewers,Appetizer,3,Snack
+Spain,San Sebastián,Tarta de Queso,Basque burnt cheesecake,Dessert,4,Snack
+Spain,San Sebastián,Anchoas,"Fresh anchovies, often marinated",Appetizer,5,Snack
+Spain,San Sebastián,Chistorra,"Spicy sausage, often grilled",Appetizer,4,Snack
+Spain,Seville,Pescaíto Frito,Fried mixed fish,Main Dish,8,Dinner
+Spain,Seville,Carrillada,Braised pork cheeks in wine sauce,Main Dish,9,Dinner
+Spain,Seville,Flamenquín,Breaded pork roll with ham,Main Dish,7,Dinner
+Spain,Seville,Gazpacho,Cold tomato soup with garlic and peppers,Appetizer,3,Lunch
+Spain,Seville,Salmorejo,Thick tomato and bread soup,Appetizer,3,Lunch
+Spain,Seville,Espinacas con Garbanzos,Spinach and chickpea stew,Main Dish,6,Lunch
+Spain,Seville,Torrijas,"Bread soaked in milk, fried, and sweetened",Dessert,2,Snack
+Spain,Seville,Serranito,"Warm roll with pork, ham, and peppers",Street Food,4,Snack
+Spain,Seville,Pestiños,Honey-glazed fried pastries,Dessert,2,Snack
+Spain,Valencia,Arròs al Forn,Baked rice with pork and chickpeas,Main Dish,8,Dinner
+Spain,Valencia,All i Pebre,Eel stew with garlic and paprika,Main Dish,9,Dinner
+Spain,Valencia,Arròs Negre,Black rice with squid ink,Main Dish,10,Dinner
+Spain,Valencia,Paella Valenciana,"Rice with chicken, rabbit, and beans",Main Dish,12,Lunch
+Spain,Valencia,Olleta,Bean and meat stew,Main Dish,7,Lunch
+Spain,Valencia,Horchata,Sweet tiger nut milk served chilled,Dessert,2,Snack
+Spain,Valencia,Fartons,Light pastries paired with horchata,Dessert,1,Snack
+Spain,Valencia,Buñuelos,"Fried dough balls, often pumpkin-flavored",Dessert,2,Snack
+Spain,Valencia,Turrón,Almond and honey nougat,Dessert,3,Snack
+Spain,Zaragoza,Ternasco,Roasted young lamb with herbs,Main Dish,12,Dinner
+Spain,Zaragoza,Bacalao al Ajoarriero,Cod with garlic and peppers,Main Dish,9,Dinner
+Spain,Zaragoza,Pollo al Chilindrón,Chicken stew with peppers and tomatoes,Main Dish,8,Dinner
+Spain,Zaragoza,Lomo a la Zaragozana,Pork loin with wine sauce,Main Dish,9,Dinner
+Spain,Zaragoza,Migas Aragonesas,Fried breadcrumbs with sausage and grapes,Main Dish,6,Lunch
+Spain,Zaragoza,Madejas,Grilled lamb intestines,Main Dish,7,Lunch
+Spain,Zaragoza,Sopa de Ajo,Garlic soup with bread and egg,Appetizer,4,Lunch
+Spain,Zaragoza,Frutas de Aragón,Candied fruits coated in chocolate,Dessert,3,Snack
+Spain,Zaragoza,Rosca,Ring-shaped sweet bread,Dessert,2,Snack
+Tunisia,Bizerte,Shakshouka,Eggs in tomato and pepper stew,Breakfast Dish,3,Breakfast
+Tunisia,Bizerte,Couscous with Octopus,Semolina with spicy octopus stew,Main Dish,9,Dinner
+Tunisia,Bizerte,Tajine,Baked egg dish with seafood,Main Dish,5,Dinner
+Tunisia,Bizerte,Hlalem,Pasta and bean soup with spices,Main Dish,4,Lunch
+Tunisia,Bizerte,Lablabi,Chickpea soup with bread,Main Dish,3,Lunch
+Tunisia,Bizerte,Fricassé,Fried dough sandwich with tuna,Street Food,2,Lunch
+Tunisia,Bizerte,Mechouia Salad,Grilled peppers and tomatoes,Appetizer,2,Lunch
+Tunisia,Bizerte,Brik,Fried pastry with egg and fish,Street Food,2,Snack
+Tunisia,Bizerte,Knafeh,Sweet cheese pastry with syrup,Dessert,3,Snack
+Tunisia,Djerba,Rouz Jerbi,"Steamed rice with meat, chickpeas, and spices",Main Dish,7,Dinner
+Tunisia,Djerba,Couscous Djerbien,Spicy couscous with fish or lamb,Main Dish,8,Dinner
+Tunisia,Djerba,Kamounia,Cumin-spiced beef stew,Main Dish,6,Dinner
+Tunisia,Djerba,Ojja,Eggs in spicy tomato sauce with seafood,Main Dish,5,Dinner
+Tunisia,Djerba,Lablabi,Chickpea soup with harissa,Main Dish,3,Lunch
+Tunisia,Djerba,Mechouia Salad,Grilled vegetable salad with olive oil,Appetizer,2,Lunch
+Tunisia,Djerba,Brik,Fried pastry with egg and tuna,Street Food,2,Snack
+Tunisia,Djerba,Makroudh,Honey-soaked date pastry,Dessert,2,Snack
+Tunisia,Djerba,Bambalouni,Sugar-coated fried dough,Dessert,2,Snack
+Tunisia,Gabès,Ojja,Eggs in spicy tomato sauce,Main Dish,4,Breakfast
+Tunisia,Gabès,Couscous with Camel,Semolina with camel meat stew,Main Dish,10,Dinner
+Tunisia,Gabès,Kamounia,Beef stew with cumin,Main Dish,6,Dinner
+Tunisia,Gabès,Lablabi,Chickpea soup with bread and spices,Main Dish,3,Lunch
+Tunisia,Gabès,Fricassé,Fried dough sandwich with egg,Street Food,2,Lunch
+Tunisia,Gabès,Mechouia Salad,Grilled vegetable salad,Appetizer,2,Lunch
+Tunisia,Gabès,Brik,Fried pastry with egg and tuna,Street Food,2,Snack
+Tunisia,Gabès,Makroudh,Honey-soaked date pastry,Dessert,2,Snack
+Tunisia,Gabès,Bambalouni,Fried dough with sugar,Dessert,2,Snack
+Tunisia,Gafsa,Foul,Fava beans with cumin and olive oil,Breakfast Dish,2,Breakfast
+Tunisia,Gafsa,Masfouf,Sweet couscous with nuts,Dessert,3,Breakfast
+Tunisia,Gafsa,Zarb,Meat and vegetables cooked in an underground oven,Main Dish,10,Dinner
+Tunisia,Gafsa,Couscous with Lamb,Spicy lamb stew with semolina,Main Dish,8,Dinner
+Tunisia,Gafsa,Tajine,Egg casserole with chicken,Main Dish,5,Dinner
+Tunisia,Gafsa,Lablabi,Chickpea soup with harissa,Main Dish,3,Lunch
+Tunisia,Gafsa,Shorba,Spicy lentil soup,Appetizer,2,Lunch
+Tunisia,Gafsa,Brik,Fried pastry with egg and meat,Street Food,2,Snack
+Tunisia,Gafsa,Makroudh,Date-filled semolina pastry,Dessert,2,Snack
+Tunisia,Kairouan,Foul,Fava beans with olive oil and spices,Breakfast Dish,2,Breakfast
+Tunisia,Kairouan,Masfouf,Sweet couscous with nuts and dates,Dessert,3,Breakfast
+Tunisia,Kairouan,Couscous with Lamb,Spicy lamb stew over semolina,Main Dish,8,Dinner
+Tunisia,Kairouan,Tajine,Egg casserole with chicken and turmeric,Main Dish,5,Dinner
+Tunisia,Kairouan,Lablabi,Chickpea soup with bread and cumin,Main Dish,3,Lunch
+Tunisia,Kairouan,Shorba,Spicy lamb soup with frik,Appetizer,3,Lunch
+Tunisia,Kairouan,Makroudh,"Date-filled semolina pastry, Kairouan specialty",Dessert,2,Snack
+Tunisia,Kairouan,Brik,Fried pastry with egg and meat,Street Food,2,Snack
+Tunisia,Kairouan,Zrir,Sweet sesame and nut paste with honey,Dessert,3,Snack
+Tunisia,Nabeul,Ojja,Eggs in tomato sauce with merguez,Main Dish,4,Breakfast
+Tunisia,Nabeul,Couscous with Fish,Semolina with spicy fish stew,Main Dish,8,Dinner
+Tunisia,Nabeul,Tajine,Egg casserole with meat,Main Dish,5,Dinner
+Tunisia,Nabeul,Mechouia Salad,Grilled peppers and tomatoes with olive oil,Appetizer,2,Lunch
+Tunisia,Nabeul,Lablabi,Chickpea soup with bread,Main Dish,3,Lunch
+Tunisia,Nabeul,Fricassé,Fried dough sandwich with tuna,Street Food,2,Lunch
+Tunisia,Nabeul,Brik,Fried pastry with egg and tuna,Street Food,2,Snack
+Tunisia,Nabeul,Knafeh,Sweet cheese pastry with syrup,Dessert,3,Snack
+Tunisia,Nabeul,Makroudh,Date-filled semolina pastry,Dessert,2,Snack
+Tunisia,Sfax,Sfax Couscous,Spicy couscous with seafood like shrimp or fish,Main Dish,9,Dinner
+Tunisia,Sfax,Ojja with Seafood,Eggs in tomato sauce with shrimp or calamari,Main Dish,5,Dinner
+Tunisia,Sfax,Tastira,Fried peppers and tomatoes with eggs,Appetizer,3,Dinner
+Tunisia,Sfax,Chorba,"Spicy soup with lamb, frik (green wheat), and vegetables",Appetizer,3,Lunch
+Tunisia,Sfax,Fricassé,"Fried dough sandwich with tuna, egg, and harissa",Street Food,2,Lunch
+Tunisia,Sfax,Lablabi,Chickpea soup with stale bread and spices,Main Dish,3,Lunch
+Tunisia,Sfax,Kaftaji,Fried vegetables with eggs and liver,Main Dish,4,Lunch
+Tunisia,Sfax,Brik,Fried pastry with egg and tuna,Street Food,2,Snack
+Tunisia,Sfax,Makroudh,Semolina pastry with dates and honey,Dessert,2,Snack
+Tunisia,Sousse,Couscous with Fish,Semolina with spicy fish stew,Main Dish,8,Dinner
+Tunisia,Sousse,Merguez,Spicy lamb sausage grilled with bread,Street Food,3,Dinner
+Tunisia,Sousse,Tajine,Baked egg dish with meat and spices,Main Dish,5,Dinner
+Tunisia,Sousse,Mechouia Salad,Grilled peppers and tomatoes with olive oil,Appetizer,2,Lunch
+Tunisia,Sousse,Lablabi,Chickpea soup with bread and harissa,Main Dish,3,Lunch
+Tunisia,Sousse,Shorba,Lentil or vegetable soup with spices,Appetizer,2,Lunch
+Tunisia,Sousse,Brik,Fried pastry with egg and cheese,Street Food,2,Snack
+Tunisia,Sousse,Bambalouni,Fried dough ring coated in sugar,Dessert,2,Snack
+Tunisia,Sousse,Knafeh,Sweet cheese pastry with syrup,Dessert,3,Snack
+Tunisia,Tozeur,Khobz El Mella,Bread baked in sand with spicy filling,Breakfast Dish,3,Breakfast
+Tunisia,Tozeur,Masfouf,Sweet couscous with dates,Dessert,3,Breakfast
+Tunisia,Tozeur,Couscous with Lamb,Spicy lamb stew over semolina,Main Dish,8,Dinner
+Tunisia,Tozeur,Tajine,Baked egg dish with spices,Main Dish,5,Dinner
+Tunisia,Tozeur,Lablabi,Chickpea soup with harissa,Main Dish,3,Lunch
+Tunisia,Tozeur,Shorba,Spicy vegetable soup,Appetizer,2,Lunch
+Tunisia,Tozeur,Brik,Fried pastry with egg and meat,Street Food,2,Snack
+Tunisia,Tozeur,Makroudh,Date-filled pastry with honey,Dessert,2,Snack
+Tunisia,Tozeur,Zrir,Sesame and nut sweet with honey,Dessert,3,Snack
+Tunisia,Tunis,Ojja,Eggs poached in spicy tomato sauce with merguez sausage,Main Dish,4,Breakfast
+Tunisia,Tunis,Shakshouka,Eggs cooked in tomato and pepper stew,Breakfast Dish,3,Breakfast
+Tunisia,Tunis,Couscous with Lamb,"Steamed semolina with lamb stew, spiced with harissa",Main Dish,8,Dinner
+Tunisia,Tunis,Mloukhiya,Stew of jute leaves with beef or lamb,Main Dish,6,Dinner
+Tunisia,Tunis,Lablabi,"Chickpea soup with bread, garlic, and harissa",Main Dish,3,Lunch
+Tunisia,Tunis,Tunisian Salad,"Chopped tomatoes, cucumbers, and onions with olive oil",Appetizer,2,Lunch
+Tunisia,Tunis,Brik,"Fried pastry with egg, tuna, and harissa",Street Food,2,Snack
+Tunisia,Tunis,Knafeh,"Shredded pastry with cheese, soaked in syrup",Dessert,3,Snack
+Tunisia,Tunis,Makroudh,Date-filled semolina pastry soaked in honey,Dessert,2,Snack
+Turkey,Adana,Adana Kebap,"Spicy minced lamb grilled on skewers, served with flatbread and onions",Main Dish,8,Dinner
+Turkey,Adana,Adana Kebab,Spicy minced lamb grilled on skewers,Main Dish,6,Dinner
+Turkey,Adana,Ciger Sis,Grilled liver skewers with spices,Street Food,4,Dinner
+Turkey,Adana,Salgam,Spicy fermented turnip juice,Appetizer,1,Dinner
+Turkey,Adana,Fellah Kofte,Bulgur dumplings in tomato sauce,Main Dish,4,Dinner
+Turkey,Adana,Ezme,Spicy tomato and pepper paste salad,Appetizer,2,Dinner
+Turkey,Adana,Kisir,"Bulgur salad with tomatoes, parsley, and pomegranate molasses",Appetizer,2,Lunch
+Turkey,Adana,Tantuni,Spiced beef strips in lavash bread,Street Food,3,Lunch
+Turkey,Adana,Bici Bici,Shaved ice with syrup and starch pudding,Dessert,2,Snack
+Turkey,Adana,Kadayif,Shredded pastry with nuts and syrup,Dessert,3,Snack
+Turkey,Ankara,Katmer,Flaky pastry with pistachios or cheese,Dessert,3,Breakfast
+Turkey,Ankara,Ankara Tava,"Lamb and vegetables baked in a clay pot with rice, a hearty local specialty",Main Dish,10,Dinner
+Turkey,Ankara,Ankara Tava,Lamb and vegetables baked in a clay pot with tomato sauce,Main Dish,7,Dinner
+Turkey,Ankara,Kuzu Tandir,"Slow-roasted lamb, tender and flavorful",Main Dish,8,Dinner
+Turkey,Ankara,Pide,Boat-shaped flatbread with toppings like cheese or meat,Main Dish,4,Dinner
+Turkey,Ankara,Hunkar Begendi,Lamb stew over eggplant puree,Main Dish,9,Dinner
+Turkey,Ankara,Gozleme,"Thin flatbread stuffed with spinach, cheese, or meat",Street Food,3,Lunch
+Turkey,Ankara,Mercimek Corbasi,Red lentil soup with spices and lemon,Appetizer,2,Lunch
+Turkey,Ankara,Beypazari Kurusu,"Crispy, dry biscuits flavored with cinnamon",Dessert,1,Snack
+Turkey,Ankara,Cig Kofte,Spicy raw meat or vegetarian bulgur balls with herbs,Street Food,2,Snack
+Turkey,Antalya,Hibes,Spicy sesame paste dip with garlic and lemon,Appetizer,2,Dinner
+Turkey,Antalya,Kabak Cicegi Dolmasi,Stuffed zucchini flowers with rice and herbs,Appetizer,4,Dinner
+Turkey,Antalya,Sis Kebab,Grilled skewers of marinated lamb or chicken,Main Dish,6,Dinner
+Turkey,Antalya,Kunefe,"Shredded filo with cheese, soaked in syrup",Dessert,4,Dinner
+Turkey,Antalya,Tarator,Sesame paste with beans and spices,Appetizer,2,Dinner
+Turkey,Antalya,Piyaz,"White bean salad with tahini, onions, and parsley, often paired with köfte",Appetizer,3,Lunch
+Turkey,Antalya,Piyaz,"White bean salad with tahini, garlic, and vinegar",Appetizer,3,Lunch
+Turkey,Antalya,Tahinli Patlican,Eggplant with tahini and yogurt sauce,Appetizer,3,Lunch
+Turkey,Antalya,Tavuk Sis,Marinated chicken skewers grilled over charcoal,Main Dish,5,Lunch
+Turkey,Antalya,Serbet,"Sweet fruit drink, often citrus-based",Dessert,1,Snack
+Turkey,Bodrum,Çökertme Kebabı,Thinly sliced beef over fried potatoes with yogurt and tomato sauce,Main Dish,10,Dinner
+Turkey,Bodrum,Cokertme Kebabi,Thinly sliced beef over fries with yogurt and tomato sauce,Main Dish,7,Dinner
+Turkey,Bodrum,Kalamar Tava,Fried calamari with tarator sauce,Appetizer,5,Dinner
+Turkey,Bodrum,Ahtapot Izgara,Grilled octopus with olive oil and lemon,Main Dish,9,Dinner
+Turkey,Bodrum,Kabak Tatlisi,Pumpkin dessert with tahini and walnuts,Dessert,2,Dinner
+Turkey,Bodrum,Levrek Izgara,Grilled sea bass with herbs,Main Dish,8,Dinner
+Turkey,Bodrum,Raki Meze,"Small dishes paired with raki, like feta and olives",Appetizer,5,Dinner
+Turkey,Bodrum,Imam Bayildi,"Stuffed eggplant with onions, garlic, and tomatoes",Main Dish,4,Lunch
+Turkey,Bodrum,Zeytinyagli Barbunya,Olive oil-cooked borlotti beans,Appetizer,3,Lunch
+Turkey,Bodrum,Dondurma,Stretchy Turkish ice cream with mastic,Dessert,3,Snack
+Turkey,Bursa,Mihlama,"Cheese and cornmeal dish, similar to kuymak",Breakfast Dish,4,Breakfast
+Turkey,Bursa,Sucuklu Yumurta,Eggs with spicy Turkish sausage,Breakfast Dish,3,Breakfast
+Turkey,Bursa,Iskender Kebab,Sliced lamb doner over pide with tomato sauce and yogurt,Main Dish,7,Dinner
+Turkey,Bursa,Pideli Kofte,Meatballs served over pide bread with sauce,Main Dish,6,Dinner
+Turkey,Bursa,İskender Kebap,"Thinly sliced lamb over pita, topped with tomato sauce and yogurt",Main Dish,12,Lunch
+Turkey,Bursa,Inegol Kofte,Grilled meatballs with beef or lamb and breadcrumbs,Main Dish,5,Lunch
+Turkey,Bursa,Cantik,Small pide with minced meat topping,Street Food,3,Lunch
+Turkey,Bursa,Kestane Sekeri,Candied chestnuts,Dessert,3,Snack
+Turkey,Bursa,Kemalpaşa Tatlisi,Cheese-based dessert soaked in syrup,Dessert,2,Snack
+Turkey,Bursa,Tahinli Pide,Sweet pide with tahini filling,Dessert,3,Snack
+Turkey,Cappadocia (Goreme),Pekmez,"Grape molasses, often spread on bread",Breakfast Dish,1,Breakfast
+Turkey,Cappadocia (Goreme),Testi Kebabı,"Meat, vegetables, and spices slow-cooked in a sealed clay pot, broken open to serve",Main Dish,12,Dinner
+Turkey,Cappadocia (Goreme),Testi Kebab,Meat and vegetables cooked in a sealed clay pot,Main Dish,8,Dinner
+Turkey,Cappadocia (Goreme),Manti,"Tiny dumplings with meat or cheese, served with yogurt",Main Dish,6,Dinner
+Turkey,Cappadocia (Goreme),Guvec,Stew of meat and vegetables in a clay pot,Main Dish,6,Dinner
+Turkey,Cappadocia (Goreme),Sac Tava,Lamb and vegetables stir-fried on a large griddle,Main Dish,7,Lunch
+Turkey,Cappadocia (Goreme),Kuru Fasulye,White bean stew with pastirma,Main Dish,5,Lunch
+Turkey,Cappadocia (Goreme),Kaymakli Kayisi,Dried apricots stuffed with kaymak (clotted cream),Dessert,3,Snack
+Turkey,Cappadocia (Goreme),Asure,"Sweet pudding with grains, nuts, and fruits",Dessert,2,Snack
+Turkey,Cappadocia (Goreme),Borek,Flaky pastry with cheese or meat filling,Street Food,3,Snack
+Turkey,Gaziantep,Beyran,Spicy lamb and rice soup,Main Dish,5,Breakfast
+Turkey,Gaziantep,Katmer,Flaky pastry with pistachios and kaymak,Dessert,4,Breakfast
+Turkey,Gaziantep,Ali Nazik,Smoked eggplant with yogurt and spiced lamb,Main Dish,7,Dinner
+Turkey,Gaziantep,Yuvalama,Lamb and chickpea stew with yogurt,Main Dish,6,Dinner
+Turkey,Gaziantep,Kebap,Variety of grilled meat skewers,Main Dish,6,Dinner
+Turkey,Gaziantep,Siveydiz,Lamb stew with garlic and yogurt,Main Dish,7,Dinner
+Turkey,Gaziantep,Lahmacun,Spicy minced meat flatbread,Street Food,2,Lunch
+Turkey,Gaziantep,Baklava,"Layers of phyllo pastry with pistachios and syrup, a world-famous dessert",Dessert,5,Snack
+Turkey,Gaziantep,Baklava,Layered pastry with pistachios and syrup,Dessert,3,Snack
+Turkey,Gaziantep,Fistik Ezmesi,Pistachio paste spread,Dessert,2,Snack
+Turkey,Istanbul,Menemen,"Scrambled eggs with tomatoes, peppers, and spices",Breakfast Dish,3,Breakfast
+Turkey,Istanbul,Kumpir,"Baked potato stuffed with various toppings like cheese, olives, and sausage",Street Food,4,Dinner
+Turkey,Istanbul,Meze Platter,"Assorted small dishes like hummus, cacik, and stuffed grape leaves",Appetizer,6,Dinner
+Turkey,Istanbul,Balık Ekmek,"Grilled fish sandwich served in bread with onions and lemon, popular at Eminönü",Street Food,5,Lunch
+Turkey,Istanbul,Doner Kebab,"Thinly sliced lamb or chicken cooked on a vertical rotisserie, served in bread with vegetables",Main Dish,5,Lunch
+Turkey,Istanbul,Balik Ekmek,"Grilled mackerel sandwich with onions, lettuce, and lemon",Street Food,4,Lunch
+Turkey,Istanbul,Lahmacun,"Thin flatbread topped with spiced minced meat, tomatoes, and onions",Street Food,2,Lunch
+Turkey,Istanbul,Simit,"Sesame-crusted bread ring, crunchy and chewy",Street Food,1,Snack
+Turkey,Istanbul,Baklava,"Layered filo pastry with pistachios or walnuts, soaked in syrup",Dessert,3,Snack
+Turkey,Istanbul,Midye Dolma,"Mussels stuffed with spiced rice, pine nuts, and currants",Street Food,2,Snack
+Turkey,Izmir,Boyoz,"Flaky pastry bun, often served with boiled eggs",Breakfast Dish,2,Breakfast
+Turkey,Izmir,Izmir Kofte,Oven-baked meatballs with potatoes and tomato sauce,Main Dish,6,Dinner
+Turkey,Izmir,Zeytinyagli Yaprak Sarma,Grape leaves stuffed with rice and vegetables,Appetizer,3,Dinner
+Turkey,Izmir,Kumru,"Sandwich with grilled sausage, cheese, and tomatoes",Street Food,3,Lunch
+Turkey,Izmir,Sis Kofte,Skewered meatballs grilled with spices,Main Dish,5,Lunch
+Turkey,Izmir,Kumru,"Toasted sandwich with sausage, cheese, and tomatoes, an Izmir street food classic",Street Food,4,Snack
+Turkey,Izmir,Lokma,Fried dough balls soaked in syrup,Dessert,2,Snack
+Turkey,Izmir,Midye Tava,Fried mussels served with garlic yogurt sauce,Street Food,4,Snack
+Turkey,Izmir,Sutlac,Creamy rice pudding with a burnt top,Dessert,2,Snack
+Turkey,Izmir,Cezerye,Carrot and nut candy coated with coconut,Dessert,1,Snack
+Turkey,Trabzon,Kuymak,"Melted cheese mixed with cornmeal and butter, a rich Black Sea dish",Appetizer,6,Breakfast
+Turkey,Trabzon,Kuymak,Melted cheese with cornmeal and butter,Breakfast Dish,4,Breakfast
+Turkey,Trabzon,Mısır Ekmeği,"Cornbread, often served with stews",Breakfast Dish,2,Breakfast
+Turkey,Trabzon,Kaygana,Cornmeal pancake with herbs or cheese,Breakfast Dish,3,Breakfast
+Turkey,Trabzon,Lahana Sarma,Cabbage rolls stuffed with rice and meat,Main Dish,4,Dinner
+Turkey,Trabzon,Hamsi Pilavi,Rice pilaf with anchovies,Main Dish,6,Dinner
+Turkey,Trabzon,Hamsi Tava,Fried Black Sea anchovies,Main Dish,5,Lunch
+Turkey,Trabzon,Pide,"Flatbread with cheese, meat, or egg toppings",Main Dish,4,Lunch
+Turkey,Trabzon,Fasulye Tursusu,Pickled green beans,Appetizer,2,Lunch
+Turkey,Trabzon,Pestil,Fruit leather made from mulberries or grapes,Dessert,1,Snack
+UAE,Abu Dhabi,Balaleet,Sweet noodles with cardamom and eggs,Breakfast Dish,3,Breakfast
+UAE,Abu Dhabi,Balaleet,Sweet noodles with cardamom and eggs,Breakfast Dish,3,Breakfast
+UAE,Abu Dhabi,Khuzi,National dish of roasted lamb with spiced rice,Main Dish,10,Dinner
+UAE,Abu Dhabi,Machboos,"Rice with fish or chicken, spiced with baharat",Main Dish,8,Dinner
+UAE,Abu Dhabi,Margooga,Bread and meat stew with spices,Main Dish,6,Dinner
+UAE,Abu Dhabi,Madrouba,Spiced rice porridge with chicken,Main Dish,6,Dinner
+UAE,Abu Dhabi,Khuzi,National dish of roasted lamb with spiced rice,Main Dish,10,Dinner
+UAE,Abu Dhabi,Machboos,"Rice with fish or chicken, spiced with baharat",Main Dish,8,Dinner
+UAE,Abu Dhabi,Margooga,Bread and meat stew with spices,Main Dish,6,Dinner
+UAE,Abu Dhabi,Madrouba,Spiced rice porridge with chicken,Main Dish,6,Dinner
+UAE,Abu Dhabi,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+UAE,Abu Dhabi,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+UAE,Abu Dhabi,Luqaimat,Sweet fried dumplings with honey,Dessert,2,Snack
+UAE,Abu Dhabi,Samboosa,Fried pastries with meat or cheese,Appetizer,2,Snack
+UAE,Abu Dhabi,Gahwa,Arabic coffee with cardamom,Dessert,1,Snack
+UAE,Abu Dhabi,Luqaimat,Sweet fried dumplings with honey,Dessert,2,Snack
+UAE,Abu Dhabi,Samboosa,Fried pastries with meat or cheese,Appetizer,2,Snack
+UAE,Abu Dhabi,Gahwa,Arabic coffee with cardamom,Dessert,1,Snack
+UAE,Ajman,Balaleet,Sweet noodles with eggs,Breakfast Dish,3,Breakfast
+UAE,Ajman,Balaleet,Sweet noodles with eggs,Breakfast Dish,3,Breakfast
+UAE,Ajman,Machboos,Rice with chicken and loomi,Main Dish,8,Dinner
+UAE,Ajman,Saloona,Fish stew with vegetables,Main Dish,6,Dinner
+UAE,Ajman,Machboos,Rice with chicken and loomi,Main Dish,8,Dinner
+UAE,Ajman,Saloona,Fish stew with vegetables,Main Dish,6,Dinner
+UAE,Ajman,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+UAE,Ajman,Thareed,Bread in lamb broth with spices,Main Dish,6,Lunch
+UAE,Ajman,Harees,Wheat and lamb porridge,Main Dish,5,Lunch
+UAE,Ajman,Thareed,Bread in lamb broth with spices,Main Dish,6,Lunch
+UAE,Ajman,Luqaimat,Sweet fried dough balls,Dessert,2,Snack
+UAE,Ajman,Samboosa,Pastries with spiced filling,Appetizer,2,Snack
+UAE,Ajman,Regag,Thin bread with honey,Street Food,2,Snack
+UAE,Ajman,Gahwa,Spiced Arabic coffee,Dessert,1,Snack
+UAE,Ajman,Luqaimat,Sweet fried dough balls,Dessert,2,Snack
+UAE,Ajman,Samboosa,Pastries with spiced filling,Appetizer,2,Snack
+UAE,Ajman,Regag,Thin bread with honey,Street Food,2,Snack
+UAE,Ajman,Gahwa,Spiced Arabic coffee,Dessert,1,Snack
+UAE,Dubai,Balaleet,"Sweet vermicelli with saffron, topped with omelette",Breakfast Dish,3,Breakfast
+UAE,Dubai,Chebab,Spiced pancakes with date syrup,Breakfast Dish,2,Breakfast
+UAE,Dubai,Balaleet,"Sweet vermicelli with saffron, topped with omelette",Breakfast Dish,3,Breakfast
+UAE,Dubai,Chebab,Spiced pancakes with date syrup,Breakfast Dish,2,Breakfast
+UAE,Dubai,Machboos,"Spiced rice with chicken or lamb, flavored with loomi and saffron",Main Dish,8,Dinner
+UAE,Dubai,Khuzi,Roasted lamb on spiced rice with nuts and raisins,Main Dish,10,Dinner
+UAE,Dubai,Saloona,Vegetable and meat stew with turmeric,Main Dish,6,Dinner
+UAE,Dubai,Machboos,"Spiced rice with chicken or lamb, flavored with loomi and saffron",Main Dish,8,Dinner
+UAE,Dubai,Khuzi,Roasted lamb on spiced rice with nuts and raisins,Main Dish,10,Dinner
+UAE,Dubai,Saloona,Vegetable and meat stew with turmeric,Main Dish,6,Dinner
+UAE,Dubai,Harees,"Wheat porridge with meat, slow-cooked with ghee",Main Dish,5,Lunch
+UAE,Dubai,Thareed,Bread soaked in lamb or chicken broth with vegetables,Main Dish,6,Lunch
+UAE,Dubai,Harees,"Wheat porridge with meat, slow-cooked with ghee",Main Dish,5,Lunch
+UAE,Dubai,Thareed,Bread soaked in lamb or chicken broth with vegetables,Main Dish,6,Lunch
+UAE,Dubai,Luqaimat,Fried dough balls drizzled with date syrup,Dessert,2,Snack
+UAE,Dubai,Regag,Thin crepe-like bread with egg or honey,Street Food,2,Snack
+UAE,Dubai,Luqaimat,Fried dough balls drizzled with date syrup,Dessert,2,Snack
+UAE,Dubai,Regag,Thin crepe-like bread with egg or honey,Street Food,2,Snack
+UAE,Ras Al Khaimah,Chebab,Spiced pancakes with date syrup,Breakfast Dish,2,Breakfast
+UAE,Ras Al Khaimah,Chebab,Spiced pancakes with date syrup,Breakfast Dish,2,Breakfast
+UAE,Ras Al Khaimah,Khuzi,Roasted lamb with spiced rice and nuts,Main Dish,10,Dinner
+UAE,Ras Al Khaimah,Machboos,Rice with fish or lamb,Main Dish,8,Dinner
+UAE,Ras Al Khaimah,Margooga,Bread and meat stew,Main Dish,6,Dinner
+UAE,Ras Al Khaimah,Madrouba,Rice porridge with spices,Main Dish,6,Dinner
+UAE,Ras Al Khaimah,Khuzi,Roasted lamb with spiced rice and nuts,Main Dish,10,Dinner
+UAE,Ras Al Khaimah,Machboos,Rice with fish or lamb,Main Dish,8,Dinner
+UAE,Ras Al Khaimah,Margooga,Bread and meat stew,Main Dish,6,Dinner
+UAE,Ras Al Khaimah,Madrouba,Rice porridge with spices,Main Dish,6,Dinner
+UAE,Ras Al Khaimah,Harees,Wheat porridge with chicken,Main Dish,5,Lunch
+UAE,Ras Al Khaimah,Thareed,Bread in vegetable and meat broth,Main Dish,6,Lunch
+UAE,Ras Al Khaimah,Harees,Wheat porridge with chicken,Main Dish,5,Lunch
+UAE,Ras Al Khaimah,Thareed,Bread in vegetable and meat broth,Main Dish,6,Lunch
+UAE,Ras Al Khaimah,Luqaimat,Fried dough with honey,Dessert,2,Snack
+UAE,Ras Al Khaimah,Kunafa,Sweet cheese pastry,Dessert,3,Snack
+UAE,Ras Al Khaimah,Luqaimat,Fried dough with honey,Dessert,2,Snack
+UAE,Ras Al Khaimah,Kunafa,Sweet cheese pastry,Dessert,3,Snack
+UAE,Sharjah,Chebab,Pancakes with saffron and date syrup,Breakfast Dish,2,Breakfast
+UAE,Sharjah,Balaleet,Sweet vermicelli with rose water,Breakfast Dish,3,Breakfast
+UAE,Sharjah,Chebab,Pancakes with saffron and date syrup,Breakfast Dish,2,Breakfast
+UAE,Sharjah,Balaleet,Sweet vermicelli with rose water,Breakfast Dish,3,Breakfast
+UAE,Sharjah,Machboos,Spiced rice with lamb or fish,Main Dish,8,Dinner
+UAE,Sharjah,Saloona,Chicken stew with vegetables,Main Dish,6,Dinner
+UAE,Sharjah,Machboos,Spiced rice with lamb or fish,Main Dish,8,Dinner
+UAE,Sharjah,Saloona,Chicken stew with vegetables,Main Dish,6,Dinner
+UAE,Sharjah,Harees,Wheat porridge with meat and ghee,Main Dish,5,Lunch
+UAE,Sharjah,Thareed,Bread in spiced meat broth,Main Dish,6,Lunch
+UAE,Sharjah,Harees,Wheat porridge with meat and ghee,Main Dish,5,Lunch
+UAE,Sharjah,Thareed,Bread in spiced meat broth,Main Dish,6,Lunch
+UAE,Sharjah,Luqaimat,Fried dough with date syrup,Dessert,2,Snack
+UAE,Sharjah,Regag,Thin bread with cheese or egg,Street Food,2,Snack
+UAE,Sharjah,Kunafa,Cheese pastry with syrup,Dessert,3,Snack
+UAE,Sharjah,Luqaimat,Fried dough with date syrup,Dessert,2,Snack
+UAE,Sharjah,Regag,Thin bread with cheese or egg,Street Food,2,Snack
+UAE,Sharjah,Kunafa,Cheese pastry with syrup,Dessert,3,Snack
+Montenegro,Podgorica,Njeguški Steak,"Veal or pork schnitzel stuffed with Njeguški prosciutto and cheese, often topped with kajmak.",Main Dish,8,Dinner
+Montenegro,Podgorica,Burek,"Flaky filo pastry filled with meat, cheese, or spinach, baked until golden.",Breakfast Dish,2,Breakfast
+Montenegro,Podgorica,Ćevapčići,"Grilled minced meat rolls (lamb or beef), served with onions and pita bread.",Street Food,4,Lunch
+Montenegro,Podgorica,Kačamak,"Cornmeal porridge mixed with potatoes and kajmak (clotted cream), sometimes served with cheese.",Main Dish,3,Lunch
+Montenegro,Podgorica,Priganice,"Fried dough balls served with honey, cheese, or jam, a traditional snack.",Dessert,2,Snack
+Montenegro,Podgorica,Shopska Salad,"Fresh tomatoes, cucumbers, peppers, and grated white cheese with olive oil.",Appetizer,3,Lunch
+Montenegro,Podgorica,Sarma,"Minced meat and rice wrapped in sauerkraut leaves, slow-cooked until tender.",Main Dish,5,Dinner
+Montenegro,Podgorica,Ajvar,"Roasted red pepper and eggplant relish, served with bread or as a side.",Appetizer,2,Snack
+Montenegro,Podgorica,Palačinke,"Thin pancakes filled with jam, chocolate, or cheese, a versatile treat.",Dessert,3,Snack
+Montenegro,Podgorica,Riblja Čorba,"Thick fish soup with mixed fish, vegetables, and spices.",Main Dish,6,Dinner
+Montenegro,Kotor,Black Risotto,"Risotto colored and flavored with cuttlefish ink, mixed with squid or shellfish.",Main Dish,7,Dinner
+Montenegro,Kotor,Buzara,"Shellfish (mussels or shrimp) stewed in white wine, garlic, and olive oil.",Main Dish,8,Dinner
+Montenegro,Kotor,Njeguški Prosciutto,"Dry-cured ham from Njeguši, thinly sliced and served with cheese.",Appetizer,5,Snack
+Montenegro,Kotor,Octopus Salad,"Chilled octopus with olive oil, garlic, lemon, and parsley.",Appetizer,6,Lunch
+Montenegro,Kotor,Pogača,Rustic bread baked with or without fillings like cheese or herbs.,Breakfast Dish,2,Breakfast
+Montenegro,Kotor,Grilled Squid,"Fresh squid grilled with olive oil and lemon, a coastal favorite.",Main Dish,7,Dinner
+Montenegro,Kotor,Krempita,"Layered custard cream cake with flaky pastry, lightly sweetened.",Dessert,3,Snack
+Montenegro,Kotor,Fish Carpaccio,"Thinly sliced raw fish (often tuna) with olive oil, lemon, and capers.",Appetizer,6,Dinner
+Montenegro,Kotor,Tulumba,"Fried dough soaked in sugar syrup, similar to a Balkan donut.",Dessert,2,Snack
+Montenegro,Kotor,Mussels in Red Sauce,"Mussels cooked in a tomato, wine, and garlic sauce.",Main Dish,7,Dinner
+Montenegro,Budva,Ispod Sača,Lamb or veal slow-roasted with potatoes under a metal lid with coals.,Main Dish,9,Dinner
+Montenegro,Budva,Seafood Platter,"Assorted grilled fish, shrimp, and squid with olive oil and lemon.",Main Dish,12,Dinner
+Montenegro,Budva,Cicvara,"Thick cornmeal stew with kaymak and cheese, a hearty mountain dish.",Main Dish,4,Lunch
+Montenegro,Budva,Kiflice,"Crescent-shaped pastries filled with cheese, ham, or jam.",Breakfast Dish,2,Breakfast
+Montenegro,Budva,Baklava,"Layered filo pastry with nuts and honey syrup, a sweet treat.",Dessert,3,Snack
+Montenegro,Budva,Grilled Fish,"Fresh catch (e.g., sea bass) grilled with herbs and olive oil.",Main Dish,8,Dinner
+Montenegro,Budva,Punjene Paprike,"Bell peppers stuffed with minced meat and rice, baked in tomato sauce.",Main Dish,6,Dinner
+Montenegro,Budva,Gibannica,"Layered pastry with cheese and eggs, baked until crispy.",Breakfast Dish,3,Breakfast
+Montenegro,Budva,Tava,"Beef or lamb stew with vegetables, slow-cooked in a clay pot.",Main Dish,7,Dinner
+Montenegro,Budva,Srpska Salata,"Tomato, cucumber, and onion salad with vinegar and oil.",Appetizer,2,Lunch
+Montenegro,Cetinje,Njeguški Cheese,"Full-fat cheese made from sheep or cow’s milk, aged for months.",Appetizer,4,Snack
+Montenegro,Cetinje,Lamb in Milk,"Lamb slow-cooked in milk with potatoes and herbs, a northern specialty.",Main Dish,9,Dinner
+Montenegro,Cetinje,Raštan,Dark leafy greens stewed with smoked meat and potatoes.,Main Dish,5,Dinner
+Montenegro,Cetinje,Kolašin Layered Cheese,"Thin-layered cheese from Kolašin, served with bread.",Appetizer,4,Snack
+Montenegro,Cetinje,Popara,"Bread soaked in milk or broth, mixed with cheese or kajmak.",Breakfast Dish,2,Breakfast
+Montenegro,Cetinje,Kacamak with Nettles,Cornmeal porridge with wild nettles and cheese.,Main Dish,4,Lunch
+Montenegro,Cetinje,Sutlijash,"Rice pudding with cinnamon and sugar, a comforting dessert.",Dessert,3,Snack
+Montenegro,Cetinje,Japraci,Vegetarian sarma with rice wrapped in grape leaves.,Main Dish,4,Lunch
+Montenegro,Cetinje,Pita sa Sirom,"Filo pastry pie filled with cheese, baked until golden.",Breakfast Dish,3,Breakfast
+Montenegro,Cetinje,Roast Lamb,"Slow-roasted lamb with rosemary and garlic, a festive dish.",Main Dish,10,Dinner
+Montenegro,Bar,Carp from Skadar,"Lake Skadar carp, fried or baked with plums or apples.",Main Dish,7,Dinner
+Montenegro,Bar,Smoked Carp,"Carp smoked over beech wood, served with bread.",Appetizer,5,Snack
+Montenegro,Bar,Bokeški Brodet,"Fish stew with tomatoes, garlic, and wine, a coastal classic.",Main Dish,6,Dinner
+Montenegro,Bar,Olive Jam,"Unique jam made from olives, served with bread or cheese.",Appetizer,3,Snack
+Montenegro,Bar,Pasta with Seafood,"Fresh pasta with shrimp, mussels, and a light tomato sauce.",Main Dish,8,Dinner
+Montenegro,Bar,Fritule,"Small fried dough balls dusted with sugar, a sweet treat.",Dessert,2,Snack
+Montenegro,Bar,Grilled Trout,"Lake trout grilled with herbs and lemon, simple and fresh.",Main Dish,7,Dinner
+Montenegro,Bar,Zelena Salata,Spring lettuce and onion salad with oil and vinegar.,Appetizer,2,Lunch
+Montenegro,Bar,Tahin Halva,"Sesame paste dessert, sweet and crumbly.",Dessert,2,Snack
+Montenegro,Bar,Kobasica,"Grilled homemade sausage, often served with mustard.",Street Food,4,Snack
+Montenegro,Tivat,Monkfish Stew,Monkfish cooked with potatoes and tomatoes in a rich broth.,Main Dish,8,Dinner
+Montenegro,Tivat,Prawn Buzara,Prawns stewed in a white wine and garlic sauce.,Main Dish,9,Dinner
+Montenegro,Tivat,Kroštule,"Fried dough strips dusted with powdered sugar, a coastal sweet.",Dessert,2,Snack
+Montenegro,Tivat,Grilled Octopus,"Octopus grilled with olive oil and herbs, tender and flavorful.",Main Dish,8,Dinner
+Montenegro,Tivat,Pamidora Salata,Tomato and onion salad with olive oil and sea salt.,Appetizer,2,Lunch
+Montenegro,Tivat,Rakija Cake,Sponge cake soaked with rakija (fruit brandy) and topped with cream.,Dessert,3,Snack
+Montenegro,Tivat,Fish Skewers,Chunks of fish grilled on skewers with peppers and onions.,Main Dish,7,Dinner
+Montenegro,Tivat,Kajmak,"Creamy dairy spread made from clotted cream, served with bread.",Appetizer,3,Breakfast
+Montenegro,Tivat,Pita with Spinach,Filo pastry pie filled with spinach and cheese.,Breakfast Dish,3,Breakfast
+Montenegro,Tivat,Stuffed Squid,"Squid stuffed with rice, herbs, and vegetables, baked or grilled.",Main Dish,8,Dinner
+Montenegro,Kolašin,Pljevaljski Cheese,"Aged sheep’s milk cheese with a sharp flavor, served with bread.",Appetizer,4,Snack
+Montenegro,Kolašin,Brav u Mlijeku,Lamb braised in milk with root vegetables and spices.,Main Dish,9,Dinner
+Montenegro,Kolašin,Masenica,Buckwheat pancakes broken up and served with cheese and kajmak.,Main Dish,5,Lunch
+Montenegro,Kolašin,Ćufte,"Meatballs made from minced beef or lamb, simmered in tomato sauce.",Main Dish,6,Dinner
+Montenegro,Kolašin,Priganice with Mead,Fried dough balls drizzled with local mead.,Dessert,3,Snack
+Montenegro,Kolašin,Gulaš,"Hearty beef stew with paprika, onions, and potatoes.",Main Dish,6,Dinner
+Montenegro,Kolašin,Heljdija,"Buckwheat porridge with cheese or meat, a mountain staple.",Main Dish,4,Lunch
+Montenegro,Kolašin,Kiselo Mlijeko,Buttermilk served with bread or pastries.,Breakfast Dish,2,Breakfast
+Montenegro,Kolašin,Pita sa Mesom,Filo pie filled with spiced minced meat.,Main Dish,5,Dinner
+Montenegro,Kolašin,Mountain Soup,"Thick soup with lamb, potatoes, and wild herbs.",Main Dish,5,Dinner
+Montenegro,Ulcinj,Pasulj,"White bean stew with smoked meat (bacon or sausage), hearty and warm.",Main Dish,5,Lunch
+Montenegro,Ulcinj,Prebranac,"Baked beans with onions and paprika, a smoky side dish.",Main Dish,4,Dinner
+Montenegro,Ulcinj,Kebabs,"Skewered lamb or beef with vegetables, grilled over an open flame.",Street Food,5,Dinner
+Montenegro,Ulcinj,Turska Kafa,"Strong Turkish-style coffee, served with a sweet treat.",Dessert,1.5,Snack
+Montenegro,Ulcinj,Baklava with Walnuts,Filo pastry layered with walnuts and honey syrup.,Dessert,3,Snack
+Montenegro,Ulcinj,Grilled Sea Bass,Whole sea bass grilled with olive oil and lemon.,Main Dish,8,Dinner
+Montenegro,Ulcinj,Börek,"Filo pastry filled with meat or cheese, a Balkan classic.",Breakfast Dish,3,Breakfast
+Montenegro,Ulcinj,Ajvar with Bread,Roasted pepper relish served with fresh bread.,Appetizer,2,Snack
+Montenegro,Ulcinj,Lamb Chops,Grilled lamb chops seasoned with rosemary and garlic.,Main Dish,7,Dinner
+Montenegro,Ulcinj,Sogan Dolma,"Onions stuffed with minced meat and rice, baked in sauce.",Main Dish,6,Dinner
+Montenegro,Nikšić,Tafće na Grafće,"Baked butter beans with spices, a comforting dish.",Main Dish,5,Lunch
+Montenegro,Nikšić,Njeguški Prosciutto Platter,"Sliced prosciutto with cheese, olives, and figs.",Appetizer,6,Snack
+Montenegro,Nikšić,Roast Veal,"Slow-roasted veal with potatoes and carrots, a hearty meal.",Main Dish,8,Dinner
+Montenegro,Nikšić,Kukuruzni Kolač,"Cornmeal cake, slightly sweet and crumbly.",Dessert,2,Snack
+Montenegro,Nikšić,Pita sa Zeljem,Filo pie with wild greens and cheese.,Breakfast Dish,3,Breakfast
+Montenegro,Nikšić,Smoked Sausage,"Homemade sausage smoked over wood, served with bread.",Street Food,4,Snack
+Montenegro,Nikšić,Karadjordjeva Schnitzel,"Breaded veal roll stuffed with kajmak, fried until crispy.",Main Dish,8,Dinner
+Montenegro,Nikšić,Ruža Cake,"Layered cake with walnuts and cream, a local dessert.",Dessert,3,Snack
+Montenegro,Nikšić,Bean Soup,"Thick soup with white beans, smoked meat, and vegetables.",Main Dish,5,Dinner
+Montenegro,Nikšić,Fried Peppers,"Roasted peppers fried with garlic and oil, a simple side.",Appetizer,2,Lunch
+Cyprus,Nicosia,Souvlaki,"Grilled pork or chicken skewers, served with pita, tzatziki, and salad.",Street Food,5,Dinner
+Cyprus,Nicosia,Halloumi,"Grilled or fried squeaky cheese made from sheep and goat milk, served with bread.",Appetizer,4,Snack
+Cyprus,Nicosia,Sheftalia,Grilled sausages of minced pork or lamb wrapped in caul fat.,Main Dish,6,Dinner
+Cyprus,Nicosia,Koupepia,"Grape leaves stuffed with minced meat and rice, cooked in tomato sauce.",Main Dish,5,Lunch
+Cyprus,Nicosia,Tahini,"Sesame paste dip with garlic, lemon, and olive oil, served with pita.",Appetizer,3,Snack
+Cyprus,Nicosia,Loukoumades,Fried dough balls soaked in honey syrup and sprinkled with cinnamon.,Dessert,3,Snack
+Cyprus,Nicosia,Afelia,"Pork marinated in red wine and coriander seeds, slow-cooked until tender.",Main Dish,7,Dinner
+Cyprus,Nicosia,Tahinopita,"Sweet bread roll filled with tahini and sugar, baked until golden.",Breakfast Dish,2,Breakfast
+Cyprus,Nicosia,Kleftiko,"Slow-roasted lamb with garlic, lemon, and herbs, cooked in a sealed oven.",Main Dish,9,Dinner
+Cyprus,Nicosia,Hummus,"Chickpea dip with tahini, garlic, and lemon, served with pita.",Appetizer,3,Lunch
+Cyprus,Limassol,Meze,"A selection of small dishes including dips, grilled meats, and veggies.",Main Dish,10,Dinner
+Cyprus,Limassol,Pastitsio,Baked pasta layered with minced meat and béchamel sauce.,Main Dish,7,Lunch
+Cyprus,Limassol,Souvla,"Large chunks of lamb or pork grilled on a spit, served with pita.",Main Dish,8,Dinner
+Cyprus,Limassol,Flaounes,"Savory pastries filled with halloumi, raisins, and mint, traditionally for Easter.",Breakfast Dish,3,Breakfast
+Cyprus,Limassol,Loukoumi,"Soft, chewy sweets flavored with rosewater or mastic, dusted with powdered sugar.",Dessert,2,Snack
+Cyprus,Limassol,Moussaka,"Layers of eggplant, minced meat, and béchamel, baked until golden.",Main Dish,7,Dinner
+Cyprus,Limassol,Taramasalata,"Creamy fish roe dip with lemon and olive oil, served with bread.",Appetizer,4,Lunch
+Cyprus,Limassol,Daktyla,"Fried dough sticks filled with almonds or cinnamon, a sweet treat.",Dessert,3,Snack
+Cyprus,Limassol,Grilled Octopus,Tender octopus grilled with olive oil and lemon.,Main Dish,9,Dinner
+Cyprus,Limassol,Anari Cheese,"Soft, unsalted whey cheese, often drizzled with honey.",Breakfast Dish,3,Breakfast
+Cyprus,Larnaca,Kebab,Grilled minced meat (lamb or beef) served with pita and tzatziki.,Street Food,5,Dinner
+Cyprus,Larnaca,Stifado,"Beef or rabbit stew with red wine, onions, and spices, slow-cooked.",Main Dish,8,Dinner
+Cyprus,Larnaca,Baklava,"Layered filo pastry with nuts and honey syrup, a sweet classic.",Dessert,3,Snack
+Cyprus,Larnaca,Lountza,"Smoked pork loin, thinly sliced and often grilled, served with bread.",Appetizer,4,Snack
+Cyprus,Larnaca,Kolokasi,Taro root cooked with pork or chicken in a tomato and celery sauce.,Main Dish,7,Dinner
+Cyprus,Larnaca,Shakshuka,"Eggs poached in a spicy tomato and pepper sauce, served with bread.",Breakfast Dish,4,Breakfast
+Cyprus,Larnaca,Pide,"Flatbread topped with cheese, meat, or vegetables, baked until crispy.",Street Food,4,Lunch
+Cyprus,Larnaca,Galaktoboureko,"Custard-filled filo pastry soaked in syrup, served warm.",Dessert,3,Snack
+Cyprus,Larnaca,Fava,"Yellow split pea puree with olive oil and onions, a simple dip.",Appetizer,3,Lunch
+Cyprus,Larnaca,Fish Meze,A variety of grilled and fried fish with dips and sides.,Main Dish,12,Dinner
+Cyprus,Paphos,Koupes,Deep-fried bulgur shells stuffed with spiced minced meat and pine nuts.,Street Food,3,Snack
+Cyprus,Paphos,Macaronia Tou Fournou,Cypriot baked pasta with minced meat and béchamel sauce.,Main Dish,7,Lunch
+Cyprus,Paphos,Kattimeri,Thin pancakes filled with sugar and cinnamon or savory cheese.,Breakfast Dish,2,Breakfast
+Cyprus,Paphos,Ofton Kleftiko,Lamb shank slow-roasted with potatoes and herbs in parchment.,Main Dish,9,Dinner
+Cyprus,Paphos,Shiamishi,Fried dough layered with cream and soaked in syrup.,Dessert,3,Snack
+Cyprus,Paphos,Halloumi Salad,"Grilled halloumi with tomatoes, cucumbers, and olive oil.",Appetizer,5,Lunch
+Cyprus,Paphos,Tava,"Lamb or beef baked with tomatoes, onions, and potatoes in a clay pot.",Main Dish,8,Dinner
+Cyprus,Paphos,Pita with Gyro,"Pita bread stuffed with grilled pork or chicken, tzatziki, and veggies.",Street Food,5,Dinner
+Cyprus,Paphos,Kopiaste,"Dried figs stuffed with almonds, a traditional sweet.",Dessert,2,Snack
+Cyprus,Paphos,Grilled Sea Bream,Whole sea bream grilled with olive oil and lemon.,Main Dish,8,Dinner
+Cyprus,Famagusta,Bamies,"Okra stewed with tomatoes, onions, and lamb or chicken.",Main Dish,6,Dinner
+Cyprus,Famagusta,Pilafi Pourgouri,"Bulgur wheat cooked with tomatoes and onions, a rustic side.",Main Dish,4,Lunch
+Cyprus,Famagusta,Pastelli,"Carob and sesame seed brittle, a chewy traditional candy.",Dessert,2,Snack
+Cyprus,Famagusta,Keftedes,"Fried meatballs made with minced pork, breadcrumbs, and herbs.",Appetizer,4,Dinner
+Cyprus,Famagusta,Tsoureki,"Sweet braided bread with mahleb and mastic, often for holidays.",Breakfast Dish,3,Breakfast
+Cyprus,Famagusta,Lahmacun,Thin flatbread topped with spiced minced meat and baked.,Street Food,4,Lunch
+Cyprus,Famagusta,Zivania Cake,Sponge cake soaked with zivania (Cypriot grape spirit).,Dessert,3,Snack
+Cyprus,Famagusta,Red Mullet,"Small fish fried or grilled, served with lemon and parsley.",Main Dish,7,Dinner
+Cyprus,Famagusta,Yemista,Vegetables (peppers or tomatoes) stuffed with rice and herbs.,Main Dish,6,Lunch
+Cyprus,Famagusta,Anari with Honey,Soft whey cheese drizzled with local honey.,Dessert,3,Breakfast
+Cyprus,Kyrenia,Hellim Börek,"Filo pastry filled with halloumi cheese, fried or baked.",Breakfast Dish,3,Breakfast
+Cyprus,Kyrenia,Imam Bayildi,"Eggplant stuffed with tomatoes, onions, and garlic, braised in olive oil.",Main Dish,6,Dinner
+Cyprus,Kyrenia,Sucuk,Spicy sausage grilled and served with bread or eggs.,Appetizer,4,Snack
+Cyprus,Kyrenia,Katmer,"Layered pastry with cream or nuts, drizzled with syrup.",Dessert,3,Snack
+Cyprus,Kyrenia,Grilled Swordfish,Swordfish steak grilled with olive oil and herbs.,Main Dish,9,Dinner
+Cyprus,Kyrenia,Sigara Börek,"Cigar-shaped filo rolls filled with cheese or meat, fried.",Appetizer,3,Snack
+Cyprus,Kyrenia,Kleftiko Chicken,Chicken slow-roasted with potatoes and spices in a sealed pot.,Main Dish,7,Dinner
+Cyprus,Kyrenia,Pita with Halloumi,Warm pita stuffed with grilled halloumi and tomatoes.,Street Food,4,Lunch
+Cyprus,Kyrenia,Rosewater Pudding,Milk pudding flavored with rosewater and topped with pistachios.,Dessert,3,Snack
+Cyprus,Kyrenia,Fasolia Yiahni,White beans stewed with tomatoes and olive oil.,Main Dish,5,Lunch
+Cyprus,Troodos,Trout with Almonds,Fresh mountain trout pan-fried with almonds and lemon.,Main Dish,8,Dinner
+Cyprus,Troodos,Lountza Sandwich,Grilled smoked pork loin in pita with tomatoes and onions.,Street Food,4,Snack
+Cyprus,Troodos,Soutzoukos,Grape juice and almond candy shaped into long strings.,Dessert,2,Snack
+Cyprus,Troodos,Ravioles,"Pasta pockets filled with halloumi, served with grated cheese.",Main Dish,6,Lunch
+Cyprus,Troodos,Honey Bread,"Bread drizzled with mountain honey, a simple treat.",Breakfast Dish,2,Breakfast
+Cyprus,Troodos,Lamb Tava,Lamb baked with potatoes and tomatoes in a clay dish.,Main Dish,8,Dinner
+Cyprus,Troodos,Kourabiedes,Almond shortbread cookies dusted with powdered sugar.,Dessert,2,Snack
+Cyprus,Troodos,Oven Potatoes,"Potatoes roasted with lemon, garlic, and oregano.",Appetizer,3,Dinner
+Cyprus,Troodos,Kolokotes,"Triangular pastries filled with pumpkin, raisins, and bulgur.",Breakfast Dish,3,Breakfast
+Cyprus,Troodos,Rabbit Stew,"Rabbit cooked with onions, wine, and herbs, a mountain specialty.",Main Dish,8,Dinner
+Cyprus,Ayia Napa,Fish Souvlaki,"Skewered and grilled fish chunks, served with pita and tzatziki.",Street Food,6,Dinner
+Cyprus,Ayia Napa,Calamari,Fried squid rings served with lemon and tartar sauce.,Appetizer,5,Lunch
+Cyprus,Ayia Napa,Shish Kebab,Grilled lamb or beef skewers with vegetables.,Main Dish,7,Dinner
+Cyprus,Ayia Napa,Mahalepi,Rosewater-flavored cornstarch pudding with syrup.,Dessert,3,Snack
+Cyprus,Ayia Napa,Prawn Saganaki,"Prawns cooked in a tomato and feta sauce, served with bread.",Main Dish,9,Dinner
+Cyprus,Ayia Napa,Eggs with Lountza,Fried eggs with grilled smoked pork loin.,Breakfast Dish,4,Breakfast
+Cyprus,Ayia Napa,Seafood Pasta,"Pasta with shrimp, mussels, and a light garlic sauce.",Main Dish,8,Dinner
+Cyprus,Ayia Napa,Cypriot Salad,"Tomatoes, cucumbers, feta, olives, and oregano with olive oil.",Appetizer,4,Lunch
+Cyprus,Ayia Napa,Glyko Triantafyllo,Rose petal preserves served with a spoon.,Dessert,2,Snack
+Cyprus,Ayia Napa,Grilled Red Snapper,Whole snapper grilled with olive oil and herbs.,Main Dish,9,Dinner
+Cyprus,Protaras,Mullet Soup,"Thick soup with red mullet, vegetables, and lemon.",Main Dish,6,Dinner
+Cyprus,Protaras,Koupa,"Bulgur dumplings stuffed with minced meat, fried or boiled.",Street Food,3,Snack
+Cyprus,Protaras,Melomakarona,Honey-soaked cookies with walnuts and cinnamon.,Dessert,2,Snack
+Cyprus,Protaras,Halloumi Bread,Bread baked with chunks of halloumi cheese.,Breakfast Dish,3,Breakfast
+Cyprus,Protaras,Seafood Meze,Assorted grilled and fried seafood with dips.,Main Dish,12,Dinner
+Cyprus,Protaras,Feta Saganaki,Fried feta cheese drizzled with honey.,Appetizer,5,Snack
+Cyprus,Protaras,Grilled Prawns,Large prawns grilled with garlic and olive oil.,Main Dish,9,Dinner
+Cyprus,Protaras,Pumpkin Soup,"Creamy pumpkin soup with cinnamon, a seasonal dish.",Main Dish,5,Lunch
+Cyprus,Protaras,Smyrna Sausages,Spicy sausages grilled and served with pita.,Appetizer,4,Dinner
+Cyprus,Protaras,Karidopita,"Walnut cake soaked in syrup, a rich dessert.",Dessert,3,Snack
+Yemen,Sana’a,Saltah,"Stew of lamb or chicken with fenugreek foam (hulbah) and spiced broth, served with flatbread.",Main Dish,5,Lunch
+Yemen,Sana’a,Fahsa,"Lamb stew with spices and fenugreek, cooked in a clay pot, served with bread.",Main Dish,6,Dinner
+Yemen,Sana’a,Lahoh,Pancake-like bread drizzled with ghee and sugar or served with stew.,Breakfast Dish,2,Breakfast
+Yemen,Sana’a,Bint Al-Sahn,"Layered pastry with honey and nigella seeds, a sweet treat.",Dessert,3,Snack
+Yemen,Sana’a,Haneeth,"Slow-roasted lamb with hawaij spices, served over basmati rice.",Main Dish,8,Dinner
+Yemen,Sana’a,Shafoot,"Spicy yogurt sauce with tomatoes and chili, served cold with pita.",Appetizer,3,Snack
+Yemen,Sana’a,Maraq,"Lamb broth soup with lemon, a light starter.",Appetizer,2,Lunch
+Yemen,Sana’a,Foul Medames,"Mashed fava beans with garlic, cumin, and olive oil, served with bread.",Breakfast Dish,3,Breakfast
+Yemen,Sana’a,Malawach,Flaky pancake served with honey or savory toppings like egg.,Street Food,2,Snack
+Yemen,Sana’a,Asida,"Thick flour paste with broth or honey, scooped by hand.",Main Dish,4,Lunch
+Yemen,Aden,Sayadiyah,"Spiced fish (often mullet) with rice, a coastal specialty.",Main Dish,7,Dinner
+Yemen,Aden,Zurbian,"Saffron rice with lamb or chicken, similar to biryani.",Main Dish,8,Dinner
+Yemen,Aden,Matfaiya,Kingfish in a thick tomato sauce with vegetables.,Main Dish,7,Dinner
+Yemen,Aden,Mandi,Meat (lamb or chicken) and rice cooked in a tandoor with hawaij spices.,Main Dish,8,Dinner
+Yemen,Aden,Sambusa,Crispy pastries filled with spiced meat or lentils.,Street Food,2,Snack
+Yemen,Aden,Kubaneh,"Slow-baked bread with butter, often served with zhug.",Breakfast Dish,3,Breakfast
+Yemen,Aden,Fattout,"Bread crumbs soaked in meat broth and ghee, served hot.",Main Dish,4,Lunch
+Yemen,Aden,Zhug,Spicy green or red chili sauce with garlic and coriander.,Appetizer,1.5,Dinner
+Yemen,Aden,Basbousa,"Semolina cake soaked in syrup, topped with nuts.",Dessert,3,Snack
+Yemen,Aden,Ogda,Stew of meat and vegetables tied together with spices.,Main Dish,6,Dinner
+Yemen,Taiz,Harees,"Wheat and meat porridge, seasoned and mashed smooth.",Main Dish,5,Lunch
+Yemen,Taiz,Jachnun,"Rolled dough baked overnight, served with tomato and egg.",Breakfast Dish,3,Breakfast
+Yemen,Taiz,Tabeehk,"Vegetable stew with potatoes, okra, and hawaij spices, served with rice.",Main Dish,4,Dinner
+Yemen,Taiz,Martabak,"Stuffed fried pancake with meat or egg, a street favorite.",Street Food,3,Snack
+Yemen,Taiz,Shakshouka,Eggs poached in a spicy tomato and pepper sauce.,Breakfast Dish,4,Breakfast
+Yemen,Taiz,Komroh,Fava bean stew with garlic and ghee.,Main Dish,4,Lunch
+Yemen,Taiz,Mulawah,Layered bread served with honey or savory stew.,Street Food,2,Snack
+Yemen,Taiz,Tharid,Bread soaked in meat broth with spices.,Main Dish,5,Dinner
+Yemen,Taiz,Qishr,Coffee husk drink with ginger and cinnamon.,Dessert,2,Snack
+Yemen,Taiz,Kabsa,"Spiced rice with chicken or lamb, a communal dish.",Main Dish,7,Dinner
+Yemen,Hodeidah,Madfoun,"Meat buried under coals, served with rice.",Main Dish,8,Dinner
+Yemen,Hodeidah,Mashwi,Whole grilled fish with lemon and spices.,Main Dish,6,Dinner
+Yemen,Hodeidah,Samak Mofa,"Baked fish with hawaij spices, a coastal dish.",Main Dish,7,Dinner
+Yemen,Hodeidah,Khubz Tawa,"Flatbread baked on a griddle, served with dips.",Breakfast Dish,2,Breakfast
+Yemen,Hodeidah,Fatta,Bread soup with meat broth and vegetables.,Main Dish,4,Lunch
+Yemen,Hodeidah,Holba,Fenugreek paste served with stews or bread.,Appetizer,2,Dinner
+Yemen,Hodeidah,Lahoh with Curry,Pancake bread with a spicy meat curry.,Main Dish,5,Dinner
+Yemen,Hodeidah,Harid,Thick wheat groats with honey or ghee.,Dessert,3,Breakfast
+Yemen,Hodeidah,Nasuf,Thin porridge with sour milk and sahawiq.,Breakfast Dish,3,Breakfast
+Yemen,Hodeidah,Seltah Coastal,Fish-based saltah with coastal spices.,Main Dish,6,Lunch
+Kuwait,Kuwait City,Machboos,"Basmati rice with saffron, topped with chicken or lamb, served with dakoos sauce.",Main Dish,7,Dinner
+Kuwait,Kuwait City,Mutabbaq Samak,Zubaidi fish (pomfret) fried and served over spiced rice.,Main Dish,8,Dinner
+Kuwait,Kuwait City,Harees,"Wheat and meat porridge, mashed smooth with spices.",Main Dish,5,Lunch
+Kuwait,Kuwait City,Balaleet,Sweet saffron noodles with a savory omelette on top.,Breakfast Dish,3,Breakfast
+Kuwait,Kuwait City,Gers Ogaily,"Cake with eggs, cardamom, and saffron, served with tea.",Dessert,3,Snack
+Kuwait,Kuwait City,Khubz Irani,"Flatbread baked with sesame seeds, served with dips.",Breakfast Dish,2,Breakfast
+Kuwait,Kuwait City,Hummus,"Mashed chickpeas with tahini and olive oil, served with khubz.",Appetizer,3,Snack
+Kuwait,Kuwait City,Margoog,Lamb stew with vegetables and wheat dough.,Main Dish,6,Dinner
+Kuwait,Kuwait City,Lugaimat,Fried yeast dumplings with saffron syrup.,Dessert,2,Snack
+Kuwait,Kuwait City,Tashreeb,Flatbread soaked in meat or chicken stew.,Main Dish,5,Lunch
+Kuwait,Hawalli,Quozi,"Stuffed lamb with rice, nuts, and spices, slow-cooked.",Main Dish,9,Dinner
+Kuwait,Hawalli,Jireesh,Chunky wheat and meat stew with extra spices.,Main Dish,5,Dinner
+Kuwait,Hawalli,Murabyan,"Shrimp with spiced rice, turmeric, and dried lime.",Main Dish,8,Dinner
+Kuwait,Hawalli,Fatayer,"Bread stuffed with cheese, meat, or spinach.",Street Food,3,Snack
+Kuwait,Hawalli,Khabeesa,Sweet flour and oil pudding with saffron.,Dessert,3,Snack
+Kuwait,Hawalli,Biryani,"Spiced rice with chicken or lamb, layered and cooked.",Main Dish,7,Dinner
+Kuwait,Hawalli,Warak Enab,Grape leaves stuffed with rice and vegetables.,Appetizer,4,Lunch
+Kuwait,Hawalli,Kebabs,Grilled lamb or chicken skewers with khubz.,Street Food,5,Dinner
+Kuwait,Hawalli,Elba,Milk pudding with saffron and cardamom.,Dessert,3,Snack
+Kuwait,Hawalli,Hamour Grill,Grilled grouper with spices and lemon.,Main Dish,8,Dinner
+Kuwait,Salmiya,Maglooba,Upside-down rice cake with meat and vegetables.,Main Dish,7,Dinner
+Kuwait,Salmiya,Safi Fry,"Fried rabbitfish with spices, served with rice.",Main Dish,6,Dinner
+Kuwait,Salmiya,Zalabia,Fried dough swirls soaked in sugar syrup.,Dessert,2,Snack
+Kuwait,Salmiya,Bayth Elgitta,Fried cookie with ground nuts and powdered sugar.,Dessert,2,Snack
+Kuwait,Salmiya,Tashreeb Fish,Flatbread with fish stew and spices.,Main Dish,6,Lunch
+Kuwait,Salmiya,Falafel,"Fried chickpea balls with tahini, wrapped in khubz.",Street Food,3,Snack
+Kuwait,Salmiya,Mahyawa,Fermented fish sauce served with bread.,Appetizer,2,Dinner
+Kuwait,Salmiya,Sobaity Grill,Grilled sea bream with herbs and lemon.,Main Dish,7,Dinner
+Kuwait,Salmiya,Asida,Wheat flour dish with butter or honey.,Breakfast Dish,3,Breakfast
+Kuwait,Salmiya,Darabeel,Thin layered pastry with sugar and cardamom.,Dessert,3,Snack
+Kuwait,Farwaniya,Machboos Dakkus,Rice with meat and a thick tomato gravy.,Main Dish,7,Dinner
+Kuwait,Farwaniya,Mutabbaq,Stuffed fried pancake with fish or meat.,Street Food,4,Snack
+Kuwait,Farwaniya,Hammus with Khubz,Chickpea dip with flatbread and toppings.,Appetizer,3,Snack
+Kuwait,Farwaniya,Grilled Maid,Fried mulletfish with spices and rice.,Main Dish,6,Dinner
+Kuwait,Farwaniya,Sab Alqafsha,Fried dumplings with saffron and cardamom syrup.,Dessert,2,Snack
+Kuwait,Farwaniya,Tashreeb Chicken,Chicken stew over soaked flatbread.,Main Dish,5,Lunch
+Kuwait,Farwaniya,Prawn Biryani,Spiced rice with prawns and dried lime.,Main Dish,8,Dinner
+Kuwait,Farwaniya,Fatayer Leban,Bread stuffed with cream and sesame seeds.,Breakfast Dish,3,Breakfast
+Kuwait,Farwaniya,Kuwaiti Salad,"Tomatoes, cucumbers, and parsley with lemon dressing.",Appetizer,2,Lunch
+Kuwait,Farwaniya,Lamb Kebabs,Grilled lamb skewers with khubz and hummus.,Street Food,5,Dinner
+Kuwait,Jahra,Harees with Cinnamon,Wheat and meat porridge topped with cinnamon.,Main Dish,5,Lunch
+Kuwait,Jahra,Machboos Fish,Rice with fried fish and saffron spices.,Main Dish,7,Dinner
+Kuwait,Jahra,Balaleet Sweet,"Saffron noodles with sugar, no omelette.",Dessert,3,Snack
+Kuwait,Jahra,Margoog Eggplant,Lamb stew with eggplant and dough.,Main Dish,6,Dinner
+Kuwait,Jahra,Khubz with Mahyawa,Flatbread with fermented fish sauce.,Breakfast Dish,2,Breakfast
+Kuwait,Jahra,Murabyan Prawn,Prawns with turmeric rice and onions.,Main Dish,8,Dinner
+Kuwait,Jahra,Lugaimat with Honey,Fried dumplings drizzled with honey.,Dessert,2,Snack
+Kuwait,Jahra,Grilled Safi,Rabbitfish grilled with spices and lemon.,Main Dish,6,Dinner
+Kuwait,Jahra,Warak Enab Meat,Grape leaves with rice and meat.,Main Dish,5,Lunch
+Kuwait,Jahra,Kuwaiti Tea Cake,"Light cake with cardamom, served with tea.",Dessert,3,Snack
+Saudi Arabia,Riyadh,Kabsa,"Spiced rice with lamb or chicken, garnished with nuts and raisins.",Main Dish,8,Dinner
+Saudi Arabia,Riyadh,Harees,"Wheat and meat porridge, mashed smooth with ghee.",Main Dish,5,Lunch
+Saudi Arabia,Riyadh,Mutabbaq,"Stuffed flatbread with spiced meat or eggs, fried crisp.",Street Food,3,Snack
+Saudi Arabia,Riyadh,Jareesh,"Crushed wheat cooked with meat or yogurt, a rustic dish.",Main Dish,5,Lunch
+Saudi Arabia,Riyadh,Luqaimat,Fried dough balls drizzled with date syrup or honey.,Dessert,2,Snack
+Saudi Arabia,Riyadh,Tharid,Bread soaked in rich meat broth with spices.,Main Dish,6,Dinner
+Saudi Arabia,Riyadh,Qahwa with Dates,"Lightly roasted coffee with cardamom, served with dates.",Dessert,2,Snack
+Saudi Arabia,Riyadh,Shawarma,Marinated meat wrapped in flatbread with garlic sauce.,Street Food,3,Dinner
+Saudi Arabia,Riyadh,Kunafa,"Shredded pastry with cheese, soaked in syrup.",Dessert,4,Snack
+Saudi Arabia,Riyadh,Foul,"Mashed fava beans with olive oil and spices, served with bread.",Breakfast Dish,3,Breakfast
+Saudi Arabia,Jeddah,Mandi,Meat and rice steamed in a pit with smoky flavors.,Main Dish,9,Dinner
+Saudi Arabia,Jeddah,Saleeg,"Creamy rice with chicken broth, finished with milk.",Main Dish,6,Dinner
+Saudi Arabia,Jeddah,Sayadiyah,"Spiced fish (often mullet) with rice, a coastal dish.",Main Dish,7,Dinner
+Saudi Arabia,Jeddah,Basbousa,Semolina cake with rosewater syrup and almonds.,Dessert,3,Snack
+Saudi Arabia,Jeddah,Mutabbaq Seafood,"Flatbread stuffed with spiced fish or shrimp, fried.",Street Food,4,Snack
+Saudi Arabia,Jeddah,Sambosa,Crispy pastries filled with meat or cheese.,Street Food,2,Snack
+Saudi Arabia,Jeddah,Laban,"Tangy yogurt drink, refreshing and cool.",Dessert,2,Snack
+Saudi Arabia,Jeddah,Grilled Hamour,Grouper grilled with spices and lemon.,Main Dish,8,Dinner
+Saudi Arabia,Jeddah,Flaouna,"Bread with sesame seeds, served with savory toppings.",Breakfast Dish,3,Breakfast
+Saudi Arabia,Jeddah,Ma’amoul,Date-filled cookies dusted with powdered sugar.,Dessert,3,Snack
+Saudi Arabia,Mecca,Kabsa Chicken,"Spiced rice with tender chicken, a pilgrim favorite.",Main Dish,7,Dinner
+Saudi Arabia,Mecca,Harees with Cinnamon,Wheat and meat porridge topped with cinnamon.,Main Dish,5,Lunch
+Saudi Arabia,Mecca,Tharid Lamb,"Bread soaked in lamb broth, a historic dish.",Main Dish,6,Dinner
+Saudi Arabia,Mecca,Aseedah,Thick wheat paste with honey or broth.,Breakfast Dish,3,Breakfast
+Saudi Arabia,Mecca,Shorba,"Lentil or meat soup with spices, served warm.",Appetizer,3,Dinner
+Saudi Arabia,Mecca,Kunafa Nabulsia,"Cheese-filled kunafa with syrup, a sweet treat.",Dessert,4,Snack
+Saudi Arabia,Mecca,Tamees,Thick flatbread baked in a clay oven.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Mecca,Jallab,"Sweet drink of dates, grape molasses, and rosewater.",Dessert,2,Snack
+Saudi Arabia,Mecca,Shawarma Chicken,Thinly sliced chicken in flatbread with pickles.,Street Food,3,Dinner
+Saudi Arabia,Mecca,Hummus,"Chickpea dip with tahini, served with khubz.",Appetizer,3,Snack
+Saudi Arabia,Medina,Mandi Lamb,Slow-steamed lamb with rice and smoky spices.,Main Dish,9,Dinner
+Saudi Arabia,Medina,Saleeg Pigeon,Creamy rice with pigeon broth and ghee.,Main Dish,7,Dinner
+Saudi Arabia,Medina,Kabsa Camel,"Spiced rice with camel meat, a delicacy.",Main Dish,10,Dinner
+Saudi Arabia,Medina,Luqaimat with Honey,Fried dough balls soaked in honey.,Dessert,2,Snack
+Saudi Arabia,Medina,Khubz,Traditional flatbread baked fresh.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Medina,Foul with Tamees,Fava beans with thick bread and olive oil.,Breakfast Dish,3,Breakfast
+Saudi Arabia,Medina,Sahawiq,Spicy tomato-chili relish served with meals.,Appetizer,2,Dinner
+Saudi Arabia,Medina,Basbousa with Cream,Semolina cake with a cream layer.,Dessert,4,Snack
+Saudi Arabia,Medina,Grilled Chicken,"Chicken marinated with baharat, grilled on skewers.",Main Dish,6,Dinner
+Saudi Arabia,Medina,Dates with Almonds,"Dates stuffed with almonds, a simple sweet.",Dessert,2,Snack
+Saudi Arabia,Dammam,Machboos,Rice with meat (lamb or chicken) and Persian spices.,Main Dish,8,Dinner
+Saudi Arabia,Dammam,Sayadiyah Hamour,"Spiced grouper with rice, an Eastern Province dish.",Main Dish,8,Dinner
+Saudi Arabia,Dammam,Mutabbaq Fish,"Flatbread stuffed with spiced fish, fried.",Street Food,4,Snack
+Saudi Arabia,Dammam,Harees with Nuts,Wheat and meat porridge topped with pine nuts.,Main Dish,5,Lunch
+Saudi Arabia,Dammam,Baklava,Layered pastry with nuts and syrup.,Dessert,3,Snack
+Saudi Arabia,Dammam,Shrimp Machboos,Rice with spiced shrimp and dried lime.,Main Dish,9,Dinner
+Saudi Arabia,Dammam,Khubz Irani,Sesame flatbread served with dips.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Dammam,Sambosa Cheese,Crispy pastries filled with soft cheese.,Street Food,2,Snack
+Saudi Arabia,Dammam,Laban with Mint,Yogurt drink flavored with fresh mint.,Dessert,2,Snack
+Saudi Arabia,Dammam,Grilled Prawns,Large prawns grilled with garlic and spices.,Main Dish,9,Dinner
+Saudi Arabia,Al-Ahsa,Kabsa Goat,Spiced rice with tender goat meat.,Main Dish,8,Dinner
+Saudi Arabia,Al-Ahsa,Hassawi Rice,Red rice cooked with meat or vegetables.,Main Dish,7,Dinner
+Saudi Arabia,Al-Ahsa,Jareesh with Yogurt,Crushed wheat with tangy yogurt sauce.,Main Dish,5,Lunch
+Saudi Arabia,Al-Ahsa,Ma’amoul Pistachio,Cookies filled with pistachios and sugar.,Dessert,3,Snack
+Saudi Arabia,Al-Ahsa,Tamees with Honey,Thick bread drizzled with local honey.,Breakfast Dish,3,Breakfast
+Saudi Arabia,Al-Ahsa,Shorba Oat,Oat soup with meat broth and spices.,Appetizer,3,Dinner
+Saudi Arabia,Al-Ahsa,Luqaimat Date,Fried dough with date syrup topping.,Dessert,2,Snack
+Saudi Arabia,Al-Ahsa,Grilled Fish,Fresh Gulf fish with baharat spices.,Main Dish,7,Dinner
+Saudi Arabia,Al-Ahsa,Sambosa Lentil,Pastries filled with spiced lentils.,Street Food,2,Snack
+Saudi Arabia,Al-Ahsa,Foul with Chili,Spicy fava beans with bread.,Breakfast Dish,3,Breakfast
+Saudi Arabia,Tabuk,Kabsa with Raisins,Spiced rice with meat and sweet raisins.,Main Dish,8,Dinner
+Saudi Arabia,Tabuk,Harees Levantine,Wheat and meat porridge with Levantine spices.,Main Dish,5,Lunch
+Saudi Arabia,Tabuk,Mutabbaq Veggie,"Flatbread with spiced vegetables, fried.",Street Food,3,Snack
+Saudi Arabia,Tabuk,Tharid Chicken,Bread in chicken broth with herbs.,Main Dish,6,Dinner
+Saudi Arabia,Tabuk,Za’atar Bread,Flatbread topped with za’atar and olive oil.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Tabuk,Kunafa with Nuts,Shredded pastry with nut filling and syrup.,Dessert,4,Snack
+Saudi Arabia,Tabuk,Hummus with Khubz,Chickpea dip with fresh flatbread.,Appetizer,3,Snack
+Saudi Arabia,Tabuk,Grilled Lamb,Lamb skewers with baharat and garlic.,Main Dish,7,Dinner
+Saudi Arabia,Tabuk,Jallab with Nuts,Date and grape drink with pine nuts.,Dessert,2,Snack
+Saudi Arabia,Tabuk,Shakshouka,Eggs in spicy tomato sauce with bread.,Breakfast Dish,4,Breakfast
+Saudi Arabia,Abha,Mandi Goat,"Smoky goat meat with rice, a southern dish.",Main Dish,9,Dinner
+Saudi Arabia,Abha,Harees with Herbs,Wheat porridge with fresh mountain herbs.,Main Dish,5,Lunch
+Saudi Arabia,Abha,Aseedah Honey,"Wheat paste with honey, a sweet version.",Dessert,3,Breakfast
+Saudi Arabia,Abha,Jareesh with Broth,Crushed wheat in meat broth.,Main Dish,5,Dinner
+Saudi Arabia,Abha,Khubz Asiri,Thick bread baked with local spices.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Abha,Basbousa Rose,Semolina cake with rosewater syrup.,Dessert,3,Snack
+Saudi Arabia,Abha,Shorba Veggie,Vegetable soup with spices and lemon.,Appetizer,3,Dinner
+Saudi Arabia,Abha,Grilled Chicken Asir,"Chicken with Asir spice blend, grilled.",Main Dish,6,Dinner
+Saudi Arabia,Abha,Sambosa Meat,Pastries with spiced meat filling.,Street Food,2,Snack
+Saudi Arabia,Abha,Laban with Honey,Yogurt drink sweetened with honey.,Dessert,2,Snack
+Saudi Arabia,Jazan,Mandi Fish,"Smoky fish with rice, a coastal twist.",Main Dish,8,Dinner
+Saudi Arabia,Jazan,Sayadiyah Mullet,Spiced mullet fish with rice.,Main Dish,7,Dinner
+Saudi Arabia,Jazan,Aseedah Broth,Wheat paste with savory fish broth.,Main Dish,4,Lunch
+Saudi Arabia,Jazan,Luqaimat Saffron,Fried dough with saffron syrup.,Dessert,2,Snack
+Saudi Arabia,Jazan,Khubz Tawa,Griddle-baked flatbread with dips.,Breakfast Dish,2,Breakfast
+Saudi Arabia,Jazan,Sahawiq Fish,Spicy relish with fish dishes.,Appetizer,2,Dinner
+Saudi Arabia,Jazan,Grilled Prawns,Prawns with coastal spices and lemon.,Main Dish,9,Dinner
+Saudi Arabia,Jazan,Sambosa Veggie,Pastries with spiced vegetable filling.,Street Food,2,Snack
+Saudi Arabia,Jazan,Foul Coastal,Fava beans with coastal spices.,Breakfast Dish,3,Breakfast
+Saudi Arabia,Jazan,Ma’amoul Date,"Cookies filled with dates, a sweet bite.",Dessert,3,Snack
