@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refine Your Preferences</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="center-container">
+        <div class="preferences-box">
+            <h2>✨ Time to Refine!</h2>
+            <p>Based on your swipes, we think you might be interested in:</p>
+            <form action="{{ url_for('update_preferences') }}" method="POST">
+                <ul>
+                    {% for choice in choices %}
+                        <li>
+                            <input type="hidden" name="confirmed_tags" value="{{ choice }}">
+                            {{ choice }}
+                        </li>
+                    {% endfor %}
+                </ul>
+                <button type="submit" class="btn confirm-btn">Confirm & Keep Swiping</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
