@@ -1,53 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thank You!</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <style>
-        #confetti-canvas {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-        }
-    </style>
-</head>
+    </head>
 <body>
     <canvas id="confetti-canvas"></canvas>
     <div class="center-container">
         <div class="thank-you-box">
-            <h1>🎉 Thank You! 🎉</h1>
+            <h1>🎉 Thank You, {{ user_profile.name }}! 🎉</h1>
             <p>You've completed your swipe session.</p>
-            <p>Your preferences have been updated!</p>
+            
+            <p>Your final travel persona is:</p>
+            <h2>The {{ user_profile.persona }}</h2>
+            
             <a href="{{ url_for('home') }}" class="btn confirm-btn">Start Over</a>
         </div>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const myCanvas = document.getElementById('confetti-canvas');
-            const myConfetti = confetti.create(myCanvas, {
-                resize: true,
-                useWorker: true
-            });
-
-            function fireConfetti() {
-                myConfetti({
-                    particleCount: 150,
-                    spread: 180,
-                    origin: { y: 0.6 }
-                });
-            }
-
-            fireConfetti();
-            // Fire confetti every few seconds for a continuous effect
-            setInterval(fireConfetti, 3000);
-        });
-    </script>
-</body>
+    </body>
 </html>

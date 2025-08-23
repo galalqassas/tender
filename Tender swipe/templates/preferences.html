@@ -15,12 +15,12 @@
                 <ul>
                     {% for choice in choices %}
                         <li>
-                            <input type="hidden" name="confirmed_tags" value="{{ choice }}">
-                            {{ choice }}
+                            <input type="checkbox" name="confirmed_tags" value="{{ choice }}" id="{{ choice }}" checked>
+                            <label for="{{ choice }}">{{ choice }}</label>
                         </li>
                     {% endfor %}
                 </ul>
-                <button type="submit" class="btn confirm-btn">Confirm & Keep Swiping</button>
+                <button type="submit" class="btn confirm-btn">Add to My Interests</button>
             </form>
         </div>
     </div>

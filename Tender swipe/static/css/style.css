@@ -194,3 +194,27 @@ body {
 .confirm-btn:hover {
     background: #0056b3;
 }
+
+/* In static/css/style.css */
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-header {
+    text-align: center;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.persona-badge {
+    background-color: #ffc107;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 0.9em;
+    font-weight: 600;
+}

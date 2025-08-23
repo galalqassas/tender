@@ -11,33 +11,20 @@
         <div class="card">
             <div class="card-image" style="background-image: url('{{ card.image_url }}');">
                 <div class="card-title-overlay">
-                    <h1>
-                        {{ card.get('Activity') or card.get('Dish Name') or card.get('AccommodationName') or 'Unnamed Place' }}
-                    </h1>
-                    <h2>{{ card.get('City') }}, {{ card.get('Country') }}</h2>
+                    <h1>{{ card.get('city', 'Unknown City') }}</h1>
+                    <h2>{{ card.get('country', 'Unknown Country') }}</h2>
                 </div>
             </div>
             <div class="card-content">
-                <span class="card-type-badge">{{ card.type }}</span>
-                
-                {% if card.type == 'Activity' %}
-                    {% if card.get('CATEGORY') %}<p><strong>Category:</strong> {{ card.get('CATEGORY') }}</p>{% endif %}
-                    {% if card.get('For') %}<p><strong>Good For:</strong> {{ card.get('For') }}</p>{% endif %}
-                    {% if card.get('TypeOfTraveler') %}<p><strong>Traveler Type:</strong> {{ card.get('TypeOfTraveler') }}</p>{% endif %}
-                    {% if card.get('Budget (USD)') %}<p><strong>Avg Budget:</strong> ${{ card.get('Budget (USD)') }}</p>{% endif %}
-                {% elif card.type == 'Dish' %}
-                    {% if card.get('Type') %}<p><strong>Cuisine Type:</strong> {{ card.get('Type') }}</p>{% endif %}
-                    {% if card.get('BestFor') %}<p><strong>Best For:</strong> {{ card.get('BestFor') }}</p>{% endif %}
-                    {% if card.get('Avg Price (USD)') %}<p><strong>Avg Price:</strong> ${{ card.get('Avg Price (USD)') }}</p>{% endif %}
-                {% elif card.type == 'Accommodation' %}
-                    {% if card.get('Type') %}<p><strong>Accommodation Type:</strong> {{ card.get('Type') }}</p>{% endif %}
-                    {% if card.get('Avg Night Price (USD)') %}<p><strong>Avg Nightly Price:</strong> ${{ card.get('Avg Night Price (USD)') }}</p>{% endif %}
-                {% endif %}
-                
-                {% set description = card.get('Description') or card.get('Dish Details') or card.get('Accommodation Details') %}
-                {% if description %}
-                    <p class="description">{{ description }}</p>
-                {% endif %}
+                <span class="card-type-badge">Destination</span>
+                <p><strong>Top things to do:</strong></p>
+                <ul>
+                    {% for activity in card.get('activities', [])[:5] %}
+                        <li>{{ activity }}</li>
+                    {% else %}
+                        <li>No activities listed.</li>
+                    {% endfor %}
+                </ul>
             </div>
             <div class="card-actions">
                 <form action="{{ url_for('swipe') }}" method="POST" class="swipe-form">
